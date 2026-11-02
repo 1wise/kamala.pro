@@ -1,0 +1,145 @@
+[
+  {
+    "slug": "dine-navajo",
+    "region": "americas",
+    "title": "Diné / Navajo",
+    "area": "Southwestern North America",
+    "summary": "Hózhó, relationships and ceremonial knowledge.",
+    "description": "Diné traditions give their own language to balance, relationships and ceremonial life. The Canoncito Band of Navajos Health Center describes the work of Diné Hataalii and traditional practitioners in relation to hózhó. Their role is introduced through that community context, rather than renamed as a generic shamanic practice.",
+    "practices": ["Hózhó", "Hataalii", "Prayer and song"],
+    "method": "Begin with the community's public account. Record the Diné terms, speaker and context, and distinguish information shared for public learning from ceremonial knowledge that requires community permission.",
+    "sources": [{"title": "Canoncito Band of Navajos Health Center — Diné Traditional Practitioner Services", "url": "https://www.cbnhc.org/dine-traditional-ps"}, {"title": "Navajo Family Voices — Diné relationships and hózhó", "url": "https://navajofamilies.org/about/about-us/"}]
+  },
+  {
+    "slug": "karelian-finnic",
+    "region": "northern-europe",
+    "title": "Karelian & Finnic traditions",
+    "area": "Karelia and the Finnic cultural area",
+    "summary": "Tietäjä specialists, incantations and oral poetry.",
+    "description": "The tietäjä is a named ritual specialist in historical Finno-Karelian communities. Research on Viena Karelian incantations connects these specialists with oral poetry, protection and responsibilities within local society. This pathway retains the distinction between the tietäjä institution and other northern traditions.",
+    "practices": ["Tietäjä", "Incantation poetry", "Oral transmission"],
+    "method": "Choose a documented incantation or field record. Note its language, collector, performer, location and date. Keep the recorded words, translation and scholarly interpretation distinguishable.",
+    "sources": [{"title": "Tuukka Karlsson — Finno-Karelian ritual specialists and incantations, Incantatio", "url": "https://ojs.folklore.ee/incantatio/article/download/132/189/405"}]
+  },
+  {
+    "slug": "sami",
+    "region": "northern-europe",
+    "title": "Sámi traditions",
+    "area": "Sápmi, northern Europe",
+    "summary": "Noaidi, drums and the history of cultural heritage.",
+    "description": "Sámi traditions include the noaidi and ceremonial drums with their own regional names and histories. The Museum of European Cultures presents its Sámi collection alongside the effects of confiscation and imposed Christianization. Provenance and Sámi perspectives are central to reading these objects.",
+    "practices": ["Noaidi", "Ceremonial drums", "Heritage and provenance"],
+    "method": "Study a documented drum through its particular community, collection record and history. Attribute interpretations of signs to their source and include the circumstances of collection or return where documented.",
+    "sources": [{"title": "Museum of European Cultures — The Sámi Collection", "url": "https://www.smb.museum/en/museums-institutions/museum-europaeischer-kulturen/collections-research/collection/sami-collection/"}, {"title": "University of Lapland — Sámi drum and cultural heritage research", "url": "https://research.ulapland.fi/en/publications/the-disappearance-of-the-sacred-swedish-sami-drum-and-the-protect/"}]
+  },
+  {
+    "slug": "evenki",
+    "region": "siberia-inner-asia",
+    "title": "Evenki traditions",
+    "area": "Siberian taiga",
+    "summary": "Drums, regalia and relations with the surrounding world.",
+    "description": "Evenki material records include drum beaters, headdresses and regalia associated with ritual specialists. The Russian Museum of Ethnography documents particular objects from the Yenisei region. These records offer a situated introduction to Evenki traditions within the wider diversity of Siberia.",
+    "practices": ["Drum and beater", "Regalia", "Object provenance"],
+    "method": "Begin with one object and its recorded place, date and collector. Separate its physical description from the museum's account of its meaning, and seek Evenki accounts when extending the record.",
+    "sources": [{"title": "Russian Museum of Ethnography — Evenki shaman's vest", "url": "https://catalog.ethnomuseum.ru/entity/OBJECT/259559"}, {"title": "Illinois State Museum / Russian Museum of Ethnography — Siberian shamanism", "url": "https://museum.state.il.us/exhibits/changing/journey/shamanism.html"}]
+  },
+  {
+    "slug": "sakha",
+    "region": "siberia-inner-asia",
+    "title": "Sakha / Yakut traditions",
+    "area": "Sakha, northeastern Siberia",
+    "summary": "Oyuun, sound and the interpretation of museum displays.",
+    "description": "Sakha traditions have their own ritual vocabulary, including oyuun. Columbia's Facing the Mannequin project revisits a historical museum representation of a Sakha ceremony, explaining the drum, regalia and setting while bringing the display itself into question.",
+    "practices": ["Oyuun", "Drum and regalia", "Historical representation"],
+    "method": "Read the project's account alongside its historical setting. Distinguish the ceremony as described, the museum reconstruction and the voices interpreting it today.",
+    "sources": [{"title": "Columbia Center for Archaeology — Sakha Shaman: A Healing Ritual", "url": "https://archaeology.columbia.edu/facing-the-mannequin/sakha-shaman/"}]
+  },
+  {
+    "slug": "buryat",
+    "region": "siberia-inner-asia",
+    "title": "Buryat traditions",
+    "area": "Baikal region and adjoining Inner Asia",
+    "summary": "Sky, local religious histories and cultural exchange.",
+    "description": "Buryat traditions are approached through their particular religious history and exchanges with neighboring peoples. A contribution to the UNESCO-associated ICH Courier discusses Buryat ritual specialists in relation to the Eternal Blue Sky and interactions with Mongolian and Tungusic traditions.",
+    "practices": ["Sky and place", "Ritual specialists", "Cultural exchange"],
+    "method": "State the locality and historical period before comparing accounts. Preserve the terms and distinctions used by the author rather than assuming one uniform Siberian system.",
+    "sources": [{"title": "ICH Courier — Healing Rituals of Buryat Shamanism", "url": "https://ichcourier.unesco-ichcap.org/board.es?act=view&b_list=12&bid=A102&list_no=354&mid=a10101000000"}]
+  },
+  {
+    "slug": "tuvan",
+    "region": "siberia-inner-asia",
+    "title": "Tuvan traditions",
+    "area": "Tuva, southern Siberia",
+    "summary": "Sound, ritual specialists and a specific local repertoire.",
+    "description": "Field research in Tuva examines the organization of sound and music within shamanic practice. The pathway follows that research without treating all Tuvan throat singing as a ritual or all ritual sound as the same phenomenon.",
+    "practices": ["Ritual sound", "Local repertoire", "Field recordings"],
+    "method": "Identify the performer, occasion and source of a publicly available recording. Describe audible features first and attribute explanations of their ritual role to the practitioner or researcher.",
+    "sources": [{"title": "The New Research of Tuva — Structural organisation of shamanic rituals in Tuva", "url": "https://nit.tuva.asia/nit/en/article/view/713"}]
+  },
+  {
+    "slug": "mongolian",
+    "region": "siberia-inner-asia",
+    "title": "Mongolian steppe traditions",
+    "area": "Mongolia and the steppe",
+    "summary": "Sacred places, community ceremonies and transmission.",
+    "description": "Mongolian sacred-site practices connect community life with mountains, sky, earth and surrounding places. UNESCO documents their transmission through local elders, their suppression and efforts to safeguard them. Named practitioners and local settings remain important within this varied heritage.",
+    "practices": ["Sacred sites", "Ovoo", "Community transmission"],
+    "method": "Start with a named site and its community account. Record the source's explanation of participation and conduct. Distinguish the site's living practice from a general description of the steppe.",
+    "sources": [{"title": "UNESCO — Mongolian traditional practices of worshipping the sacred sites", "url": "https://ich.unesco.org/en/USL/mongolian-traditional-practices-of-worshipping-the-sacred-sites-00871"}]
+  },
+  {
+    "slug": "shipibo-konibo",
+    "region": "americas",
+    "title": "Shipibo-Konibo-Xetebo traditions",
+    "area": "Peruvian Amazon",
+    "summary": "Onanya knowledge, language and community authority.",
+    "description": "ASOMASHK, the association of Shipibo-Konibo-Xetebo ancestral practitioners, explicitly prefers onanya to the imported terms shaman and shamanism. This pathway follows that choice and introduces its public account of knowledge, transmission and the responsibilities of visitors.",
+    "practices": ["Onanya", "Community knowledge", "Language and transmission"],
+    "method": "Read the association's own statement before using an external category. Record the terms it chooses and the conditions under which knowledge is shared. This page introduces public sources rather than instructions for ceremonies or plant preparations.",
+    "sources": [{"title": "ASOMASHK — Our history and the term onanya", "url": "https://asomashk.org/nosotros/"}, {"title": "COSHIKOX — Culture, education and Shipibo knowledge", "url": "https://www.coshikox.pe/programas/cultura-educacion-y-conocimiento-shipibo/"}]
+  },
+  {
+    "slug": "yanomami",
+    "region": "americas",
+    "title": "Yanomami traditions",
+    "area": "Amazonian forest, Brazil and Venezuela",
+    "summary": "Xapuri, the living forest and Yanomami voices.",
+    "description": "Hutukara Associação Yanomami explains its name through Yanomami cosmology and the relationship with the living forest. Research publications made with Yanomami authors bring writing, drawing, song and accounts of ritual knowledge together in their own languages and forms.",
+    "practices": ["Xapuri knowledge", "Forest relationships", "Yanomami authorship"],
+    "method": "Begin with a Yanomami-authored or community-published account. Retain the speaker, language and place. Read translations alongside their explanations rather than substituting a universal vocabulary.",
+    "sources": [{"title": "Hutukara Associação Yanomami — The meaning of Hutukara", "url": "https://hutukarayanomami.org/hutukara/"}, {"title": "Hutukara / Instituto Socioambiental — Xapiri theã oni", "url": "https://acervo.socioambiental.org/index.php/acervo/publicacoes-isa/xapiri-thea-oni-palavras-escritas-sobre-os-xamas-yanomami"}]
+  },
+  {
+    "slug": "mapuche",
+    "region": "americas",
+    "title": "Mapuche traditions",
+    "area": "Wallmapu, southern South America",
+    "summary": "Machi, kultrun and relations with the land.",
+    "description": "Mapuche traditions retain their own names for knowledge, territory and ceremonial roles. The Museo Chileno de Arte Precolombino introduces machi and the kultrun within Mapuche cosmology, alongside historical change and the relationship with mapu, the land.",
+    "practices": ["Machi", "Kultrun", "Mapu"],
+    "method": "Name the source, community and context of an account or object. Read explanations of its signs through that context and keep the role of the machi distinct from a general category of ritual specialist.",
+    "sources": [{"title": "Museo Chileno de Arte Precolombino — Mapuche", "url": "https://museo.precolombino.cl/aprende/pueblos-culturas/pueblos-originarios/mapuche/"}]
+  },
+  {
+    "slug": "inuit",
+    "region": "arctic",
+    "title": "Inuit traditions",
+    "area": "Arctic North America and Greenland",
+    "summary": "Angakkuq and the context of historical records.",
+    "description": "Inuit communities have diverse regional histories and terms for ritual knowledge. The National Museum of Denmark records Niaqunguaq, a Netsilingmiut angakok, through material from the Fifth Thule Expedition. This named record provides an entry point while retaining the expedition's perspective and historical setting.",
+    "practices": ["Angakkuq", "Oral accounts", "Archive context"],
+    "method": "Identify the person, community, date and collector in the record. Distinguish the person's account from the collector's description and avoid extending a single Netsilingmiut record to all Inuit communities.",
+    "sources": [{"title": "National Museum of Denmark — Niaqunguaq, Netsilingmiut angakok", "url": "https://samlinger.natmus.dk/es/asset/225797"}]
+  },
+  {
+    "slug": "korean-jeju",
+    "region": "east-asia",
+    "title": "Korean traditions / Jeju",
+    "area": "Jeju Island, Republic of Korea",
+    "summary": "Simbang, seasonal rites and the sea.",
+    "description": "Jeju's Chilmeoridang Yeongdeunggut is a documented community ritual related to wind, the sea and seasonal livelihoods. UNESCO describes the roles of village ritual specialists and the community, including women divers and ship owners. It is one specific pathway within the diversity of Korean traditions.",
+    "practices": ["Simbang", "Yeongdeunggut", "Sea and seasons"],
+    "method": "Follow the account of this named ritual, its place and its participants. Record the calendar and community setting, keeping publicly documented performance distinct from instructions for reproducing the ceremony.",
+    "sources": [{"title": "UNESCO — Jeju Chilmeoridang Yeongdeunggut", "url": "https://ich.unesco.org/en/RL/jeju-chilmeoridang-yeongdeunggut-00187"}]
+  }
+]

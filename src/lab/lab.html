@@ -1,0 +1,223 @@
+<!-- Timestamp: 2026-10-31 | Version: 2.0.5 | Author & Credits: https://www.alawise.es/1-s -->
+<section class="page-hero lab-hero">
+  <div>
+    <a class="back-link" href="/apps/">KAMALA / LAB & CHANCE</a>
+    <div class="eyebrow">ENTROPY LAB / AN EXHIBITION OF POSSIBILITIES</div>
+    <h1>One source.<br>Many possibilities.</h1>
+    <p>Explore SSH key pairs, hexadecimal and other secret encodings, UUIDs, authenticator setups and ASCII seed art. Everything is generated locally in this tab.</p>
+  </div>
+  <div class="lab-local">
+    <span>LOCAL GENERATION</span>
+    <p>Cameras + browser randomness.<br>No keys sent to a server.<br>No saved session or history.</p>
+    <a class="text-link" data-online-only href="/assets/keys-lab.html" download>Download all tools in one portable HTML ↗</a>
+  </div>
+</section>
+
+<section class="section lab-shell" data-keys-lab>
+  <div class="lab-blocked" data-unsupported hidden role="alert">Key generation needs a current browser and HTTPS. The downloaded offline HTML can also be opened directly in a supported browser.</div>
+  <nav class="lab-tabs" aria-label="Local tools">
+    <a href="#ssh-keys">01 / SSH key pair</a>
+    <a href="#random-secrets">02 / Secrets &amp; encodings</a>
+    <a href="#totp-setup">03 / TOTP authenticator</a>
+    <a href="#seed-art">04 / Random seed ASCII art</a>
+    <a href="/techniques/entropy-streams/#experiment">Camera experiment ↗</a>
+  </nav>
+
+  <section class="lab-panel lab-source" aria-labelledby="source-title">
+    <span class="eyebrow">SHARED LABORATORY SOURCE</span>
+    <h2 id="source-title">Cameras + browser.</h2>
+    <div class="lab-controls">
+      <label>Sample source
+        <select data-lab-source>
+          <option value="auto">Camera mix · one source per generation</option>
+          <option value="cam1">Camera 1</option>
+          <option value="cam2">Camera 2</option>
+          <option value="cam3">Camera 3</option>
+          <option value="cam4">Microscope / Camera 4</option>
+          <option value="browser">Browser only · works offline</option>
+        </select>
+      </label>
+      <label class="lab-checkbox"><input type="checkbox" data-camera-required checked> Require a camera sample</label>
+      <label>Download filename prefix · optional
+        <input data-file-label type="text" maxlength="32" pattern="[A-Za-z0-9_-]{1,32}" autocomplete="off" spellcheck="false" placeholder="e.g. server-1">
+      </label>
+    </div>
+    <p class="quiet-note">Every generator uses the same sampler as dice, coins, cards and runes. Each generation asks for a fresh sample. Browser randomness is always included. Requiring a camera stops generation when no image is available; unchecking it allows a labeled fallback.</p>
+    <p class="lab-provenance" data-source-status role="status" aria-live="polite">Ready. A fresh sample is requested for each generation.</p>
+    <p class="quiet-note">The portable HTML reads the same public sampler at www.kamala.pro. Browser only works without a network connection.</p>
+  </section>
+
+  <div class="lab-status" data-lab-status role="status" aria-live="polite">Ready. Choose a tool below.</div>
+
+  <section class="lab-panel" id="ssh-keys" aria-labelledby="ssh-title">
+    <div class="lab-heading">
+      <div><span class="eyebrow">01 / SSH KEY PAIR</span><h2 id="ssh-title">Generate an SSH key pair.</h2></div>
+      <button type="button" class="reset" data-clear>Clear this session</button>
+    </div>
+    <div class="lab-controls">
+      <label>Key type
+        <select data-key-type>
+          <option value="ed25519">Ed25519 · recommended</option>
+          <option value="rsa3072">RSA · 3072 bits</option>
+          <option value="rsa4096">RSA · 4096 bits</option>
+        </select>
+      </label>
+      <label>Public comment<input data-key-comment maxlength="64" value="kamala" autocomplete="off" spellcheck="false"></label>
+      <button class="button" type="button" data-generate-key>Generate key pair ↗</button>
+    </div>
+    <p class="quiet-note">A new generation replaces the current pair. Download the private key before starting another pair.</p>
+    <div data-key-result hidden>
+      <div class="lab-fingerprint"><span data-key-label></span><code data-fingerprint></code><small class="lab-provenance" data-key-source></small></div>
+      <div class="lab-output-grid">
+        <div>
+          <label>Public format
+            <select data-public-format>
+              <option value="ssh">OpenSSH · authorized_keys / .pub</option>
+              <option value="pem">SPKI PEM · .public.pem</option>
+              <option value="jwk">Public JWK · JSON</option>
+            </select>
+          </label>
+          <label>Public key<textarea data-public-output readonly rows="5" spellcheck="false"></textarea></label>
+          <div class="lab-actions">
+            <button type="button" data-download-public>Download public key</button>
+            <button type="button" data-copy-public>Copy public key</button>
+          </div>
+        </div>
+        <figure class="lab-qr-box">
+          <canvas data-qr="key" aria-label="QR code for the selected public key format"></canvas>
+          <figcaption>PUBLIC KEY / SELECTED FORMAT</figcaption>
+          <div class="lab-actions">
+            <button type="button" data-save-qr="key" data-qr-format="png">Download PNG</button>
+            <button type="button" data-save-qr="key" data-qr-format="svg">Download SVG</button>
+          </div>
+        </figure>
+      </div>
+      <div class="lab-private">
+        <span class="eyebrow">PRIVATE KEY</span>
+        <p>The private key is exported directly to a file and is never displayed on the page.</p>
+        <div class="lab-controls">
+          <label>Private format
+            <select data-private-format>
+              <option value="openssh">OpenSSH · recommended for SSH</option>
+              <option value="pkcs8">PKCS#8 PEM · applications and libraries</option>
+            </select>
+          </label>
+          <label class="lab-checkbox"><input type="checkbox" data-protect checked> Protect with a passphrase</label>
+          <label data-passphrase-label>Passphrase · at least 12 characters<input type="password" data-passphrase minlength="12" maxlength="1024" autocomplete="new-password"></label>
+          <button class="button" type="button" data-download-private>Download private key ↗</button>
+        </div>
+        <p class="quiet-note" data-private-note>Keep the passphrase separately from the private key.</p>
+      </div>
+      <details class="lab-help">
+        <summary>Which file goes where?</summary>
+        <p><strong>The public .pub file</strong> goes to the server or service account. <strong>The private file</strong> stays on the computer used to connect. Both files belong to the same fingerprint.</p>
+        <p>For SSH, choose OpenSSH for both files. Place them in the SSH directory, restrict the private file and install only the public key on an authorized server. Replace USER@HOST with the intended account and host.</p>
+        <pre data-ssh-help></pre>
+        <p>PEM and JWK exports are for applications that request those containers.</p>
+      </details>
+    </div>
+  </section>
+
+  <section class="lab-panel" id="random-secrets" aria-labelledby="secrets-title">
+    <div class="lab-heading">
+      <div><span class="eyebrow">02 / RANDOM SECRETS &amp; ENCODINGS</span><h2 id="secrets-title">One value, several representations.</h2></div>
+    </div>
+    <p>Create random bytes and explore how the same value looks as hexadecimal, Base64, Base64url or Base32. UUID v4 is also available as a separate identifier format.</p>
+    <div class="lab-controls">
+      <label>Random bytes
+        <select data-secret-bytes>
+          <option value="16">16 bytes · 128 bits</option>
+          <option value="32" selected>32 bytes · 256 bits</option>
+          <option value="64">64 bytes · 512 bits</option>
+          <option value="128">128 bytes · 1024 bits</option>
+        </select>
+      </label>
+      <label>Output format
+        <select data-secret-format>
+          <option value="hex">Hexadecimal</option>
+          <option value="base64">Base64</option>
+          <option value="base64url">Base64url · URL-safe token</option>
+          <option value="base32">Base32</option>
+          <option value="uuid">UUID v4 · 122 random bits</option>
+        </select>
+      </label>
+      <button class="button" type="button" data-generate-secret>Generate random value ↗</button>
+    </div>
+    <p class="quiet-note">Changing between encodings keeps the same bytes. Switching to or from UUID requires a new generation; its version and variant leave 122 random bits. Encoding changes the representation, not the amount of randomness.</p>
+    <div data-secret-result hidden>
+      <p class="lab-provenance" data-secret-source></p>
+      <label>Generated value<textarea data-secret-output readonly rows="3" spellcheck="false"></textarea></label>
+      <div class="lab-actions">
+        <button type="button" data-download-secret>Download text</button>
+        <button type="button" data-copy-secret>Copy value</button>
+        <button type="button" data-show-secret-qr>Show secret QR</button>
+      </div>
+      <figure class="lab-qr-box lab-secret-qr" data-secret-qr-box hidden>
+        <canvas data-qr="secret" aria-label="QR containing the generated secret"></canvas>
+        <figcaption>SECRET / SCANNING SHARES THIS VALUE</figcaption>
+        <div class="lab-actions">
+          <button type="button" data-save-qr="secret" data-qr-format="png">Download PNG</button>
+          <button type="button" data-save-qr="secret" data-qr-format="svg">Download SVG</button>
+        </div>
+      </figure>
+    </div>
+  </section>
+
+  <section class="lab-panel" id="totp-setup" aria-labelledby="otp-title">
+    <div class="lab-heading">
+      <div><span class="eyebrow">03 / AUTHENTICATOR SETUP</span><h2 id="otp-title">Explore a TOTP setup.</h2></div>
+    </div>
+    <p>Create a new shared secret and QR for an authenticator. The target service must accept that same setup secret before the displayed codes can be used to sign in.</p>
+    <div class="lab-controls">
+      <label>Issuer<input data-otp-issuer value="kamala.pro" maxlength="48" autocomplete="off"></label>
+      <label>Account label<input data-otp-account placeholder="account name" maxlength="80" autocomplete="off"></label>
+      <button type="button" class="button" data-generate-otp>Create TOTP setup ↗</button>
+    </div>
+    <div data-otp-result hidden>
+      <p class="lab-provenance" data-otp-source></p>
+      <div class="lab-output-grid">
+        <div>
+          <label>Base32 setup secret<textarea data-otp-secret readonly rows="2" spellcheck="false"></textarea></label>
+          <p class="quiet-note">HMAC-SHA1 · 6 digits · 30 seconds · device clock. Keep a recovery copy before enabling two-factor authentication in the target service.</p>
+          <div class="lab-otp-code"><code data-otp-code>------</code><span data-otp-time></span></div>
+          <div class="lab-actions">
+            <button type="button" data-download-otp>Download setup text</button>
+            <button type="button" data-copy-otp>Copy setup secret</button>
+          </div>
+        </div>
+        <figure class="lab-qr-box">
+          <canvas data-qr="otp" aria-label="Authenticator setup QR containing the TOTP secret"></canvas>
+          <figcaption>SETUP SECRET / KEEP PRIVATE</figcaption>
+          <div class="lab-actions">
+            <button type="button" data-save-qr="otp" data-qr-format="png">Download PNG</button>
+            <button type="button" data-save-qr="otp" data-qr-format="svg">Download SVG</button>
+          </div>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="lab-panel" id="seed-art" aria-labelledby="seed-art-title">
+    <div class="lab-heading">
+      <div><span class="eyebrow">04 / RANDOM SEED ASCII ART</span><h2 id="seed-art-title">Make a random seed artwork.</h2></div>
+    </div>
+    <p>This creates a separate random pattern from a fresh sample. It does not reveal or reuse the private seed of an SSH key.</p>
+    <div class="lab-controls"><button class="button" type="button" data-generate-seed-art>Generate seed ASCII art ↗</button></div>
+    <div data-seed-art-result hidden>
+      <p class="lab-provenance" data-seed-art-source></p>
+      <pre class="lab-seed-art" data-seed-art tabindex="0" aria-label="Random seed represented as ASCII art"></pre>
+      <div class="lab-actions">
+        <button type="button" data-download-seed-art>Download ASCII art</button>
+        <button type="button" data-copy-seed-art>Copy ASCII art</button>
+      </div>
+    </div>
+  </section>
+
+  <details class="lab-method">
+    <summary>Generation and privacy details</summary>
+    <p>Key pairs, secrets, TOTP setups and artwork each ask for a fresh sample from the shared camera, server and browser source. Browser cryptographic randomness is added. Ed25519 derives its pair from mixed bytes; RSA prime candidates use the same byte provider. Public or repeated camera images do not replace local cryptographic randomness, and no physical entropy rate has been established for the cameras. The ASCII artwork comes from an independent sample and never displays a key's private seed.</p>
+    <p>There are no analytics or persistent browser storage in this workspace. The SSH QR contains the public key. Secret and TOTP QR codes contain their labeled secret values and transfer them when scanned. Private SSH keys download as files. Clear removes displayed values and releases session references; downloaded files and clipboard contents remain under browser and operating-system control. JavaScript cannot guarantee removal of every memory copy. The portable download includes all four tools and makes only a credential-free request for the shared public sample.</p>
+    <p><a href="/assets/lab-licenses.txt" data-online-only>Bundled library notices ↗</a></p>
+  </details>
+  <noscript>Enable JavaScript to use the local key, secret, TOTP and seed artwork tools.</noscript>
+</section>

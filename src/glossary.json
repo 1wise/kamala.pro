@@ -1,0 +1,2165 @@
+{
+  "timestamp": "2026-10-30",
+  "version": "2.0.0",
+  "credits": "https://www.alawise.es/1-s",
+  "entries": [
+    {
+      "slug": "remote-viewing",
+      "title": "Remote viewing",
+      "title_es": "Visión remota",
+      "scale": "human",
+      "secondary_scales": [],
+      "symbol": "◉",
+      "family": "Inner perception & dreams",
+      "definition": "A target-based practice in which a person records impressions of a concealed or distant scene for later comparison.",
+      "context": "The term became prominent in twentieth-century parapsychology and government-funded research. Published protocols and their assessments disagree about interpretation; an impression remains a report until compared under a defined procedure.",
+      "method": [
+        "Assign a target identifier without revealing its image or description.",
+        "Date the complete written or drawn impressions before opening the target.",
+        "Compare the record with the target and decoys using a rule chosen in advance; retain misses as well as matches."
+      ],
+      "photo": [
+        "Send an uncropped scan of the dated impressions, with personal identifiers covered.",
+        "Include the target identifier and reveal image separately, explaining when each was made."
+      ],
+      "related": [
+        "clairvoyance"
+      ],
+      "lexicon": [
+        {
+          "term": "Remote viewing",
+          "term_es": "Visión remota",
+          "definition": "Recording impressions of a target withheld from the participant, then comparing the complete record with the target."
+        }
+      ],
+      "sources": [
+        {
+          "title": "CIA — Remote-viewing program and evaluation history",
+          "url": "https://www.cia.gov/stories/story/ask-molly-did-cia-really-study-psychic-powers"
+        },
+        {
+          "title": "SRI archival report — Blind differential judging procedures",
+          "url": "https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000100060001-6.pdf"
+        }
+      ],
+      "summary_original": "A named target protocol often grouped with clairvoyance; compare complete impressions against concealed targets."
+    },
+    {
+      "slug": "precognition-presentiment",
+      "title": "Precognition & presentiment",
+      "title_es": "Precognición y presentimiento",
+      "scale": "human",
+      "secondary_scales": [],
+      "symbol": "◉",
+      "family": "Inner perception & dreams",
+      "definition": "Accounts interpreted as anticipating a later event, through a specific impression or a more general feeling.",
+      "context": "Parapsychological usage distinguishes a described future event from an anticipatory feeling. Dated records and predetermined comparisons help separate the original statement from later reinterpretation.",
+      "method": [
+        "Write the impression and its intended time window before the event.",
+        "Record the original wording without updating it after an outcome.",
+        "Compare all dated entries with later events, noting coincidences, broad matches and nonmatches."
+      ],
+      "photo": [
+        "Provide a readable image of the original dated entry.",
+        "Add a separate outcome record with its source and time; redact private information."
+      ],
+      "related": [
+        "clairvoyance",
+        "lucid-dreaming"
+      ],
+      "lexicon": [
+        {
+          "term": "Precognition",
+          "term_es": "Precognición",
+          "definition": "A reported impression or image interpreted as information about an event that has not yet occurred."
+        },
+        {
+          "term": "Presentiment",
+          "term_es": "Presentimiento",
+          "definition": "An anticipatory feeling interpreted as relating to a later event, often without a specific scene or prediction."
+        }
+      ],
+      "sources": [
+        {
+          "title": "APA Dictionary — Precognition",
+          "url": "https://dictionary.apa.org/precognition"
+        },
+        {
+          "title": "APA Dictionary — Extrasensory perception",
+          "url": "https://dictionary.apa.org/extrasensory-perception"
+        }
+      ],
+      "summary_original": "Reports interpreted as anticipating later events; retain dated records before any outcome is known."
+    },
+    {
+      "slug": "retrocognition",
+      "title": "Retrocognition",
+      "title_es": "Retrocognición",
+      "scale": "human",
+      "secondary_scales": [],
+      "symbol": "◉",
+      "family": "Inner perception & dreams",
+      "definition": "Impressions interpreted as referring to past events that the person reports not knowing beforehand.",
+      "context": "The term belongs to parapsychological vocabulary. Prior knowledge, suggestive descriptions and access to historical information affect how a later comparison can be interpreted.",
+      "method": [
+        "Choose a historical target with an independently documented answer.",
+        "List prior knowledge and record impressions before opening the source.",
+        "Compare the full account with the archive and retain the original and the comparison separately."
+      ],
+      "photo": [
+        "Send the dated original notes or drawing.",
+        "Include the archival reference and a permitted image of the comparison material."
+      ],
+      "related": [
+        "clairvoyance",
+        "tracking"
+      ],
+      "lexicon": [
+        {
+          "term": "Retrocognition",
+          "term_es": "Retrocognición",
+          "definition": "A reported experience interpreted as knowledge of an earlier event through means beyond ordinary recollection or inference."
+        },
+        {
+          "term": "Postcognition",
+          "term_es": "Postcognición",
+          "definition": "An alternative term for retrocognition."
+        }
+      ],
+      "sources": [
+        {
+          "title": "APA Dictionary — Retrocognition",
+          "url": "https://dictionary.apa.org/retrocognition"
+        }
+      ],
+      "summary_original": "Impressions interpreted as referring to past events; separate prior knowledge from later checks."
+    },
+    {
+      "slug": "telepathy",
+      "title": "Telepathy",
+      "title_es": "Telepatía",
+      "scale": "human",
+      "secondary_scales": [],
+      "symbol": "◉",
+      "family": "Inner perception & dreams",
+      "definition": "Reports interpreted as information passing between people without an identified ordinary sensory channel.",
+      "context": "Telepathy is a term in parapsychology rather than a demonstrated communication service. Records are more useful when participants cannot exchange visual, verbal or timing clues during a trial.",
+      "method": [
+        "Agree on target choices and scoring before beginning.",
+        "Keep the sender and receiver records separate and timestamped.",
+        "Reveal targets only after both records are complete, and compare every trial."
+      ],
+      "photo": [
+        "Send the target list and receiver sheet as separate legible images.",
+        "Remove names, contact details and unrelated conversations from the record."
+      ],
+      "related": [
+        "clairvoyance",
+        "contemplative-observation"
+      ],
+      "lexicon": [
+        {
+          "term": "Telepathy",
+          "term_es": "Telepatía",
+          "definition": "A claimed transfer of thoughts or impressions between minds without an ordinary sensory explanation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "APA Dictionary — Extrasensory perception",
+          "url": "https://dictionary.apa.org/extrasensory-perception"
+        },
+        {
+          "title": "SRI archival report — Blind differential judging procedures",
+          "url": "https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000100060001-6.pdf"
+        }
+      ],
+      "summary_original": "Reports of apparent person-to-person information transfer; distinguish an impression from a demonstrated communication channel."
+    },
+    {
+      "slug": "psychometry",
+      "title": "Psychometry",
+      "title_es": "Psicometría de objetos",
+      "scale": "human",
+      "secondary_scales": [
+        "hand"
+      ],
+      "symbol": "◉",
+      "family": "Inner perception & dreams",
+      "definition": "A practice in which impressions about an object or its associations are recorded while holding or observing it.",
+      "context": "Here psychometry has its parapsychological meaning, distinct from psychometrics and psychological measurement. Nineteenth-century accounts are historical testimony to the practice and its claims.",
+      "method": [
+        "Have an object selected without sharing its history.",
+        "Record sensations, images and guesses before asking for provenance.",
+        "Compare the complete record with documented information, keeping known clues visible in the account."
+      ],
+      "photo": [
+        "Photograph the whole object against a plain background and add a close view of its surface.",
+        "Send the impressions and provenance as separate records, with ownership details redacted."
+      ],
+      "related": [
+        "clairvoyance",
+        "handreading"
+      ],
+      "lexicon": [
+        {
+          "term": "Psychometry",
+          "term_es": "Psicometría de objetos",
+          "definition": "Reported impressions about an object’s history or associations, attributed by practitioners to contact with the object."
+        },
+        {
+          "term": "Psychometrics",
+          "term_es": "Psicometría psicológica",
+          "definition": "The measurement of psychological characteristics; a separate meaning of a similar word."
+        }
+      ],
+      "sources": [
+        {
+          "title": "APA Dictionary — Psychometry",
+          "url": "https://dictionary.apa.org/psychometry"
+        },
+        {
+          "title": "Wellcome Collection — Denton, The Soul of Things (1871)",
+          "url": "https://wellcomecollection.org/works/ca3b8mtv"
+        }
+      ],
+      "summary_original": "Impressions associated with handling an object; record them before learning its provenance."
+    },
+    {
+      "slug": "clairaudience-clairsentience",
+      "title": "Clairaudience & clairsentience",
+      "title_es": "Clariaudiencia y clarisentiencia",
+      "scale": "human",
+      "secondary_scales": [],
+      "symbol": "◉",
+      "family": "Inner perception & dreams",
+      "definition": "Terms used for experiences interpreted as intuitive hearing or feeling, often described as internal impressions.",
+      "context": "These words have varying meanings in spiritual and parapsychological writing. This entry documents the reported sensory quality and the interpretation offered by its source, without treating the experience as an independently verified message.",
+      "method": [
+        "Describe the experience in ordinary sensory words before giving it an interpretation.",
+        "Note the setting, time, external sounds and relevant prior expectations.",
+        "Retain an unedited account and any later comparisons as separate records."
+      ],
+      "photo": [
+        "Submit a dated transcription or drawing of the experience.",
+        "If sound is relevant, describe the recording and its context; a photograph cannot establish an unheard source."
+      ],
+      "related": [
+        "clairvoyance",
+        "kinesthesia"
+      ],
+      "lexicon": [
+        {
+          "term": "Clairaudience",
+          "term_es": "Clariaudiencia",
+          "definition": "An experience interpreted as hearing information beyond an identified ordinary auditory source."
+        },
+        {
+          "term": "Clairsentience",
+          "term_es": "Clarisentiencia",
+          "definition": "A feeling or bodily impression interpreted as intuitive information; usage varies by practitioner."
+        }
+      ],
+      "sources": [
+        {
+          "title": "APA Dictionary — Clairaudience",
+          "url": "https://dictionary.apa.org/clairaudience"
+        },
+        {
+          "title": "APA Dictionary — Extrasensory perception",
+          "url": "https://dictionary.apa.org/extrasensory-perception"
+        }
+      ],
+      "summary_original": "Subjective experiences described as inner hearing or feeling; terms and interpretations vary."
+    },
+    {
+      "slug": "oneiromancy",
+      "title": "Oneiromancy",
+      "title_es": "Oniromancia",
+      "scale": "human",
+      "secondary_scales": [],
+      "symbol": "◉",
+      "family": "Inner perception & dreams",
+      "definition": "The interpretation of dreams as symbolic signs or omens within a named cultural or personal framework.",
+      "context": "Dream interpretation has distinct literary, religious and psychological histories. Artemidorus is one surviving ancient author; his correspondences describe his setting rather than a universal dictionary for every dreamer.",
+      "method": [
+        "Record the dream on waking before consulting a symbol list.",
+        "Separate remembered scenes from later additions and personal associations.",
+        "Name the interpretive source and keep alternative readings alongside the original dream."
+      ],
+      "photo": [
+        "Send a legible scan of the dream record or a drawing of its main scene.",
+        "Keep the original dream and the requested interpretation question clearly separated."
+      ],
+      "related": [
+        "lucid-dreaming"
+      ],
+      "lexicon": [
+        {
+          "term": "Oneiromancy",
+          "term_es": "Oniromancia",
+          "definition": "Divinatory or symbolic interpretation of dreams."
+        },
+        {
+          "term": "Dream interpretation",
+          "term_es": "Interpretación de sueños",
+          "definition": "Assigning or exploring meanings in a dream through a stated framework."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wellcome Collection — Artemidorus, The Interpretation of Dreams",
+          "url": "https://wellcomecollection.org/works/jwyazwbg"
+        }
+      ],
+      "summary_original": "Symbolic dream interpretation; related to dreams, with a different aim from recognizing a lucid dream."
+    },
+    {
+      "slug": "dream-incubation",
+      "title": "Dream incubation",
+      "title_es": "Incubación de sueños",
+      "scale": "human",
+      "secondary_scales": [],
+      "symbol": "◉",
+      "family": "Inner perception & dreams",
+      "definition": "Preparing a question, theme or intention before sleep and recording what is recalled afterward.",
+      "context": "Historical incubation includes particular ritual settings, while modern dream research also studies targeted suggestions around sleep. These contexts have different purposes and methods.",
+      "method": [
+        "Write a short intention before an ordinary night of sleep.",
+        "Record the recalled dream on waking without checking the intention first.",
+        "Compare themes afterward and note nights with no recall as well as apparent connections."
+      ],
+      "photo": [
+        "Provide separate dated images of the intention and waking report.",
+        "A sketch is welcome; indicate which elements were recalled and which were added later."
+      ],
+      "related": [
+        "lucid-dreaming",
+        "contemplative-observation"
+      ],
+      "lexicon": [
+        {
+          "term": "Dream incubation",
+          "term_es": "Incubación de sueños",
+          "definition": "Intentionally introducing a question or theme before sleep and observing the subsequent dream report."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ghibellini and Meier — The hypnagogic state: a brief update",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10078162/"
+        },
+        {
+          "title": "Wellcome Collection — Artemidorus, The Interpretation of Dreams",
+          "url": "https://wellcomecollection.org/works/jwyazwbg"
+        }
+      ],
+      "summary_original": "Setting a question or intention before sleep and recording the dream on waking."
+    },
+    {
+      "slug": "hypnagogic-imagery",
+      "title": "Hypnagogic imagery",
+      "title_es": "Imágenes hipnagógicas",
+      "scale": "human",
+      "secondary_scales": [],
+      "symbol": "◉",
+      "family": "Inner perception & dreams",
+      "definition": "Images, sounds or bodily impressions experienced during the transition from wakefulness into sleep.",
+      "context": "Sleep research describes hypnagogia as a transition state with varied sensory experiences. A symbolic reading can accompany the record while the experience retains its sleep-boundary context.",
+      "method": [
+        "Note an experience after it occurs naturally near sleep onset.",
+        "Record sensory details, approximate time and how awake or drowsy the state felt.",
+        "Keep the description distinct from a later interpretation or dream narrative."
+      ],
+      "photo": [
+        "Send a drawing or dated written description of the recalled image.",
+        "Identify it as a sleep-onset record and omit unrelated private details."
+      ],
+      "related": [
+        "lucid-dreaming",
+        "contemplative-observation"
+      ],
+      "lexicon": [
+        {
+          "term": "Hypnagogia",
+          "term_es": "Hipnagogia",
+          "definition": "The transition from waking into sleep."
+        },
+        {
+          "term": "Hypnagogic imagery",
+          "term_es": "Imágenes hipnagógicas",
+          "definition": "Visual or other sensory experiences reported around sleep onset."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ghibellini and Meier — The hypnagogic state: a brief update",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10078162/"
+        }
+      ],
+      "summary_original": "Images or sensations around sleep onset, recorded as experiences at the sleep boundary."
+    },
+    {
+      "slug": "dream-yoga-yoga-nidra",
+      "title": "Dream yoga & yoga nidra",
+      "title_es": "Yoga del sueño y yoga nidra",
+      "scale": "human",
+      "secondary_scales": [],
+      "symbol": "◉",
+      "family": "Inner perception & dreams",
+      "definition": "Distinct contemplative practices concerning awareness, dreaming, rest and sleep, each with its own teaching context.",
+      "context": "Tibetan Buddhist and Bön dream-yoga traditions and Indian yoga-nidra lineages should retain their own names and instructions. A shared interest in sleep does not make their aims or procedures interchangeable.",
+      "method": [
+        "Identify the teacher, lineage and published method being studied.",
+        "Record a short account of a session without changing the source instructions.",
+        "Compare experience and interpretation within that named framework."
+      ],
+      "photo": [
+        "Send the session notes or a drawing, with a reference to the teaching used.",
+        "Include only personally shareable material, not restricted ritual instructions or other participants."
+      ],
+      "related": [
+        "lucid-dreaming",
+        "breath-observation"
+      ],
+      "lexicon": [
+        {
+          "term": "Dream yoga",
+          "term_es": "Yoga del sueño",
+          "definition": "Contemplative training involving dreaming and awareness in Tibetan Buddhist or Bön teaching contexts."
+        },
+        {
+          "term": "Yoga nidra",
+          "term_es": "Yoga nidra",
+          "definition": "A term used in Indian yogic traditions for practices of conscious rest or yogic sleep; specific methods depend on the lineage."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tenzin Wangyal Rinpoche — The Tibetan Yogas of Dream and Sleep",
+          "url": "https://www.shambhala.com/the-tibetan-yogas-of-dream-and-sleep.html"
+        },
+        {
+          "title": "Bihar School of Yoga — Yoga Nidra teaching archive",
+          "url": "https://www.biharyoga.net/pdfs/english/2023/october-2023-yoga.pdf"
+        }
+      ],
+      "summary_original": "Tradition-specific contemplative practices of dream and sleep; separate sources and methods are needed for each."
+    },
+    {
+      "slug": "mirror-gazing",
+      "title": "Catoptromancy / mirror gazing",
+      "title_es": "Catoptromancia y observación de espejos",
+      "scale": "hand",
+      "secondary_scales": [
+        "human",
+        "matter"
+      ],
+      "symbol": "✧",
+      "family": "Reflective surfaces, fire & forms",
+      "definition": "Contemplating or interpreting images seen in a reflective surface, including a dark mirror.",
+      "context": "Mirrors and crystals occur in several scrying traditions. The instrument, lighting and viewing angle shape the visible image; the tradition supplies a separate interpretive vocabulary.",
+      "method": [
+        "Record the mirror type, room lighting and viewing distance.",
+        "Describe reflections, visual changes and impressions in separate notes.",
+        "Name the source used for any symbolic reading."
+      ],
+      "photo": [
+        "Photograph the mirror with its edges and surrounding light visible.",
+        "Add one image from the viewing angle; avoid including bystanders or private reflections."
+      ],
+      "related": [
+        "crystal-gazing"
+      ],
+      "lexicon": [
+        {
+          "term": "Catoptromancy",
+          "term_es": "Catoptromancia",
+          "definition": "A divinatory reading using a mirror or reflected images."
+        },
+        {
+          "term": "Mirror gazing",
+          "term_es": "Observación de espejos",
+          "definition": "Sustained visual attention to a reflective surface; the aim may be contemplative or symbolic."
+        },
+        {
+          "term": "Dark mirror",
+          "term_es": "Espejo oscuro",
+          "definition": "A dark reflective surface used as a gazing object in some scrying practices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "British Museum — Crystal ball associated with John Dee",
+          "url": "https://www.britishmuseum.org/collection/object/H_SLCups-232"
+        },
+        {
+          "title": "Project Gutenberg — Webster’s Unabridged Dictionary (historical vocabulary)",
+          "url": "https://www.gutenberg.org/ebooks/29765"
+        }
+      ],
+      "summary_original": "Reading or contemplating reflected images, including dark mirrors; a further gazing surface."
+    },
+    {
+      "slug": "hydromancy",
+      "title": "Hydromancy",
+      "title_es": "Hidromancia",
+      "scale": "matter",
+      "secondary_scales": [
+        "hand",
+        "human"
+      ],
+      "symbol": "◈",
+      "family": "Reflective surfaces, fire & forms",
+      "definition": "Symbolic or divinatory interpretation of water, its surface, reflections or movement.",
+      "context": "Historical accounts describe more than one water-reading procedure. Reflections, ripples, vessel shape and light are physical observations that can be documented alongside a particular symbolic reading.",
+      "method": [
+        "Describe the water, vessel or outdoor setting before observing.",
+        "Record visible motion and lighting without moving the setup during the record.",
+        "Add the interpretive framework after preserving the observation."
+      ],
+      "photo": [
+        "Include an overview showing the vessel or shoreline and a close view of the water.",
+        "State whether the water was still or moving and record the viewing direction and light."
+      ],
+      "related": [
+        "crystal-gazing",
+        "weather"
+      ],
+      "lexicon": [
+        {
+          "term": "Hydromancy",
+          "term_es": "Hidromancia",
+          "definition": "A reading of water or phenomena observed in it, interpreted within a divinatory framework."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Monist, 1890–1891 — Historical accounts of basin and water readings",
+          "url": "https://www.gutenberg.org/cache/epub/56634/pg56634.html"
+        },
+        {
+          "title": "Project Gutenberg — Webster’s Unabridged Dictionary (historical vocabulary)",
+          "url": "https://www.gutenberg.org/ebooks/29765"
+        }
+      ],
+      "summary_original": "Symbolic readings of water, its surface or motion."
+    },
+    {
+      "slug": "lecanomancy",
+      "title": "Lecanomancy",
+      "title_es": "Lecanomancia",
+      "scale": "hand",
+      "secondary_scales": [
+        "matter"
+      ],
+      "symbol": "✧",
+      "family": "Reflective surfaces, fire & forms",
+      "definition": "A reading made with a basin, commonly involving water and sometimes floating substances such as oil.",
+      "context": "The basin is the defining object in the historical term. Described variants use different liquids or additions, so the chosen source and materials matter more than a generic recipe.",
+      "method": [
+        "Identify a source and list the basin and liquids used.",
+        "Observe the undisturbed surface and note changes due to movement or light.",
+        "Record the pattern first and the suggested reading afterward."
+      ],
+      "photo": [
+        "Take an overhead image including the full basin rim.",
+        "Add a side view showing lighting, depth and any material on the surface."
+      ],
+      "related": [
+        "crystal-gazing"
+      ],
+      "lexicon": [
+        {
+          "term": "Lecanomancy",
+          "term_es": "Lecanomancia",
+          "definition": "Divination with a basin and its contents, often water or oil on water."
+        },
+        {
+          "term": "Lecanoscopy",
+          "term_es": "Lecanoscopia",
+          "definition": "A related term for observing or reading a basin’s contents."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Monist, 1890–1891 — Historical accounts of basin and water readings",
+          "url": "https://www.gutenberg.org/cache/epub/56634/pg56634.html"
+        }
+      ],
+      "summary_original": "Basin readings, sometimes involving oil on water; often overlaps with hydromancy."
+    },
+    {
+      "slug": "pyromancy",
+      "title": "Pyromancy",
+      "title_es": "Piromancia",
+      "scale": "matter",
+      "secondary_scales": [
+        "hand"
+      ],
+      "symbol": "◈",
+      "family": "Reflective surfaces, fire & forms",
+      "definition": "Symbolic interpretation of fire, including the appearance or movement of a flame.",
+      "context": "Pyromancy is a broad historical label. Candle gazing is a related focused practice; reading a flame’s symbolism and recording combustion conditions are different parts of the same field note.",
+      "method": [
+        "Use an existing controlled flame or a source recording and identify its context.",
+        "Record fuel, airflow and visible changes from a fixed viewpoint.",
+        "Describe the observed shape before applying a symbolic vocabulary."
+      ],
+      "photo": [
+        "Provide an overview of the existing setup and a focused flame image from a fixed distance.",
+        "Use a short sequence if the interpretation concerns motion rather than a single shape."
+      ],
+      "related": [
+        "candle-gazing"
+      ],
+      "lexicon": [
+        {
+          "term": "Pyromancy",
+          "term_es": "Piromancia",
+          "definition": "Divinatory interpretation of fire or flame behavior."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Webster’s 1828 Dictionary — Pyromancy (historical definition)",
+          "url": "https://webstersdictionary1828.com/Dictionary/pyromancy"
+        }
+      ],
+      "summary_original": "Symbolic observation of fire; candle gazing is already included as one related practice."
+    },
+    {
+      "slug": "capnomancy",
+      "title": "Capnomancy",
+      "title_es": "Capnomancia",
+      "scale": "matter",
+      "secondary_scales": [
+        "earth"
+      ],
+      "symbol": "◈",
+      "family": "Reflective surfaces, fire & forms",
+      "definition": "The symbolic interpretation of smoke, its direction, density or changing forms.",
+      "context": "The historical name concerns smoke as an omen. Air movement and the source material affect a smoke plume, so the environmental record accompanies any reading of its forms.",
+      "method": [
+        "Identify the existing smoke source or archived recording.",
+        "Note airflow, background and the time sequence of visible forms.",
+        "Keep a literal plume description alongside the proposed interpretation."
+      ],
+      "photo": [
+        "Use a contrasting background and include enough of the source to explain the plume.",
+        "Send a sequence or time marks when a changing shape is the subject."
+      ],
+      "related": [
+        "candle-gazing",
+        "weather"
+      ],
+      "lexicon": [
+        {
+          "term": "Capnomancy",
+          "term_es": "Capnomancia",
+          "definition": "Divination by the appearance, movement or ascent of smoke."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Webster’s 1828 Dictionary — Capnomancy (historical definition)",
+          "url": "https://webstersdictionary1828.com/Dictionary/capnomancy"
+        }
+      ],
+      "summary_original": "Symbolic observation of smoke and its changing forms."
+    },
+    {
+      "slug": "ceromancy",
+      "title": "Ceromancy",
+      "title_es": "Ceromancia y lectura de cera",
+      "scale": "matter",
+      "secondary_scales": [
+        "hand"
+      ],
+      "symbol": "◈",
+      "family": "Reflective surfaces, fire & forms",
+      "definition": "Symbolic interpretation of wax shapes, including cooled forms and candle remnants.",
+      "context": "Wax-reading references occur in European divinatory literature. A formed piece of wax can be studied as an object, while the cultural reading is documented with its named source.",
+      "method": [
+        "Select an existing cooled wax form and record how it was made.",
+        "Describe contours, cavities and shadows from fixed viewpoints.",
+        "Keep the material description and symbolic reading in separate notes."
+      ],
+      "photo": [
+        "Photograph the complete cooled form from above with a scale marker.",
+        "Add a side view and a shadow image, keeping orientation consistent."
+      ],
+      "related": [
+        "candle-gazing",
+        "molybdomancy"
+      ],
+      "lexicon": [
+        {
+          "term": "Ceromancy",
+          "term_es": "Ceromancia",
+          "definition": "Divination through shapes or configurations of wax."
+        },
+        {
+          "term": "Wax reading",
+          "term_es": "Lectura de cera",
+          "definition": "A broader description for interpreting wax remnants or cooled forms."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rabelais, Gargantua and Pantagruel, Book III — Historical references to wax readings",
+          "url": "https://www.gutenberg.org/files/1200/old/old/orig1200-h/p3.htm"
+        },
+        {
+          "title": "Project Gutenberg — Webster’s Unabridged Dictionary (historical vocabulary)",
+          "url": "https://www.gutenberg.org/ebooks/29765"
+        }
+      ],
+      "summary_original": "Reading wax forms; distinct from observing a candle flame."
+    },
+    {
+      "slug": "lithomancy",
+      "title": "Lithomancy",
+      "title_es": "Litomancia",
+      "scale": "hand",
+      "secondary_scales": [
+        "matter"
+      ],
+      "symbol": "✧",
+      "family": "Reflective surfaces, fire & forms",
+      "definition": "Readings made with stones or gems through selection, arrangement, casting or reflected light.",
+      "context": "The name covers differing historical and contemporary methods. Stone type, selection rules and assigned meanings should be specified rather than presented as a single universal system.",
+      "method": [
+        "List the stones, assigned meanings and arrangement or selection rule.",
+        "Photograph the initial set and the completed arrangement before moving it.",
+        "Interpret according to the recorded rules and preserve alternative observations."
+      ],
+      "photo": [
+        "Take a straight overhead image showing every stone and the boundary of the layout.",
+        "Add a scale marker and a key identifying colors or marks that may be unclear."
+      ],
+      "related": [
+        "runes",
+        "crystal-gazing"
+      ],
+      "lexicon": [
+        {
+          "term": "Lithomancy",
+          "term_es": "Litomancia",
+          "definition": "Divination involving stones or gems."
+        },
+        {
+          "term": "Stone casting",
+          "term_es": "Lanzamiento de piedras",
+          "definition": "Arranging or casting a defined set of stones and interpreting the resulting positions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Webster’s 1828 Dictionary — Lithomancy (historical definition)",
+          "url": "https://webstersdictionary1828.com/Dictionary/lithomancy"
+        }
+      ],
+      "summary_original": "Readings using stones, their selection, casting or arrangement; methods differ."
+    },
+    {
+      "slug": "sand-readings",
+      "title": "Sand readings / psammomancy",
+      "title_es": "Psamomancia y lecturas de arena",
+      "scale": "matter",
+      "secondary_scales": [
+        "hand",
+        "earth"
+      ],
+      "symbol": "◈",
+      "family": "Reflective surfaces, fire & forms",
+      "definition": "Symbolic interpretation of patterns in sand, scattered grains or marks made on a granular surface.",
+      "context": "Sand can be the material on which a named geomantic system is generated or simply the surface being interpreted. The field note states which procedure is intended.",
+      "method": [
+        "Record the grain material, surface and way the marks were produced.",
+        "Preserve an overview before adding labels or moving the surface.",
+        "Explain whether the reading uses a formal figure system or free symbolic association."
+      ],
+      "photo": [
+        "Use angled light to show relief and include the full marked area.",
+        "Add a close image and indicate which direction is the top of the record."
+      ],
+      "related": [
+        "tracking",
+        "crystallization"
+      ],
+      "lexicon": [
+        {
+          "term": "Psammomancy",
+          "term_es": "Psamomancia",
+          "definition": "A lexical term for divination using sand."
+        },
+        {
+          "term": "Sand reading",
+          "term_es": "Lectura de arena",
+          "definition": "Interpretation of sand patterns or marks, with the particular method stated."
+        }
+      ],
+      "sources": [
+        {
+          "title": "British Museum — Geomantic instrument and dot figures",
+          "url": "https://islamicworld.britishmuseum.org/collection/RRM10451"
+        },
+        {
+          "title": "University of Pennsylvania — Lewis Spence’s 1920 historical reference work",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp68387"
+        }
+      ],
+      "summary_original": "Patterns in sand or scattered grains; sometimes overlaps with geomancy."
+    },
+    {
+      "slug": "inkblot-readings",
+      "title": "Inkblot & incidental-image readings",
+      "title_es": "Lectura de manchas e imágenes fortuitas",
+      "scale": "matter",
+      "secondary_scales": [
+        "hand",
+        "human"
+      ],
+      "symbol": "◈",
+      "family": "Reflective surfaces, fire & forms",
+      "definition": "Symbolic responses to incidental marks, stains or ambiguous images, recorded as personal interpretations.",
+      "context": "Chance-image reading can be a creative exercise. It is kept distinct from standardized psychological instruments such as the Rorschach, which have their own administration and scoring procedures.",
+      "method": [
+        "Keep the original accidental mark and record how it appeared.",
+        "Write the first associations before rotating or enhancing the image.",
+        "Compare alternative readings without assigning a clinical score or diagnosis."
+      ],
+      "photo": [
+        "Send a sharp, unfiltered overview with the paper edges or a scale reference visible.",
+        "Provide any rotated interpretation as a separate image and retain the original orientation."
+      ],
+      "related": [
+        "automatic-painting",
+        "crystallization"
+      ],
+      "lexicon": [
+        {
+          "term": "Inkblot reading",
+          "term_es": "Lectura de manchas de tinta",
+          "definition": "Personal or symbolic interpretation of a shape made by ink."
+        },
+        {
+          "term": "Incidental-image reading",
+          "term_es": "Lectura de imágenes fortuitas",
+          "definition": "Interpreting an unplanned mark or naturally occurring configuration."
+        },
+        {
+          "term": "Pareidolia",
+          "term_es": "Pareidolia",
+          "definition": "Perceiving a familiar pattern or image in an ambiguous stimulus."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wellcome Collection — History of Rorschach inkblots",
+          "url": "https://wellcomecollection.org/stories/how-do-advertisers-get-inside-our-heads-"
+        },
+        {
+          "title": "MoMA — Automatism",
+          "url": "https://www.moma.org/collection/terms/automatism"
+        }
+      ],
+      "summary_original": "Symbolic responses to chance marks, stains or images; separate from clinical testing."
+    },
+    {
+      "slug": "geomancy",
+      "title": "Geomancy",
+      "title_es": "Geomancia",
+      "scale": "hand",
+      "secondary_scales": [
+        "matter"
+      ],
+      "symbol": "✧",
+      "family": "Lots, texts, names & numbers",
+      "definition": "A family of divinatory systems using generated figures, often formed from odd and even groups of marks.",
+      "context": "The British Museum’s Islamic geomantic instrument documents figures known in the context of ʿilm al-raml. Other traditions use the word geomancy differently; the term alone does not identify a common procedure.",
+      "method": [
+        "Name the tradition and define the rule for turning marks into figures.",
+        "Retain the raw marks and the derived chart together.",
+        "Explain the interpretive correspondences with their source."
+      ],
+      "photo": [
+        "Photograph the complete chart with every dot clear.",
+        "Include the raw mark sequence and the source or legend used to derive the figures."
+      ],
+      "related": [
+        "dice",
+        "runes"
+      ],
+      "lexicon": [
+        {
+          "term": "Geomancy",
+          "term_es": "Geomancia",
+          "definition": "A name for several traditions; here it primarily refers to divination through generated dot figures."
+        },
+        {
+          "term": "ʿIlm al-raml",
+          "term_es": "Ciencia de la arena",
+          "definition": "An Arabic name for the geomantic tradition literally associated with sand."
+        },
+        {
+          "term": "Geomantic figure",
+          "term_es": "Figura geomántica",
+          "definition": "A figure of single and double marks whose construction and meaning follow a stated geomantic system."
+        }
+      ],
+      "sources": [
+        {
+          "title": "British Museum — Geomantic instrument and dot figures",
+          "url": "https://islamicworld.britishmuseum.org/collection/RRM10451"
+        }
+      ],
+      "summary_original": "Dot figures and their combinations; identify the named tradition and method rather than treating all earth readings as one system."
+    },
+    {
+      "slug": "bibliomancy-stichomancy",
+      "title": "Bibliomancy & stichomancy",
+      "title_es": "Bibliomancia y esticomancia",
+      "scale": "hand",
+      "secondary_scales": [],
+      "symbol": "✧",
+      "family": "Lots, texts, names & numbers",
+      "definition": "Selecting text from a book, passage, line or verse and reading it as a symbolic response.",
+      "context": "Book-lot practices have used sacred and literary texts in different settings. The edition, selection rule and surrounding passage affect what was actually selected.",
+      "method": [
+        "State the book, edition and selection method before opening it.",
+        "Record the chosen passage and enough surrounding text to retain context.",
+        "Write the question and interpretation separately from the selected words."
+      ],
+      "photo": [
+        "Send a focused image of the passage with page number visible.",
+        "Include the title and edition, or a short transcription if reproduction is restricted."
+      ],
+      "related": [
+        "automatic-writing"
+      ],
+      "lexicon": [
+        {
+          "term": "Bibliomancy",
+          "term_es": "Bibliomancia",
+          "definition": "Divinatory selection or consultation of a book."
+        },
+        {
+          "term": "Stichomancy",
+          "term_es": "Esticomancia",
+          "definition": "Selection of a line or verse as an oracle or symbolic prompt."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Project Gutenberg — Webster’s Unabridged Dictionary (historical vocabulary)",
+          "url": "https://www.gutenberg.org/ebooks/29765"
+        },
+        {
+          "title": "University of Pennsylvania — Lewis Spence’s 1920 historical reference work",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp68387"
+        }
+      ],
+      "summary_original": "Selecting a passage, line or verse from a book as a symbolic prompt."
+    },
+    {
+      "slug": "numerology-arithmancy",
+      "title": "Numerology / arithmancy",
+      "title_es": "Numerología y aritmomancia",
+      "scale": "hand",
+      "secondary_scales": [],
+      "symbol": "✧",
+      "family": "Lots, texts, names & numbers",
+      "definition": "Systems that assign symbolic significance to numbers and numerical relationships.",
+      "context": "Number symbolism appears in several textual and esoteric traditions. Modern numerological rules vary, so calculations and correspondences must be named before comparing results.",
+      "method": [
+        "Choose a named rule set and record its source.",
+        "Show each calculation from the original input to the resulting number.",
+        "Explain the symbolic association separately from the arithmetic."
+      ],
+      "photo": [
+        "Provide a legible calculation sheet showing every step.",
+        "Use initials or a chosen example when full names or birth dates are unnecessary."
+      ],
+      "related": [
+        "dice",
+        "cards"
+      ],
+      "lexicon": [
+        {
+          "term": "Numerology",
+          "term_es": "Numerología",
+          "definition": "Symbolic interpretation of numbers through a stated set of correspondences."
+        },
+        {
+          "term": "Arithmancy",
+          "term_es": "Aritmomancia",
+          "definition": "Divination or symbolic interpretation through numbers and calculations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Project Gutenberg — Webster’s Unabridged Dictionary (historical vocabulary)",
+          "url": "https://www.gutenberg.org/ebooks/29765"
+        },
+        {
+          "title": "University of Pennsylvania — Lewis Spence’s 1920 historical reference work",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp68387"
+        }
+      ],
+      "summary_original": "Symbolic number systems; name the correspondence rules and source."
+    },
+    {
+      "slug": "gematria-isopsephy",
+      "title": "Gematria & isopsephy",
+      "title_es": "Gematría e isopsefía",
+      "scale": "hand",
+      "secondary_scales": [],
+      "symbol": "✧",
+      "family": "Lots, texts, names & numbers",
+      "definition": "Letter-number interpretation within particular writing systems, including Hebrew and Greek traditions.",
+      "context": "Gematria and Greek isopsephy depend on their languages’ letter values and textual conventions. Transliteration or a changed spelling can change a sum; numerical equality alone does not establish a shared historical meaning.",
+      "method": [
+        "Identify the original script, spelling and value table.",
+        "Show each letter value and the complete sum without silently changing the text.",
+        "Separate the computed equality from the proposed textual or symbolic connection."
+      ],
+      "photo": [
+        "Send the original text and a legible table of letter values.",
+        "Include the manuscript or edition reference and indicate any uncertain characters."
+      ],
+      "related": [
+        "automatic-writing",
+        "cards"
+      ],
+      "lexicon": [
+        {
+          "term": "Gematria",
+          "term_es": "Gematría",
+          "definition": "Interpretation involving the numerical values of letters, particularly within Hebrew textual traditions."
+        },
+        {
+          "term": "Isopsephy",
+          "term_es": "Isopsefía",
+          "definition": "Greek letter-number calculation and comparison, including words or phrases with equal totals."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sefaria — Sefer Yetzirah and its commentaries",
+          "url": "https://www.sefaria.org/Sefer_Yetzirah.1.1?with=Genesis"
+        },
+        {
+          "title": "University of Oslo — Isopsephic papyri and numerical poetry",
+          "url": "https://www.uio.no/english/research/research-news/apollon/articles/2012/papyrus.html"
+        }
+      ],
+      "summary_original": "Letter-number interpretation within specific linguistic and textual traditions."
+    },
+    {
+      "slug": "onomancy",
+      "title": "Onomancy",
+      "title_es": "Onomancia",
+      "scale": "hand",
+      "secondary_scales": [
+        "human"
+      ],
+      "symbol": "✧",
+      "family": "Lots, texts, names & numbers",
+      "definition": "Symbolic readings of names, their letters, sounds or assigned numerical correspondences.",
+      "context": "Historical lexical definitions connect onomancy with the letters of names. Actual methods vary by language and source, so a modern correspondence table should not be presented as universal.",
+      "method": [
+        "State the language, spelling and rule set being used.",
+        "Keep letter or sound observations separate from the symbolic interpretation.",
+        "Compare alternative spellings openly rather than selecting only a preferred result."
+      ],
+      "photo": [
+        "Send a clear written example and the correspondence table or source.",
+        "Use an alias or initials if the question does not require a private legal name."
+      ],
+      "related": [
+        "automatic-writing"
+      ],
+      "lexicon": [
+        {
+          "term": "Onomancy",
+          "term_es": "Onomancia",
+          "definition": "Divinatory or symbolic interpretation of a name."
+        },
+        {
+          "term": "Nomancy",
+          "term_es": "Nomancia",
+          "definition": "A historical alternative name for onomancy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Webster’s 1828 Dictionary — Onomancy (historical definition)",
+          "url": "https://webstersdictionary1828.com/Dictionary/onomancy"
+        }
+      ],
+      "summary_original": "Symbolic readings of names; correspondence rules depend on the tradition."
+    },
+    {
+      "slug": "kledonomancy",
+      "title": "Kledonomancy",
+      "title_es": "Cledonomancia",
+      "scale": "hand",
+      "secondary_scales": [
+        "human"
+      ],
+      "symbol": "✧",
+      "family": "Lots, texts, names & numbers",
+      "definition": "Reading chance words, overheard phrases or incidental speech as symbolic prompts.",
+      "context": "Pausanias describes an oracle of Hermes at Pharae involving the first words heard after a ritual inquiry. That account is one named historical setting rather than a rule for all incidental speech.",
+      "method": [
+        "Write the question and the selection rule beforehand.",
+        "Record the exact phrase and immediate setting without searching for a more convenient one.",
+        "Keep a literal transcription alongside the symbolic reading."
+      ],
+      "photo": [
+        "Submit a dated transcription with the context summarized.",
+        "Exclude private conversations and identify quotations only when permission or publication allows it."
+      ],
+      "related": [
+        "naam-listening",
+        "ritual-sound"
+      ],
+      "lexicon": [
+        {
+          "term": "Kledonomancy",
+          "term_es": "Cledonomancia",
+          "definition": "Divinatory interpretation of an incidental utterance or overheard words."
+        },
+        {
+          "term": "Cledonomancy",
+          "term_es": "Cledonomancia",
+          "definition": "An alternative English spelling of kledonomancy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Uppsala University — Pausanias 7.22, the oracle of Hermes at Pharae",
+          "url": "https://periegesis.abm.uu.se/en/reports.php?reportid=219"
+        }
+      ],
+      "summary_original": "Reading chance words or overheard phrases as symbolic prompts."
+    },
+    {
+      "slug": "cleromancy",
+      "title": "Cleromancy / casting lots",
+      "title_es": "Cleromancia y suertes",
+      "scale": "hand",
+      "secondary_scales": [],
+      "symbol": "✧",
+      "family": "Lots, texts, names & numbers",
+      "definition": "An umbrella family of readings in which lots, tokens or randomized outcomes are assigned meanings.",
+      "context": "Casting lots can serve games, selection or divination. A divinatory reading arises from a stated interpretive framework, not from randomness alone.",
+      "method": [
+        "Define the tokens, possible outcomes and meanings before casting.",
+        "Record the complete outcome and any repeated attempts.",
+        "Keep the randomization procedure and the later interpretation in the same field note."
+      ],
+      "photo": [
+        "Photograph the full cast before moving any token.",
+        "Include the token legend, order and any direction or boundary used in the reading."
+      ],
+      "related": [
+        "dice",
+        "coins",
+        "runes",
+        "yijing"
+      ],
+      "lexicon": [
+        {
+          "term": "Cleromancy",
+          "term_es": "Cleromancia",
+          "definition": "Divination through lots or randomized tokens."
+        },
+        {
+          "term": "Casting lots",
+          "term_es": "Echar suertes",
+          "definition": "Selecting or casting defined tokens to obtain an outcome."
+        },
+        {
+          "term": "Sortilege",
+          "term_es": "Sortilegio por suertes",
+          "definition": "A historical term for divination by lots."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Fordham University — Tacitus, Germania, section 10",
+          "url": "https://sourcebooks.web.fordham.edu/source/tacitus1.asp"
+        },
+        {
+          "title": "The Metropolitan Museum of Art — Glass astragal",
+          "url": "https://www.metmuseum.org/art/collection/search/249800"
+        }
+      ],
+      "summary_original": "An umbrella family: dice, coins and runes already cover several lot-based forms."
+    },
+    {
+      "slug": "belomancy",
+      "title": "Belomancy",
+      "title_es": "Belomancia",
+      "scale": "hand",
+      "secondary_scales": [],
+      "symbol": "✧",
+      "family": "Lots, texts, names & numbers",
+      "definition": "A historical name for divination involving arrows, their markings, selection or movement.",
+      "context": "Historical writers describe several arrow-reading procedures. Kamala treats these as documentary variants; a textual or museum record can be studied without reproducing weapon use.",
+      "method": [
+        "Choose a specific text or documented object and identify its date.",
+        "Record what the source says about the arrows and the selection rule.",
+        "Compare translations or accounts while distinguishing their differing procedures."
+      ],
+      "photo": [
+        "Submit a permitted archive image or a diagram of the described arrangement.",
+        "Include the source citation and readable labels rather than staging an arrow discharge."
+      ],
+      "related": [
+        "dice",
+        "runes"
+      ],
+      "lexicon": [
+        {
+          "term": "Belomancy",
+          "term_es": "Belomancia",
+          "definition": "Historical divination involving arrows or arrow lots."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Thomas Browne — Historical discussion of belomancy",
+          "url": "https://www.gutenberg.org/files/39961/39961-h/39961-h.htm"
+        },
+        {
+          "title": "Project Gutenberg — Webster’s Unabridged Dictionary (historical vocabulary)",
+          "url": "https://www.gutenberg.org/ebooks/29765"
+        }
+      ],
+      "summary_original": "Historical readings involving arrows or their selection; can be studied through records."
+    },
+    {
+      "slug": "ifa-diloggun",
+      "title": "Ifa, diloggun & named casting systems",
+      "title_es": "Ifá, diloggún y sistemas de lanzamiento",
+      "scale": "hand",
+      "secondary_scales": [
+        "human"
+      ],
+      "symbol": "✧",
+      "family": "Lots, texts, names & numbers",
+      "definition": "Distinct named divinatory traditions whose signs, texts, materials and practitioners belong to particular communities.",
+      "context": "Yoruba Ifá uses a corpus of odù and specialist interpretation. Lucumí diloggún uses cowrie-shell oracles in an Afro-Cuban religious context. Their related histories do not make their procedures or authority interchangeable.",
+      "method": [
+        "Identify the named tradition, source and who is presenting the record.",
+        "Preserve the sign and its explanatory context as the practitioner chooses to share it.",
+        "Keep public educational material distinct from lineage-specific or restricted instruction."
+      ],
+      "photo": [
+        "Send only personally shareable images with the full arrangement and its orientation visible.",
+        "Include the practitioner’s explanation or source with permission, and avoid private ritual or participant details."
+      ],
+      "related": [
+        "coins",
+        "runes",
+        "yijing"
+      ],
+      "lexicon": [
+        {
+          "term": "Ifá",
+          "term_es": "Ifá",
+          "definition": "A Yoruba divinatory tradition using signs and an extensive odù literary corpus interpreted by trained practitioners."
+        },
+        {
+          "term": "Diloggún",
+          "term_es": "Diloggún",
+          "definition": "A cowrie-shell oracle in Lucumí orisha traditions, with its own protocols and interpretation."
+        },
+        {
+          "term": "Odù",
+          "term_es": "Odù",
+          "definition": "Named signs or divisions of the Ifá corpus; related terminology occurs in distinct traditions with its own context."
+        }
+      ],
+      "sources": [
+        {
+          "title": "UNESCO — Ifa divination system",
+          "url": "https://ich.unesco.org/es/RL/el-sistema-de-adivinacion-ifa-00146"
+        },
+        {
+          "title": "Ócha’ni Lele — The Diloggún, publisher’s account of the Lucumí oracle",
+          "url": "https://www.simonandschuster.net/books/The-Diloggun/Ochani-Lele/9781594778629"
+        }
+      ],
+      "summary_original": "Distinct community-specific traditions rather than interchangeable generic oracles; each needs its own sources and context."
+    },
+    {
+      "slug": "physiognomy-metoposcopy",
+      "title": "Physiognomy & metoposcopy",
+      "title_es": "Fisiognomía y metoposcopia",
+      "scale": "human",
+      "secondary_scales": [],
+      "symbol": "◉",
+      "family": "Body, gesture & creative attention",
+      "definition": "Historical systems that attributed character, fate or other meanings to bodily appearance, especially facial and forehead features.",
+      "context": "Early modern manuscripts preserve elaborate correspondences for faces and forehead lines. They are documented here as historical claims; appearance does not establish a person’s character, honesty, health or destiny.",
+      "method": [
+        "Select a dated historical diagram or text and identify its author.",
+        "Describe the diagram’s categories and the claims the author makes.",
+        "Compare the historical vocabulary without applying character judgments to a living person."
+      ],
+      "photo": [
+        "Use a permitted image of the historical page with its caption and page number.",
+        "Provide a close view of the diagram’s labels and its catalog reference."
+      ],
+      "related": [
+        "handreading"
+      ],
+      "lexicon": [
+        {
+          "term": "Physiognomy",
+          "term_es": "Fisiognomía",
+          "definition": "Historical interpretation of outward features as supposed signs of character or fate."
+        },
+        {
+          "term": "Metoposcopy",
+          "term_es": "Metoposcopia",
+          "definition": "Historical readings of forehead lines and markings."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wellcome Collection — Historical metoposcopy manuscript",
+          "url": "https://wellcomecollection.org/works/aqexukc5"
+        },
+        {
+          "title": "Wellcome Collection — Saunders, Physiognomie and metoposcopie (1671)",
+          "url": "https://identity.wellcomecollection.org/works/uujmkwkq"
+        }
+      ],
+      "summary_original": "Historical readings of facial or forehead features; appearance does not establish character or destiny."
+    },
+    {
+      "slug": "graphology",
+      "title": "Graphology",
+      "title_es": "Grafología",
+      "scale": "human",
+      "secondary_scales": [
+        "hand"
+      ],
+      "symbol": "◉",
+      "family": "Body, gesture & creative attention",
+      "definition": "Interpretive systems that assign personal or symbolic meanings to features of handwriting.",
+      "context": "Graphology differs from spontaneous writing and from forensic comparison of documents. A handwriting sample can be described materially without treating its appearance as a reliable measure of personality.",
+      "method": [
+        "Identify the interpretive school or historical text.",
+        "Describe visible spacing, stroke and layout before considering meanings.",
+        "Keep the description and the attributed interpretation separate, without a personality diagnosis."
+      ],
+      "photo": [
+        "Send a straight, evenly lit image of an original sample with its edges visible.",
+        "Remove signatures, addresses and private text unless essential to the submitted question."
+      ],
+      "related": [
+        "automatic-writing"
+      ],
+      "lexicon": [
+        {
+          "term": "Graphology",
+          "term_es": "Grafología",
+          "definition": "Interpretation of handwriting features as signs of personal characteristics within a stated system."
+        },
+        {
+          "term": "Handwriting description",
+          "term_es": "Descripción de escritura manuscrita",
+          "definition": "Recording visible features such as spacing, slant, pressure marks and line form."
+        }
+      ],
+      "sources": [
+        {
+          "title": "APA Dictionary — Graphology",
+          "url": "https://dictionary.apa.org/graphology"
+        }
+      ],
+      "summary_original": "Interpretations of handwriting, distinct from automatic writing; a historical and symbolic topic here."
+    },
+    {
+      "slug": "movement-journals",
+      "title": "Hand and body movement journals",
+      "title_es": "Diarios de manos y movimiento corporal",
+      "scale": "human",
+      "secondary_scales": [
+        "hand"
+      ],
+      "symbol": "◉",
+      "family": "Body, gesture & creative attention",
+      "definition": "Structured records of movement and bodily awareness, used for reflection or comparison over time.",
+      "context": "A movement journal extends the existing kinesthesia field note. It records felt motion and visible gesture while keeping any symbolic associations as the author’s interpretation.",
+      "method": [
+        "Choose an ordinary gesture or short sequence to observe.",
+        "Record its visible path and the accompanying felt movement.",
+        "Compare successive notes using the same labels and viewpoint."
+      ],
+      "photo": [
+        "Use sequential drawings or still frames with a clear order.",
+        "Include the date, viewpoint and a short note about the sensations being described."
+      ],
+      "related": [
+        "kinesthesia",
+        "automatic-painting"
+      ],
+      "lexicon": [
+        {
+          "term": "Movement journal",
+          "term_es": "Diario de movimiento",
+          "definition": "A dated record of gestures, positions, movement sequences or bodily sensations."
+        },
+        {
+          "term": "Kinesthetic journal",
+          "term_es": "Diario kinestésico",
+          "definition": "A record centered on the felt experience of movement and position."
+        }
+      ],
+      "sources": [
+        {
+          "title": "MoMA — Automatism",
+          "url": "https://www.moma.org/collection/terms/automatism"
+        }
+      ],
+      "summary_original": "Structured gesture records extending the existing kinesthesia field note."
+    },
+    {
+      "slug": "automatic-music",
+      "title": "Automatic music & improvisation",
+      "title_es": "Música automática e improvisación",
+      "scale": "human",
+      "secondary_scales": [
+        "hand"
+      ],
+      "symbol": "◉",
+      "family": "Body, gesture & creative attention",
+      "definition": "Spontaneous sound-making recorded before detailed editing or symbolic interpretation.",
+      "context": "Automatist art sought to reduce conscious planning; musical improvisation has many separate artistic and cultural traditions. The recording preserves what was played, while the stated method explains its context.",
+      "method": [
+        "Name the instrument, prompt and any chosen constraints.",
+        "Record one complete take before editing.",
+        "Date the recording and add the interpretation or listening notes afterward."
+      ],
+      "photo": [
+        "A score, waveform screenshot or photograph of the setup can accompany a recording description.",
+        "Include time marks for the passage and identify any edits or repeated takes."
+      ],
+      "related": [
+        "automatic-writing",
+        "automatic-painting",
+        "ritual-sound"
+      ],
+      "lexicon": [
+        {
+          "term": "Automatic music",
+          "term_es": "Música automática",
+          "definition": "A label for spontaneous music-making intended to reduce advance planning or conscious editing."
+        },
+        {
+          "term": "Improvisation",
+          "term_es": "Improvisación",
+          "definition": "Creating or developing a performance as it occurs, within or beyond stated musical rules."
+        }
+      ],
+      "sources": [
+        {
+          "title": "MoMA — Automatism",
+          "url": "https://www.moma.org/collection/terms/automatism"
+        }
+      ],
+      "summary_original": "A creative counterpart to automatic writing and painting; retain the recording before interpretation."
+    },
+    {
+      "slug": "guided-imagery-pathworking",
+      "title": "Guided imagery & pathworking",
+      "title_es": "Visualización guiada y pathworking",
+      "scale": "human",
+      "secondary_scales": [],
+      "symbol": "◉",
+      "family": "Body, gesture & creative attention",
+      "definition": "Structured imaginative journeys that use a prompt, narrative or symbolic route as a focus for attention.",
+      "context": "Guided imagery is a broad descriptive term. Pathworking is used in some esoteric schools for journeys organized around a particular symbolic framework; the source supplies its conventions.",
+      "method": [
+        "Identify the script or prompt and the tradition or author.",
+        "Record remembered images and sensations immediately after the session.",
+        "Distinguish details supplied by the script from details added during the experience."
+      ],
+      "photo": [
+        "Submit a drawing or dated session note with the prompt cited.",
+        "Mark which images came from the script and which were personally experienced or added later."
+      ],
+      "related": [
+        "contemplative-observation",
+        "clairvoyance"
+      ],
+      "lexicon": [
+        {
+          "term": "Guided imagery",
+          "term_es": "Visualización guiada",
+          "definition": "An imaginative exercise shaped by spoken, written or self-directed prompts."
+        },
+        {
+          "term": "Pathworking",
+          "term_es": "Recorrido simbólico guiado",
+          "definition": "An esoteric form of imaginative journey following a named symbolic route or framework."
+        }
+      ],
+      "sources": [
+        {
+          "title": "University of Pennsylvania — Lewis Spence’s 1920 historical reference work",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp68387"
+        },
+        {
+          "title": "MoMA — Automatism",
+          "url": "https://www.moma.org/collection/terms/automatism"
+        }
+      ],
+      "summary_original": "Structured imaginative journeys with their script and interpretive framework recorded."
+    },
+    {
+      "slug": "labyrinth-walking",
+      "title": "Labyrinth walking",
+      "title_es": "Recorrido de laberintos",
+      "scale": "human",
+      "secondary_scales": [
+        "earth"
+      ],
+      "symbol": "◉",
+      "family": "Body, gesture & creative attention",
+      "definition": "Following a designed path as a contemplative or reflective movement practice.",
+      "context": "The labyrinth at Chartres Cathedral offers a named Christian pilgrimage context. Other labyrinth traditions have their own designs and meanings; the path and the interpretation should both be identified.",
+      "method": [
+        "Identify the design, place and any accompanying tradition.",
+        "Record the chosen pace and observations along the route.",
+        "Write a reflection afterward while retaining the description of the actual walk."
+      ],
+      "photo": [
+        "Show the overall path or a permitted plan with start and center labeled.",
+        "Add a short movement record without photographing other visitors without permission."
+      ],
+      "related": [
+        "contemplative-observation",
+        "kinesthesia"
+      ],
+      "lexicon": [
+        {
+          "term": "Labyrinth walking",
+          "term_es": "Recorrido de laberintos",
+          "definition": "Walking a designed route as a contemplative or symbolic practice."
+        },
+        {
+          "term": "Labyrinth",
+          "term_es": "Laberinto de recorrido",
+          "definition": "A designed winding path; many contemplative examples have one route toward a center."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Chartres Cathedral — The labyrinth",
+          "url": "https://www.cathedrale-chartres.org/en/cathedrale/monument/the-labyrinth/"
+        }
+      ],
+      "summary_original": "A contemplative movement practice; an adjacent art rather than a forecasting system."
+    },
+    {
+      "slug": "augury-ornithomancy",
+      "title": "Augury / ornithomancy",
+      "title_es": "Augurios y ornitomancia",
+      "scale": "earth",
+      "secondary_scales": [],
+      "symbol": "⋮",
+      "family": "Landscape, weather & animal signs",
+      "definition": "Historical and symbolic readings of signs, including birds’ calls, movements or flight.",
+      "context": "Roman augury and other named bird-reading traditions have particular rules and social contexts. Ecological observation supplies a record of species and behavior; the omen meaning comes from the chosen tradition.",
+      "method": [
+        "Identify the place, species if known, time and observation conditions.",
+        "Record the actual sequence before assigning any omen.",
+        "Name the historical or cultural rule used for the symbolic reading."
+      ],
+      "photo": [
+        "Use a distant overview and a sequence showing direction or behavior.",
+        "Include time, approximate location and species uncertainty without approaching or disturbing the animal."
+      ],
+      "related": [
+        "tracking",
+        "weather"
+      ],
+      "lexicon": [
+        {
+          "term": "Augury",
+          "term_es": "Augurio",
+          "definition": "Interpretation of signs or omens; in Roman contexts it is associated with formal auspices."
+        },
+        {
+          "term": "Ornithomancy",
+          "term_es": "Ornitomancia",
+          "definition": "Divinatory interpretation of birds, their behavior, calls or flight."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Fordham University — Tacitus, Germania, section 10",
+          "url": "https://sourcebooks.web.fordham.edu/source/tacitus1.asp"
+        }
+      ],
+      "summary_original": "Historical interpretations of birds, calls or flight; distinguish them from ecological field observations."
+    },
+    {
+      "slug": "animal-sign-readings",
+      "title": "Alectryomancy, hippomancy & ichthyomancy",
+      "title_es": "Alectriomancia, hipomancia e ictiomancia",
+      "scale": "earth",
+      "secondary_scales": [],
+      "symbol": "⋮",
+      "family": "Landscape, weather & animal signs",
+      "definition": "Historical names for readings involving fowl, horses and fish respectively.",
+      "context": "These labels cover differing accounts rather than a single animal oracle. Tacitus describes particular horse omens; other procedures should be tied to their own texts or communities.",
+      "method": [
+        "Choose an existing historical account or nonintrusive observation record.",
+        "Identify which animal behavior or documented sign the source treats as meaningful.",
+        "Keep the source’s interpretation alongside a literal description of the record."
+      ],
+      "photo": [
+        "Submit a permitted archive image or an undisturbed observation sequence.",
+        "Include the source and time; avoid staging behavior or handling animals for a reading."
+      ],
+      "related": [
+        "tracking"
+      ],
+      "lexicon": [
+        {
+          "term": "Alectryomancy",
+          "term_es": "Alectriomancia",
+          "definition": "Historical divination involving a cock or other fowl, including selected feeding or movement patterns."
+        },
+        {
+          "term": "Hippomancy",
+          "term_es": "Hipomancia",
+          "definition": "Divination or omen reading involving horses and their behavior."
+        },
+        {
+          "term": "Ichthyomancy",
+          "term_es": "Ictiomancia",
+          "definition": "Divinatory readings involving fish, with the procedure specified by its source."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Fordham University — Tacitus, Germania, section 10",
+          "url": "https://sourcebooks.web.fordham.edu/source/tacitus1.asp"
+        },
+        {
+          "title": "Project Gutenberg — Webster’s Unabridged Dictionary (historical vocabulary)",
+          "url": "https://www.gutenberg.org/ebooks/29765"
+        }
+      ],
+      "summary_original": "Historical readings involving fowl, horses or fish; study documented accounts without disturbing animals."
+    },
+    {
+      "slug": "nephomancy",
+      "title": "Nephomancy",
+      "title_es": "Nefelomancia y lectura de nubes",
+      "scale": "earth",
+      "secondary_scales": [],
+      "symbol": "⋮",
+      "family": "Landscape, weather & animal signs",
+      "definition": "Symbolic interpretation of cloud shapes or changing cloud formations.",
+      "context": "Cloud reading can sit alongside ordinary cloud observation. A meteorological classification describes physical forms, while a symbolic reading records a personal or culturally sourced association.",
+      "method": [
+        "Record the time, direction, weather and visible horizon.",
+        "Describe cloud type or shape before naming an association.",
+        "Retain the full scene and note how the form changes over time."
+      ],
+      "photo": [
+        "Include a wide sky image with the horizon or a direction reference.",
+        "Send a short time sequence if the reading concerns a transformation in shape."
+      ],
+      "related": [
+        "weather"
+      ],
+      "lexicon": [
+        {
+          "term": "Nephomancy",
+          "term_es": "Nefelomancia",
+          "definition": "Divination through cloud forms."
+        },
+        {
+          "term": "Cloud reading",
+          "term_es": "Lectura de nubes",
+          "definition": "Observation and interpretation of clouds, with meteorological and symbolic meanings stated separately."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Met Office — Cloud types and observation",
+          "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds"
+        },
+        {
+          "title": "University of Pennsylvania — Lewis Spence’s 1920 historical reference work",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp68387"
+        }
+      ],
+      "summary_original": "Symbolic cloud readings, an extension of the existing weather field note."
+    },
+    {
+      "slug": "brontomancy",
+      "title": "Brontomancy",
+      "title_es": "Brontomancia",
+      "scale": "earth",
+      "secondary_scales": [],
+      "symbol": "⋮",
+      "family": "Landscape, weather & animal signs",
+      "definition": "Historical interpretation of thunder as an omen, often in relation to its time or direction.",
+      "context": "The Etruscan Brontoscopic Calendar is one documented textual framework. The time and weather record describe the event; the calendar records a historically attributed omen meaning.",
+      "method": [
+        "Choose a historical text or an existing weather record.",
+        "Record the date, place and stated thunder event without adding details the source lacks.",
+        "Compare the event with the named text’s omen framework and retain the citation."
+      ],
+      "photo": [
+        "A permitted archive page or weather-log image is suitable.",
+        "For an existing recording, provide time marks and context rather than going outside to obtain storm footage."
+      ],
+      "related": [
+        "weather",
+        "ritual-sound"
+      ],
+      "lexicon": [
+        {
+          "term": "Brontomancy",
+          "term_es": "Brontomancia",
+          "definition": "Divinatory interpretation of thunder."
+        },
+        {
+          "term": "Brontoscopy",
+          "term_es": "Brontoscopia",
+          "definition": "A related term for interpreting thunder, often through a calendrical omen system."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Jean MacIntosh Turfa — The Etruscan Brontoscopic Calendar",
+          "url": "https://www.cambridge.org/core/books/divining-the-etruscan-world/A4FAEDED175B3A02970FC80C585E1058"
+        }
+      ],
+      "summary_original": "Historical interpretations of thunder; retain the cultural source and meteorological context."
+    },
+    {
+      "slug": "scapulimancy-plastromancy",
+      "title": "Scapulimancy & plastromancy",
+      "title_es": "Escapulimancia y plastromancia",
+      "scale": "matter",
+      "secondary_scales": [
+        "hand",
+        "earth"
+      ],
+      "symbol": "◈",
+      "family": "Landscape, weather & animal signs",
+      "definition": "Historical oracle readings of shoulder blades and turtle plastrons, often involving cracks and inscriptions.",
+      "context": "Shang oracle bones provide documented examples of these practices and early writing. The materials and procedures vary by tradition; museum objects and archival images support study without reenacting the process.",
+      "method": [
+        "Select a cataloged existing object and retain its accession number.",
+        "Describe the material, visible cracks and inscriptions from the catalog.",
+        "Compare a published reading with the image, marking uncertain or missing features."
+      ],
+      "photo": [
+        "Send a permitted museum or archive image with full credit and object number.",
+        "Include an overview and a detail of the relevant inscription or crack pattern."
+      ],
+      "related": [
+        "molybdomancy",
+        "tracking"
+      ],
+      "lexicon": [
+        {
+          "term": "Scapulimancy",
+          "term_es": "Escapulimancia",
+          "definition": "Divinatory interpretation of a shoulder blade, with a specified historical method."
+        },
+        {
+          "term": "Plastromancy",
+          "term_es": "Plastromancia",
+          "definition": "Divinatory interpretation of the plastron, the underside of a turtle shell."
+        },
+        {
+          "term": "Oracle bone",
+          "term_es": "Hueso oracular",
+          "definition": "A bone or shell object used in a documented oracle procedure, sometimes bearing inscriptions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Metropolitan Museum of Art — Shang oracle bone",
+          "url": "https://www.metmuseum.org/art/collection/search/60695"
+        }
+      ],
+      "summary_original": "Historical oracle readings of shoulder blades or shells, studied through museum records and existing objects."
+    },
+    {
+      "slug": "extispicy-hepatoscopy",
+      "title": "Extispicy / hepatoscopy",
+      "title_es": "Extispicina y hepatoscopia",
+      "scale": "matter",
+      "secondary_scales": [
+        "hand"
+      ],
+      "symbol": "◈",
+      "family": "Landscape, weather & animal signs",
+      "definition": "Historical readings of internal organs, with hepatoscopy specifically concerning the liver.",
+      "context": "Mesopotamian omen tablets and clay liver models document training and interpretation. This is an archival topic using existing texts, models and collection records.",
+      "method": [
+        "Choose an existing tablet, model or published translation.",
+        "Record the object’s provenance and the features named in its catalog.",
+        "Compare the historical omen text and the represented feature without treating it as anatomical prediction."
+      ],
+      "photo": [
+        "Use a permitted image of a museum model, tablet or archive page.",
+        "Supply the accession number and a readable detail of the feature or text under discussion."
+      ],
+      "related": [
+        "molybdomancy"
+      ],
+      "lexicon": [
+        {
+          "term": "Extispicy",
+          "term_es": "Extispicina",
+          "definition": "Historical divination through examination of internal organs."
+        },
+        {
+          "term": "Hepatoscopy",
+          "term_es": "Hepatoscopia",
+          "definition": "Historical divination specifically through the liver."
+        },
+        {
+          "term": "Haruspicy",
+          "term_es": "Aruspicina",
+          "definition": "A related term for the interpretive work of a haruspex, especially in Etruscan and Roman contexts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Metropolitan Museum of Art — A cuneiform liver-omen fragment",
+          "url": "https://www.metmuseum.org/art/collection/search/328932"
+        }
+      ],
+      "summary_original": "Historical readings of internal organs, treated as an archival topic using documented objects and texts."
+    },
+    {
+      "slug": "card-reading-systems",
+      "title": "Tarot, Lenormand, Sibilla & playing-card systems",
+      "title_es": "Tarot, Lenormand, Sibilla y naipes",
+      "scale": "hand",
+      "secondary_scales": [],
+      "symbol": "✧",
+      "family": "Branches of arts already present",
+      "definition": "Different card-reading families whose decks, layouts and interpretive conventions should be identified separately.",
+      "context": "European playing cards and tarot have documented histories of play and later divinatory use. Lenormand and Sibilla decks have distinct imagery and reading traditions; matching card counts alone does not make decks equivalent.",
+      "method": [
+        "Name the deck, edition, card count and reading system.",
+        "Record the question, layout and draw order before interpreting.",
+        "Photograph the whole spread and read with the chosen deck’s conventions."
+      ],
+      "photo": [
+        "Use an overhead view with every card readable and no cropped positions.",
+        "Mark the first card, orientation and draw order; add a close image for small card text."
+      ],
+      "related": [
+        "cards"
+      ],
+      "lexicon": [
+        {
+          "term": "Tarot",
+          "term_es": "Tarot",
+          "definition": "A card family with trumps and suited cards, used for games and in distinct divinatory traditions."
+        },
+        {
+          "term": "Lenormand",
+          "term_es": "Lenormand",
+          "definition": "A family of oracle decks and reading systems, especially the 36-card Petit Lenormand."
+        },
+        {
+          "term": "Sibilla",
+          "term_es": "Sibilla",
+          "definition": "A name used for several illustrated oracle-card traditions; identify the particular edition."
+        },
+        {
+          "term": "Playing-card reading",
+          "term_es": "Lectura de naipes",
+          "definition": "Divinatory use of a named ordinary playing-card deck."
+        },
+        {
+          "term": "Cartomancy",
+          "term_es": "Cartomancia",
+          "definition": "An umbrella term for divination using cards."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Metropolitan Museum of Art — The World in Play: historical cards",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2016/world-in-play"
+        },
+        {
+          "title": "University of Pennsylvania — Lewis Spence’s 1920 historical reference work",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp68387"
+        }
+      ],
+      "summary_original": "Separate branches of the existing Cards page; name the deck and interpretive system."
+    },
+    {
+      "slug": "astragalomancy",
+      "title": "Astragalomancy",
+      "title_es": "Astragalomancia",
+      "scale": "hand",
+      "secondary_scales": [],
+      "symbol": "✧",
+      "family": "Branches of arts already present",
+      "definition": "A reading using astragali, knucklebones or their shaped equivalents as lots.",
+      "context": "Museum collections document astragali as ancient gaming objects. Divinatory use requires a particular scoring or interpretive source, which should accompany the cast.",
+      "method": [
+        "Identify the pieces and name a scoring or historical source.",
+        "Record the faces and positions of each cast before moving them.",
+        "Apply the stated rule and preserve the raw outcome."
+      ],
+      "photo": [
+        "Photograph the full cast overhead with each face visible.",
+        "Include a legend identifying pieces, values and the boundary of the cast."
+      ],
+      "related": [
+        "dice"
+      ],
+      "lexicon": [
+        {
+          "term": "Astragalomancy",
+          "term_es": "Astragalomancia",
+          "definition": "Divination by casting knucklebones or astragalus-shaped lots."
+        },
+        {
+          "term": "Astragalus / astragaloi",
+          "term_es": "Astrágalo / astrágalos",
+          "definition": "The ankle bone, or a shaped object modeled on it, used in ancient games and some lot practices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Metropolitan Museum of Art — Glass astragal",
+          "url": "https://www.metmuseum.org/art/collection/search/249800"
+        }
+      ],
+      "summary_original": "Knucklebone or lot readings related to the existing Dice page."
+    },
+    {
+      "slug": "rhabdomancy",
+      "title": "Rhabdomancy & rod methods",
+      "title_es": "Rabdomancia y varillas",
+      "scale": "hand",
+      "secondary_scales": [
+        "human"
+      ],
+      "symbol": "✧",
+      "family": "Branches of arts already present",
+      "definition": "Readings or searches made with rods or wands whose movement is interpreted by the practitioner.",
+      "context": "Rhabdomancy is a historical rod-divination term and overlaps with some modern dowsing practices. The rod motion, handling conditions and proposed meaning can be recorded separately.",
+      "method": [
+        "Describe the rod shape, grip, target and interpretation rule.",
+        "Record a complete pass or trial before revealing any concealed target.",
+        "Retain movement observations and all comparisons, including nonresponses."
+      ],
+      "photo": [
+        "Show the full rod and grip from the side without obscuring the tips.",
+        "Add a plan of the trial area with the direction of movement and concealed target reveal kept separate."
+      ],
+      "related": [
+        "radiesthesia",
+        "pendulum"
+      ],
+      "lexicon": [
+        {
+          "term": "Rhabdomancy",
+          "term_es": "Rabdomancia",
+          "definition": "Divination with rods or wands."
+        },
+        {
+          "term": "Rod methods",
+          "term_es": "Métodos con varillas",
+          "definition": "Procedures using rods as indicators; the setup and interpretive rule should be specified."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Project Gutenberg — Webster’s Unabridged Dictionary (historical vocabulary)",
+          "url": "https://www.gutenberg.org/ebooks/29765"
+        },
+        {
+          "title": "University of Pennsylvania — Lewis Spence’s 1920 historical reference work",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp68387"
+        }
+      ],
+      "summary_original": "A family already partly covered by Radiesthesia / dowsing; link as a variant."
+    },
+    {
+      "slug": "astrology-branches",
+      "title": "Horary, electional, natal & mundane astrology",
+      "title_es": "Astrología horaria, electiva, natal y mundana",
+      "scale": "solar",
+      "secondary_scales": [],
+      "symbol": "☉",
+      "family": "Branches of arts already present",
+      "definition": "Branches of astrology distinguished by the moment, question and subject for which a chart is interpreted.",
+      "context": "Each branch can use different schools, house systems, zodiacs and timing rules. A chart’s purpose and calculation settings should remain visible alongside the reading.",
+      "method": [
+        "Name the branch and the source of the date, time and place.",
+        "Record zodiac, house system, time offset and chart style.",
+        "Keep the calculated chart separate from the school’s interpretive claims."
+      ],
+      "photo": [
+        "Export the whole chart with its settings and date visible.",
+        "Redact names and private birth details unless required for the submitted question."
+      ],
+      "related": [
+        "horoscope",
+        "planets"
+      ],
+      "lexicon": [
+        {
+          "term": "Horary astrology",
+          "term_es": "Astrología horaria",
+          "definition": "Astrological interpretation of a chart cast for the moment associated with a question."
+        },
+        {
+          "term": "Electional astrology",
+          "term_es": "Astrología electiva",
+          "definition": "Astrological selection of a proposed time for an intended activity."
+        },
+        {
+          "term": "Natal astrology",
+          "term_es": "Astrología natal",
+          "definition": "Astrological interpretation of a chart for a birth."
+        },
+        {
+          "term": "Mundane astrology",
+          "term_es": "Astrología mundana",
+          "definition": "Astrological interpretation concerning collective affairs, places or public events."
+        }
+      ],
+      "sources": [
+        {
+          "title": "AstroApp — Astrology features and traditions",
+          "url": "https://astroapp.com/en/features"
+        },
+        {
+          "title": "AstroApp — JavaScript API getting started",
+          "url": "https://astroapp.com/help/1/api_start.html"
+        }
+      ],
+      "summary_original": "Branches for the existing astrology space, with explicit chart settings and sources."
+    },
+    {
+      "slug": "astrocartography-planetary-hours",
+      "title": "Astrocartography & planetary hours",
+      "title_es": "Astrocartografía y horas planetarias",
+      "scale": "solar",
+      "secondary_scales": [
+        "earth"
+      ],
+      "symbol": "☉",
+      "family": "Branches of arts already present",
+      "definition": "Astrological mapping and timing systems that use different geographic and calendrical conventions.",
+      "context": "Astrocartography maps selected chart relationships onto places. Planetary-hour systems divide day and night into symbolic planetary sequences; the convention and location must be recorded.",
+      "method": [
+        "State whether the record is a geographic map or a planetary-hour calculation.",
+        "Retain the date, location and calculation conventions.",
+        "Explain the symbolic interpretation with reference to the chosen school."
+      ],
+      "photo": [
+        "Send a map overview plus a close view with legend and coordinates.",
+        "For planetary hours, provide the full table and its sunrise, sunset and time-zone assumptions."
+      ],
+      "related": [
+        "horoscope",
+        "planets",
+        "sun"
+      ],
+      "lexicon": [
+        {
+          "term": "Astrocartography",
+          "term_es": "Astrocartografía",
+          "definition": "Astrological maps showing selected chart relationships across geographic locations."
+        },
+        {
+          "term": "Planetary hours",
+          "term_es": "Horas planetarias",
+          "definition": "Astrological divisions of day and night assigned to a recurring sequence of planetary rulers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "AstroApp — Astrology features and traditions",
+          "url": "https://astroapp.com/en/features"
+        }
+      ],
+      "summary_original": "Further astrological mapping and timing systems; record their conventions."
+    },
+    {
+      "slug": "tasseography-variants",
+      "title": "Tasseography variants",
+      "title_es": "Variantes de tasseografía",
+      "scale": "hand",
+      "secondary_scales": [
+        "matter"
+      ],
+      "symbol": "✧",
+      "family": "Branches of arts already present",
+      "definition": "Related cup-reading practices interpreting patterns of tea leaves, coffee grounds or other specified sediment.",
+      "context": "Preparation, cup orientation and symbol vocabularies differ between regional and family traditions. The source and preparation belong in the field note rather than a single universal list of meanings.",
+      "method": [
+        "Record the drink, preparation and how the cup was handled.",
+        "Mark the handle or another fixed reference before photographing.",
+        "Describe the visible patterns and identify the tradition used to read them."
+      ],
+      "photo": [
+        "Take one overhead view and several views around the inner wall with the handle location marked.",
+        "Use diffuse light, include the saucer if relevant and photograph before washing or moving the residue."
+      ],
+      "related": [
+        "grounds"
+      ],
+      "lexicon": [
+        {
+          "term": "Tasseography",
+          "term_es": "Tasseografía",
+          "definition": "Interpretation of residue patterns in a cup or related vessel."
+        },
+        {
+          "term": "Tea-leaf reading",
+          "term_es": "Lectura de hojas de té",
+          "definition": "A tasseographic practice using leaves left in a cup."
+        },
+        {
+          "term": "Coffee-ground reading",
+          "term_es": "Lectura de posos de café",
+          "definition": "A tasseographic practice using coffee residue and its patterns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "University of Pennsylvania — Lewis Spence’s 1920 historical reference work",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp68387"
+        },
+        {
+          "title": "Project Gutenberg — Webster’s Unabridged Dictionary (historical vocabulary)",
+          "url": "https://www.gutenberg.org/ebooks/29765"
+        }
+      ],
+      "summary_original": "Tea leaves and coffee grounds are already present; regional preparation and reading methods could have their own notes."
+    }
+  ]
+}

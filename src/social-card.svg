@@ -1,0 +1,12 @@
+<!-- Timestamp: 2026-10-29 | Version: 1.11.0 | Author & Credits: https://www.alawise.es/1-s -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><radialGradient id="glow" cx="78%" cy="45%" r="70%"><stop offset="0" stop-color="#211938"/><stop offset="0.55" stop-color="#0d0b19"/><stop offset="1" stop-color="#06060c"/></radialGradient></defs>
+<rect width="1200" height="630" fill="url(#glow)"/>
+<g fill="none" stroke="#7367e8"><circle cx="940" cy="310" r="217" opacity=".15"/><circle cx="940" cy="310" r="193" opacity=".2"/><circle cx="940" cy="310" r="153" opacity=".1"/></g>
+<path d="M76 78H1124M76 552H1124" stroke="#393049" stroke-width="1"/>
+<text x="78" y="132" fill="#b3a5ff" font-size="15" font-family="DejaVu Sans Mono, monospace" letter-spacing="4">OBSERVATION · SYMBOL · POSSIBILITY</text>
+<text x="72" y="284" fill="#eeebf8" font-size="91" font-family="Liberation Serif, serif">kamala<tspan fill="#b3a5ff">.pro</tspan></text>
+<text x="77" y="370" fill="#c7bbef" font-size="51" font-family="Liberation Serif, serif">Artes Mánticos</text>
+<text x="79" y="455" fill="#a19db4" font-size="18" font-family="DejaVu Sans, sans-serif">Mantic arts · nature · traditions</text>
+<text x="79" y="512" fill="#847b9b" font-size="12" font-family="DejaVu Sans Mono, monospace" letter-spacing="3">FIVE SCALES. AN OPEN FIELD OF INQUIRY.</text>
+<svg x="770" y="140" width="340" height="340" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" ><g fill="none" stroke-width="1.8" stroke-linecap="round"><g transform="rotate(0 32 32)"><path stroke="#7367e8" d="M32 25V6"/><path stroke="#45bc7b" d="M34.68 25.53L41.95 7.98"/><path stroke="#eac84c" d="M36.95 27.05L50.38 13.62"/><path stroke="#df5d70" d="M38.47 29.32L56.02 22.05"/></g><g transform="rotate(90 32 32)"><path stroke="#7367e8" d="M32 25V6"/><path stroke="#45bc7b" d="M34.68 25.53L41.95 7.98"/><path stroke="#eac84c" d="M36.95 27.05L50.38 13.62"/><path stroke="#df5d70" d="M38.47 29.32L56.02 22.05"/></g><g transform="rotate(180 32 32)"><path stroke="#7367e8" d="M32 25V6"/><path stroke="#45bc7b" d="M34.68 25.53L41.95 7.98"/><path stroke="#eac84c" d="M36.95 27.05L50.38 13.62"/><path stroke="#df5d70" d="M38.47 29.32L56.02 22.05"/></g><g transform="rotate(270 32 32)"><path stroke="#7367e8" d="M32 25V6"/><path stroke="#45bc7b" d="M34.68 25.53L41.95 7.98"/><path stroke="#eac84c" d="M36.95 27.05L50.38 13.62"/><path stroke="#df5d70" d="M38.47 29.32L56.02 22.05"/></g></g></svg></svg>

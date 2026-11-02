@@ -1,0 +1,201 @@
+[
+  {
+    "slug": "christian-contemplation",
+    "title": "Christian contemplation",
+    "summary": "Attention, silence and the natural world.",
+    "description": "The Christian pathway begins with contemplation and attention to creation. Laudato si’ connects attentive presence with the observation of nature and care for the world. This is one named Christian source, rather than a definition of every Christian tradition.",
+    "practices": [
+      "Contemplation",
+      "Silence",
+      "Observation of nature"
+    ],
+    "method": "Choose a passage and identify its author and context. Record a natural observation in plain descriptive language, then write any theological or personal reflection separately.",
+    "techniques": [
+      "contemplative-observation"
+    ],
+    "sources": [
+      {
+        "title": "Vatican — Laudato si’, §§222–226",
+        "url": "https://press.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html"
+      }
+    ]
+  },
+  {
+    "slug": "sikh",
+    "title": "Sikh traditions",
+    "summary": "Naam, Gurbani and attentive listening.",
+    "description": "Naam remembrance, reflection on scripture and kirtan provide a Sikh point of entry. The SGPC’s Rehat Maryada offers a named reference for practice and context. Sikh practice has its own framework; yoga and astrological interpretation are discussed in their own sections.",
+    "practices": [
+      "Naam remembrance",
+      "Gurbani",
+      "Kirtan"
+    ],
+    "method": "Begin with a named source or recording. Note the text, language, performer and setting. Keep a translation, personal response and the original words distinguishable in the record.",
+    "techniques": [
+      "naam-listening"
+    ],
+    "sources": [
+      {
+        "title": "SGPC — Sikh Rehat Maryada",
+        "url": "https://old.sgpc.net/CDN/Sikh_Rehat_Maryada_English.pdf"
+      },
+      {
+        "title": "SGPC — Live Kirtan",
+        "url": "https://sgpc.net/live-kirtan/"
+      }
+    ]
+  },
+  {
+    "slug": "yogic",
+    "title": "Yogic traditions",
+    "summary": "Breath, attention and contemplative practice.",
+    "description": "Yogic practice includes approaches to attention, meditation and breathing. The Ministry of Ayush’s Common Yoga Protocol is one explicit reference for this pathway. A named source and teaching context make comparisons more useful than treating all yoga as one method.",
+    "practices": [
+      "Breath awareness",
+      "Dhyana",
+      "Trataka",
+      "Attention"
+    ],
+    "method": "Identify the text or teaching being studied. For a simple observation note, describe the natural breath and the circumstances of the observation without adding a breath-control exercise.",
+    "techniques": [
+      "breath-observation",
+      "candle-gazing"
+    ],
+    "sources": [
+      {
+        "title": "Ministry of Ayush — Common Yoga Protocol",
+        "url": "https://yoga.ayush.gov.in/YAP/PDF/Common%20Yoga%20Protocol%20Book-English.pdf"
+      },
+      {
+        "title": "Yoga in Daily Life — Trataka",
+        "url": "https://www.yogaindailylife.org/system/en/hatha-yoga-kriyas/trataka"
+      }
+    ]
+  },
+  {
+    "slug": "buddhist",
+    "title": "Buddhist traditions",
+    "summary": "Mindful breathing and present attention.",
+    "description": "Plum Village offers a concrete Buddhist source for mindfulness of breathing and walking. This pathway starts with that community’s account and keeps its language and practice context visible.",
+    "practices": [
+      "Mindful breathing",
+      "Mindful walking",
+      "Attention"
+    ],
+    "method": "Read the named teaching before comparing it with another practice. A field note can describe attention to ordinary breathing, the setting and duration, without making a claim about spiritual attainment.",
+    "techniques": [
+      "breath-observation"
+    ],
+    "sources": [
+      {
+        "title": "Plum Village — The Art of Mindful Living",
+        "url": "https://plumvillage.org/mindfulness/mindfulness-practice"
+      }
+    ]
+  },
+  {
+    "slug": "shamanic",
+    "title": "Shamanic & Indigenous cultural atlas",
+    "summary": "Thirteen peoples and pathways, with their own names, places and public sources.",
+    "description": "A regional atlas of distinct traditions: Diné, Karelian, Sámi, Evenki, Sakha, Buryat, Tuvan, Mongolian, Shipibo-Konibo-Xetebo, Yanomami, Mapuche, Inuit and Jeju. Community terms and specific sources guide each entry.",
+    "practices": [
+      "Community knowledge",
+      "Land and place",
+      "Ritual sound"
+    ],
+    "method": "Name the community, object or publicly shared recording and record its provenance. Describe audible or visible features first. Seek the source’s explanation of its meaning instead of inventing a universal ritual.",
+    "techniques": [
+      "ritual-sound"
+    ],
+    "sources": [
+      {
+        "title": "British Museum — Arctic exhibition object records: Evenki drum beater",
+        "url": "https://www.britishmuseum.org/sites/default/files/2020-08/Protection%20from%20Seizure%20%E2%80%93%20Arctic.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "yijing",
+    "title": "Yijing / Book of Changes",
+    "summary": "Hexagrams, text and interpretation.",
+    "description": "The Yijing pathway follows named hexagrams and a specified edition or translation of the Book of Changes. The Chinese Text Project provides a browsable text for comparison. Record the consultation method alongside the reading when a consultation is made.",
+    "practices": [
+      "Hexagrams",
+      "Textual comparison",
+      "Consultation records"
+    ],
+    "method": "State the edition, translation and method being used. Preserve the original line order and any changing-line notation. Keep the cited text separate from the personal reading.",
+    "techniques": [
+      "yijing"
+    ],
+    "sources": [
+      {
+        "title": "Chinese Text Project — Yi Jing",
+        "url": "https://ctext.org/book-of-changes/yi-jing"
+      }
+    ]
+  },
+  {
+    "slug": "runic",
+    "title": "Runic traditions",
+    "summary": "Inscriptions, alphabets and symbolic readings.",
+    "description": "Historical runic writing and contemporary symbolic readings provide different starting points. The British Museum’s inscribed seax is a material reference for a runic alphabet. Retain the distinction between an inscription, its transliteration and a later interpretation.",
+    "practices": [
+      "Inscription study",
+      "Transliteration",
+      "Runic readings"
+    ],
+    "method": "Identify the rune set or historical object. Copy the signs in order and name the transliteration convention. Attribute any symbolic meanings to the source that supplies them.",
+    "techniques": [
+      "runes"
+    ],
+    "sources": [
+      {
+        "title": "British Museum — Seax with a runic alphabet",
+        "url": "https://www.britishmuseum.org/collection/object/H_1857-0623-1"
+      }
+    ]
+  },
+  {
+    "slug": "tarot",
+    "title": "Tarot & cartomancy",
+    "summary": "Cards, imagery and interpretive practice.",
+    "description": "Card imagery can be studied alongside the history of card games and later interpretive uses. The Metropolitan Museum’s account provides a starting point for distinguishing historical tarot cards from subsequent fortune-telling traditions.",
+    "practices": [
+      "Deck study",
+      "Card layouts",
+      "Symbolic interpretation"
+    ],
+    "method": "Name the deck, edition and interpretive source. Record the arrangement and visible imagery before writing the reading. Keep later associations attributed to their authors.",
+    "techniques": [
+      "cards"
+    ],
+    "sources": [
+      {
+        "title": "The Met — Before Fortune-Telling: The History and Structure of Tarot Cards",
+        "url": "https://www.metmuseum.org/perspectives/tarot-2"
+      }
+    ]
+  },
+  {
+    "slug": "goethean-anthroposophical",
+    "title": "Goethean & anthroposophical approaches",
+    "summary": "Close observation and image-forming methods.",
+    "description": "This pathway introduces close observation and the copper-chloride crystallization methods discussed at the Goetheanum. An image, its preparation conditions and its interpretation belong together in the record. A tradition’s research aims and the validation of a specific claim require separate assessment.",
+    "practices": [
+      "Phenomenological observation",
+      "Crystallization",
+      "Image comparison"
+    ],
+    "method": "Start with documented images and their preparation conditions. Compare concentration, temperature, substrate and evaporation history before discussing differences in form.",
+    "techniques": [
+      "crystallization"
+    ],
+    "sources": [
+      {
+        "title": "Goetheanum — Evolving Science 2024: image-forming methods",
+        "url": "https://science.goetheanum.org/en/events/evolving-science-2024-1"
+      }
+    ]
+  }
+]

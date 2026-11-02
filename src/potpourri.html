@@ -1,0 +1,18 @@
+<!-- Timestamp: 2026-10-30 | Version: 2.0.0 | Author and Credits: https://www.alawise.es/1-s -->
+<section class="page-hero has-art"><div><a class="back-link" href="/scales/">KAMALA / FIELD NOTES</a><div class="eyebrow">POTPOURRI / PERSONAL INTERPRETATION</div><h1>A trace.<br>A possible reading.</h1><p>Share a photograph, a drawing or a recorded result for a personal interpretation. Every art has a place here.</p></div><div class="pot-mark" aria-hidden="true">✧<span>IMAGES · SIGNS · STORIES</span></div></section>
+<section class="section pot-layout" data-potpourri>
+  <aside class="pot-guide"><span class="eyebrow">BEFORE THE PHOTOGRAPH</span><h2>Keep the detail.<br>Keep the context.</h2><ol><li>Use soft, even light and a steady camera. Check focus before sending.</li><li>Include one full view and one closer detail. Preserve the order of a spread or sequence.</li><li>Describe the question, procedure and what happened before the photograph.</li><li>Include only material that can be shared. Keep addresses and unrelated people outside the frame.</li></ol><div class="pot-specific" aria-live="polite"><span class="eyebrow">FOR THIS ART</span><ul data-photo-tips><li>Choose an art to see its photograph or record instructions.</li></ul></div><p class="quiet-note">Readings are prepared personally and returned by email. There is no public gallery.</p><a class="text-link" href="/glossary/">Find a name in the glossary ↗</a></aside>
+  <form class="pot-form" action="/potpourri/send.php" method="post" enctype="multipart/form-data" autocomplete="on">
+    <label>Art / subject<select name="art" required data-pot-topic><!-- POTPOURRI OPTIONS --></select></label>
+    <div class="pot-fields"><label>Name<input name="name" maxlength="100" autocomplete="name" required></label><label>Reply email<input name="email" type="email" maxlength="254" autocomplete="email" required></label></div>
+    <label>Question & context<textarea name="message" rows="6" maxlength="10000" required placeholder="What is being observed, how was it prepared, and what would the reading explore?"></textarea></label>
+    <label>Photographs · up to 3<input type="file" name="photos[]" accept="image/jpeg,image/png,image/webp" multiple required data-pot-files></label><p class="quiet-note">JPEG, PNG or WebP. Up to 5 MB per photo, 12 MB in total and 25 megapixels per image.</p>
+    <div class="pot-previews" data-pot-previews aria-label="Selected photos"></div>
+    <label class="pot-consent"><input type="checkbox" name="consent" value="yes" required><span>Send these images and details privately for a human interpretation and an email reply. Permission to share the material has been obtained.</span></label>
+    <details class="pot-retention"><summary>How photographs are handled</summary><p>Images are checked and re-encoded before being attached to an email. Temporary processed images are deleted after the sending attempt; there is no permanent upload directory. A copy remains in the inquiry email for the interpretation and follow-up. Deletion can be requested by replying to that correspondence.</p></details>
+    <div class="pot-trap" aria-hidden="true"><label>Website<input name="website" tabindex="-1" autocomplete="off"></label></div><input type="hidden" name="csrf" value="">
+    <button class="button" type="submit" disabled>Send for interpretation ↗</button>
+    <p data-pot-status role="status" aria-live="polite">Preparing the private submission form…</p>
+    <noscript>JavaScript is required to prepare the private submission token.</noscript>
+  </form>
+</section>

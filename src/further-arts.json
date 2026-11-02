@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Inner perception & dreams",
+    "scope": "HUMAN SCALE / SUBJECTIVE ACCOUNTS",
+    "items": [
+      {
+        "title": "Remote viewing",
+        "summary": "A named target protocol often grouped with clairvoyance; compare complete impressions against concealed targets."
+      },
+      {
+        "title": "Precognition & presentiment",
+        "summary": "Reports interpreted as anticipating later events; retain dated records before any outcome is known."
+      },
+      {
+        "title": "Retrocognition",
+        "summary": "Impressions interpreted as referring to past events; separate prior knowledge from later checks."
+      },
+      {
+        "title": "Telepathy",
+        "summary": "Reports of apparent person-to-person information transfer; distinguish an impression from a demonstrated communication channel."
+      },
+      {
+        "title": "Psychometry",
+        "summary": "Impressions associated with handling an object; record them before learning its provenance."
+      },
+      {
+        "title": "Clairaudience & clairsentience",
+        "summary": "Subjective experiences described as inner hearing or feeling; terms and interpretations vary."
+      },
+      {
+        "title": "Oneiromancy",
+        "summary": "Symbolic dream interpretation; related to dreams, with a different aim from recognizing a lucid dream."
+      },
+      {
+        "title": "Dream incubation",
+        "summary": "Setting a question or intention before sleep and recording the dream on waking."
+      },
+      {
+        "title": "Hypnagogic imagery",
+        "summary": "Images or sensations around sleep onset, recorded as experiences at the sleep boundary."
+      },
+      {
+        "title": "Dream yoga & yoga nidra",
+        "summary": "Tradition-specific contemplative practices of dream and sleep; separate sources and methods are needed for each."
+      }
+    ]
+  },
+  {
+    "title": "Reflective surfaces, fire & forms",
+    "scope": "MATTER & HAND SCALES / FURTHER GAZING METHODS",
+    "items": [
+      {
+        "title": "Catoptromancy / mirror gazing",
+        "summary": "Reading or contemplating reflected images, including dark mirrors; a further gazing surface."
+      },
+      {
+        "title": "Hydromancy",
+        "summary": "Symbolic readings of water, its surface or motion."
+      },
+      {
+        "title": "Lecanomancy",
+        "summary": "Basin readings, sometimes involving oil on water; often overlaps with hydromancy."
+      },
+      {
+        "title": "Pyromancy",
+        "summary": "Symbolic observation of fire; candle gazing is already included as one related practice."
+      },
+      {
+        "title": "Capnomancy",
+        "summary": "Symbolic observation of smoke and its changing forms."
+      },
+      {
+        "title": "Ceromancy",
+        "summary": "Reading wax forms; distinct from observing a candle flame."
+      },
+      {
+        "title": "Lithomancy",
+        "summary": "Readings using stones, their selection, casting or arrangement; methods differ."
+      },
+      {
+        "title": "Sand readings / psammomancy",
+        "summary": "Patterns in sand or scattered grains; sometimes overlaps with geomancy."
+      },
+      {
+        "title": "Inkblot & incidental-image readings",
+        "summary": "Symbolic responses to chance marks, stains or images; separate from clinical testing."
+      }
+    ]
+  },
+  {
+    "title": "Lots, texts, names & numbers",
+    "scope": "HAND SCALE / SYMBOLIC SYSTEMS",
+    "items": [
+      {
+        "title": "Geomancy",
+        "summary": "Dot figures and their combinations; identify the named tradition and method rather than treating all earth readings as one system."
+      },
+      {
+        "title": "Bibliomancy & stichomancy",
+        "summary": "Selecting a passage, line or verse from a book as a symbolic prompt."
+      },
+      {
+        "title": "Numerology / arithmancy",
+        "summary": "Symbolic number systems; name the correspondence rules and source."
+      },
+      {
+        "title": "Gematria & isopsephy",
+        "summary": "Letter-number interpretation within specific linguistic and textual traditions."
+      },
+      {
+        "title": "Onomancy",
+        "summary": "Symbolic readings of names; correspondence rules depend on the tradition."
+      },
+      {
+        "title": "Kledonomancy",
+        "summary": "Reading chance words or overheard phrases as symbolic prompts."
+      },
+      {
+        "title": "Cleromancy / casting lots",
+        "summary": "An umbrella family: dice, coins and runes already cover several lot-based forms."
+      },
+      {
+        "title": "Belomancy",
+        "summary": "Historical readings involving arrows or their selection; can be studied through records."
+      },
+      {
+        "title": "Ifa, diloggun & named casting systems",
+        "summary": "Distinct community-specific traditions rather than interchangeable generic oracles; each needs its own sources and context."
+      }
+    ]
+  },
+  {
+    "title": "Body, gesture & creative attention",
+    "scope": "HUMAN & HAND SCALES / HISTORICAL AND CONTEMPLATIVE PRACTICES",
+    "items": [
+      {
+        "title": "Physiognomy & metoposcopy",
+        "summary": "Historical readings of facial or forehead features; appearance does not establish character or destiny."
+      },
+      {
+        "title": "Graphology",
+        "summary": "Interpretations of handwriting, distinct from automatic writing; a historical and symbolic topic here."
+      },
+      {
+        "title": "Hand and body movement journals",
+        "summary": "Structured gesture records extending the existing kinesthesia field note."
+      },
+      {
+        "title": "Automatic music & improvisation",
+        "summary": "A creative counterpart to automatic writing and painting; retain the recording before interpretation."
+      },
+      {
+        "title": "Guided imagery & pathworking",
+        "summary": "Structured imaginative journeys with their script and interpretive framework recorded."
+      },
+      {
+        "title": "Labyrinth walking",
+        "summary": "A contemplative movement practice; an adjacent art rather than a forecasting system."
+      }
+    ]
+  },
+  {
+    "title": "Landscape, weather & animal signs",
+    "scope": "EARTH SCALE / DOCUMENTED CUSTOMS AND OBSERVATION",
+    "items": [
+      {
+        "title": "Augury / ornithomancy",
+        "summary": "Historical interpretations of birds, calls or flight; distinguish them from ecological field observations."
+      },
+      {
+        "title": "Alectryomancy, hippomancy & ichthyomancy",
+        "summary": "Historical readings involving fowl, horses or fish; study documented accounts without disturbing animals."
+      },
+      {
+        "title": "Nephomancy",
+        "summary": "Symbolic cloud readings, an extension of the existing weather field note."
+      },
+      {
+        "title": "Brontomancy",
+        "summary": "Historical interpretations of thunder; retain the cultural source and meteorological context."
+      },
+      {
+        "title": "Scapulimancy & plastromancy",
+        "summary": "Historical oracle readings of shoulder blades or shells, studied through museum records and existing objects."
+      },
+      {
+        "title": "Extispicy / hepatoscopy",
+        "summary": "Historical readings of internal organs, treated as an archival topic using documented objects and texts."
+      }
+    ]
+  },
+  {
+    "title": "Branches of arts already present",
+    "scope": "EXISTING FAMILIES / VARIANTS TO DETAIL",
+    "items": [
+      {
+        "title": "Tarot, Lenormand, Sibilla & playing-card systems",
+        "summary": "Separate branches of the existing Cards page; name the deck and interpretive system."
+      },
+      {
+        "title": "Astragalomancy",
+        "summary": "Knucklebone or lot readings related to the existing Dice page."
+      },
+      {
+        "title": "Rhabdomancy & rod methods",
+        "summary": "A family already partly covered by Radiesthesia / dowsing; link as a variant."
+      },
+      {
+        "title": "Horary, electional, natal & mundane astrology",
+        "summary": "Branches for the existing astrology space, with explicit chart settings and sources."
+      },
+      {
+        "title": "Astrocartography & planetary hours",
+        "summary": "Further astrological mapping and timing systems; record their conventions."
+      },
+      {
+        "title": "Tasseography variants",
+        "summary": "Tea leaves and coffee grounds are already present; regional preparation and reading methods could have their own notes."
+      }
+    ]
+  }
+]

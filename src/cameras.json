@@ -1,0 +1,6 @@
+[
+  {"id": "cam1", "title": "Camera 1", "summary": "The observatory, one frame at a time.", "source": "https://kam.2to1.me/stream/cam1", "label": "OBSERVATORY / 01"},
+  {"id": "cam2", "title": "Camera 2", "summary": "A second window onto the observatory.", "source": "https://kam.2to1.me/stream/cam2", "label": "OBSERVATORY / 02"},
+  {"id": "cam3", "title": "Camera 3", "summary": "Another angle for close observation.", "source": "https://kam.2to1.me/stream/cam3", "label": "OBSERVATORY / 03"},
+  {"id": "cam4", "title": "Microscope", "summary": "Small structures, on their own screen.", "source": "https://kam.2to1.me/stream/cam4", "label": "MICROSCOPE / 04"}
+]

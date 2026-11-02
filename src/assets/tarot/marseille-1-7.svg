@@ -1,0 +1,40 @@
+<!-- Timestamp: 2026-11-01 | Version: 2.1.0 | Author & Credits: https://www.alawise.es/1-s -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" role="img" aria-labelledby="title" data-pip-count="7" data-deck-style="marseille">
+<title id="title">7 · Coupes</title><defs><g id="pip" stroke="#292321" stroke-width="1.35" stroke-linejoin="round" stroke-linecap="round"><path d="M-23-24C-43-37-43 0-20-1M23-24C43-37 43 0 20-1" fill="none" stroke="#d9a636" stroke-width="6"/>
+<path d="M-23-24C-43-37-43 0-20-1M23-24C43-37 43 0 20-1" fill="none" stroke-width="1.15"/>
+<path d="M-29-30Q-26 2-6 10L-5 23L-17 30L-23 33L-23 39H23V33L17 30L5 23L6 10Q26 2 29-30Z" fill="#d9a636"/>
+<ellipse cy="-30" rx="29" ry="8" fill="#d9a636"/><ellipse cy="-30" rx="24" ry="4" fill="#ad332b" stroke-width=".8"/>
+<path d="M-23-18Q0-5 23-18L20-6Q0 4-20-6Z" fill="#244b69" stroke-width=".85"/>
+<path d="M-18-15Q0-6 18-15M-13-1Q0 9 13-1M-21 34H21M-13 30H13M-5 14H5M-5 20H5" fill="none" stroke-width=".8"/>
+<path d="M0-17L4-11L0-7L-4-11Z" fill="#ad332b" stroke="#d9a636" stroke-width=".7"/>
+<path d="M-15-26L-12-20M-5-25L-4-16M5-25L4-16M15-26L12-20M-8 5L-6 9M8 5L6 9" fill="none" stroke-width=".65"/>
+<path d="M-18 36H18M-10 32H10" fill="none" stroke="#f7eedb" stroke-width=".6"/></g><pattern id="paper-grain" width="17" height="23" patternUnits="userSpaceOnUse"><path d="M3 4L5 4M12 16L13 16M7 21L8 21" stroke="#756047" stroke-width=".4" opacity=".13"/></pattern></defs>
+<rect width="300" height="450" rx="6" fill="#f7eedb"/><rect width="300" height="450" fill="url(#paper-grain)"/>
+<rect x="17" y="17" width="266" height="416" rx="3" fill="none" stroke="#292321" stroke-width="1"/>
+<rect x="21" y="21" width="258" height="408" rx="2" fill="none" stroke="#bc953c" stroke-width=".7"/>
+<path d="M38 30H262M38 420H262M30 42V408M270 42V408" fill="none" stroke="#292321" stroke-width=".4"/>
+<path d="M38 34C48 35 50 31 54 29C50 42 38 42 38 34M262 34C252 35 250 31 246 29C250 42 262 42 262 34M38 416C48 415 50 419 54 421C50 408 38 408 38 416M262 416C252 415 250 419 246 421C250 408 262 408 262 416" fill="#d9a636" stroke="#292321" stroke-width=".6"/><g stroke="#3c7151" fill="none" stroke-width="1"><path d="M49 371C42 285 48 160 46 79M251 371C258 285 252 160 254 79"/></g><g transform="translate(46 92) rotate(-25) scale(0.26)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g><g transform="translate(254 358) rotate(155) scale(0.26)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g><g transform="translate(46 178) rotate(-25) scale(0.26)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g><g transform="translate(254 272) rotate(155) scale(0.26)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g><g transform="translate(46 273) rotate(-25) scale(0.26)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g><g transform="translate(254 177) rotate(155) scale(0.26)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g><g transform="translate(46 358) rotate(-25) scale(0.26)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g><g transform="translate(254 92) rotate(155) scale(0.26)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g><use data-pip="1" href="#pip" transform="translate(87 94) scale(0.8)"/><use data-pip="1" href="#pip" transform="translate(213 94) scale(0.8)"/><use data-pip="1" href="#pip" transform="translate(87 225) scale(0.8)"/><use data-pip="1" href="#pip" transform="translate(213 225) scale(0.8)"/><use data-pip="1" href="#pip" transform="translate(87 356) scale(0.8)"/><use data-pip="1" href="#pip" transform="translate(213 356) scale(0.8)"/><use data-pip="1" href="#pip" transform="translate(150 225) scale(0.8)"/></svg>

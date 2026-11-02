@@ -1,0 +1,117 @@
+/* Timestamp: 2026-11-02 | Version: 2.1.1 | Author & Credits: https://www.alawise.es/1-s */
+.nav-astrology .nav-drop { max-height:65vh;overflow:auto; }
+.lexicon-cards { margin-top:32px; }
+.lexicon-cards .art { height:105px; font-size:46px; }
+.lexicon-cards .card h3 { font-size:21px; }
+.lexicon-cards .tag { min-height:26px; }
+.lexicon-toolbar { display:grid;grid-template-columns:minmax(220px,1fr) minmax(160px,.5fr) auto;gap:30px;align-items:end;padding:26px;border:1px solid var(--line);background:#0e0c1b; }
+.lexicon-toolbar label { display:block;color:var(--copper);font:11px/1.6 monospace; }
+.lexicon-toolbar input,.lexicon-toolbar select { margin-top:12px; }
+.lexicon-toolbar p { margin:0;font:11px/1.6 monospace;color:var(--muted);padding-bottom:10px; }
+select { max-width:100%;background:#100e1d;color:var(--ink);border:1px solid #514366;padding:10px;font:12px/1.6 Arial,sans-serif; }
+.lexicon-alphabet { display:flex;flex-wrap:wrap;gap:8px;margin:28px 0 52px;font:14px/1.6 monospace; }
+.lexicon-alphabet a { padding:7px 13px;border:1px solid var(--line); }
+.lexicon-alphabet a:hover { background:#302755; }
+.lexicon-letter { border-top:1px solid var(--line);padding:26px 0 55px;scroll-margin-top:30px; }
+.lexicon-letter>h2 { color:#a99bff;font-size:48px; }
+.lexicon-grid { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px; }
+.lexicon-entry { padding:24px 26px;background:#0d0b18;border:1px solid #29233e;min-width:0; }
+.lexicon-entry h3 { font-size:25px;line-height:1.25;margin:12px 0 10px; }
+.lexicon-entry h3 a:hover { color:var(--copper); }
+.lexicon-entry p { color:#b6adc7;font-size:13px;line-height:1.8;margin:15px 0 0; }
+.lexicon-es { display:block;color:#bba6df;font:11px/1.6 monospace; }
+.lexicon-empty { padding:35px;border:1px solid var(--line); }
+.term-definitions { margin:25px 0; }
+.term-definitions>div { border-top:1px solid var(--line);padding:22px 0;scroll-margin-top:25px; }
+.term-definitions dt { color:#d6c9fa;font:24px/1.4 Georgia,serif; }
+.term-definitions dd { margin:10px 0 0;color:#aca2bc; }
+.term-definitions dd>span { font:12px/1.6 monospace;color:#ae9cd3; }
+.term-definitions dd p { margin-top:15px; }
+.field-method { background:#0b0915;border-block:1px solid var(--line); }
+.field-method li { margin:15px 0;color:#b4a9c6;font-size:14px;line-height:1.9;padding-left:8px; }
+.pot-invitation { display:flex;gap:35px;justify-content:space-between;align-items:center;border-top:1px solid #352b4e;background:radial-gradient(ellipse at 20% 50%,#20153566,transparent 75%); }
+.pot-invitation h2 { font-size:36px; }
+.pot-invitation p { color:var(--muted);max-width:65ch;font-size:13px; }
+.pot-invitation .button { flex-shrink:0; }
+.pot-mark { color:#9a87d2;font:220px/1 Georgia,serif;text-align:center; }
+.pot-mark span { display:block;font:10px/1.6 monospace;letter-spacing:2px;margin-top:15px; }
+.pot-layout { display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:7%;align-items:start; }
+.pot-guide { min-width:0; }
+.pot-guide li { margin:18px 0;color:#b5a9c7;font-size:14px;line-height:1.9; }
+.pot-specific { margin:35px 0;padding:25px;border:1px solid var(--line);background:#0e0a1a; }
+.pot-specific ul { padding-left:18px; }
+.pot-form { border:1px solid #382c50;padding:32px;background:#0c0a17;min-width:0; }
+.pot-form label { font-size:12px;line-height:1.8; }
+.pot-form select { width:100%;margin-top:12px; }
+.pot-fields { display:grid;grid-template-columns:1fr 1fr;gap:25px; }
+.pot-consent { display:flex;gap:12px;align-items:start;padding:22px 0; }
+.pot-consent input { width:17px;height:17px;margin-top:5px;flex:0 0 17px; }
+.pot-consent span { color:#c5b8d6; }
+.pot-retention { margin-bottom:30px;color:#aa9dbb;font-size:12px; }
+.pot-retention summary { color:#c4b4e6;padding:12px 0; }
+.pot-trap { position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden; }
+.pot-previews { display:flex;flex-wrap:wrap;gap:12px;margin:22px 0; }
+.pot-previews img { width:calc((100% - 24px)/3);height:140px;object-fit:contain;background:#151020;border:1px solid var(--line); }
+[data-pot-status] { margin:25px 0 0;color:#bba9da;font-size:12px;overflow-wrap:anywhere; }
+[data-pot-status] a { display:inline-block;text-decoration:underline; }
+.pot-form button:disabled { opacity:.45;cursor:default; }
+.coin-face.is-relief { border:0;outline:0;background:transparent;box-shadow:none;overflow:visible; }
+.coin-face.is-relief img { width:100%;height:100%;object-fit:contain;filter:none;object-position:center; }
+.coin-face.is-heads:not(.is-relief) img { object-position:center 35%; }
+.astro-fields select { width:100%;margin-top:8px; }
+#astroappDiv { min-height:20px;overflow:auto;max-width:100%; }
+#astroappDiv img { max-width:100%;height:auto; }
+.astro-xml { padding:18px 0;color:#b4a5d1; }
+.astro-xml pre { max-height:400px;overflow:auto;white-space:pre;font:11px/1.7 monospace; }
+.astro-output { min-width:0; }
+@media(min-width:1101px) { .site-navigation { gap:15px;flex-wrap:wrap;justify-content:flex-end;row-gap:0; } }
+@media(max-width:900px) { .lexicon-toolbar{grid-template-columns:1fr 1fr}.lexicon-toolbar p{grid-column:1/-1}.pot-layout{grid-template-columns:1fr;gap:40px}.pot-invitation{align-items:start;flex-direction:column}.pot-mark{font-size:150px}.pot-form{padding:25px} }
+@media(max-width:620px) { .lexicon-grid,.lexicon-toolbar,.pot-fields{grid-template-columns:1fr}.lexicon-toolbar p{grid-column:auto}.lexicon-entry{padding:20px}.lexicon-alphabet{gap:5px}.lexicon-alphabet a{padding:5px 10px}.pot-mark{display:none}.pot-form{padding:20px}.pot-previews img{height:95px}.lexicon-letter>h2{font-size:40px} }
+@media(prefers-reduced-motion:reduce) {html{scroll-behavior:auto}}
+/* Timestamp: 2026-11-01 | Version: 2.1.0 | Author & Credits: https://www.alawise.es/1-s */
+/* Card labels remain live text; the original artwork can be opened at full size. */
+.playing-card.illustrated-card { aspect-ratio:auto; min-height:0; padding:10px 8px; gap:7px; align-items:stretch; justify-content:start; }
+.illustrated-card .card-rank { align-self:center; font-size:15px; }
+.illustrated-card .card-name { font-size:13px; }
+.tarot-art { display:block; width:100%; aspect-ratio:2/3; background:#f6edda; border:1px solid #d0be96; }
+.tarot-art img { display:block; width:100%; height:100%; object-fit:contain; }
+.indexed-card {position:relative;overflow:hidden;}
+.indexed-card .card-index {position:absolute;display:grid;justify-items:center;gap:1px;width:23px;padding:3px 1px;background:#f7eedbe8;color:#292321;border-radius:2px;pointer-events:none;}
+.indexed-card.american-card .card-index {background:#fffdf7ed;}
+.card-index.index-top {top:3px;left:3px;}
+.card-index.index-bottom {bottom:3px;right:3px;transform:rotate(180deg);}
+.card-index b {font:bold 17px/1 Georgia,serif;}
+.card-index span {font:17px/1 Georgia,serif;}
+.red-card .card-index {color:#ae2338;}
+.tarot-art .card-index img {width:17px;height:19px;aspect-ratio:auto;border:0;}
+.tarot-art:focus-visible,.tarot-catalogue-card:focus-visible { outline:3px solid #7466d6; outline-offset:4px; }
+.tarot-intro { max-width:1000px; }
+.tarot-intro > p { color:var(--muted); line-height:1.8; }
+.tarot-index { display:flex; flex-wrap:wrap; gap:12px; margin-top:30px; }
+.tarot-index a { border:1px solid var(--line); padding:10px 16px; border-radius:30px; font:12px monospace; }
+.tarot-section { scroll-margin-top:30px; }
+.tarot-section > h2 { font-size:clamp(32px,5vw,52px); }
+.tarot-gallery { display:grid; grid-template-columns:repeat(auto-fill,minmax(140px,1fr)); gap:25px; align-items:start; }
+.tarot-catalogue-card { display:grid; gap:8px; padding:10px; background:#f6edda; border:1px solid #c5ab77; color:#2b241e; text-align:center; border-radius:5px; box-shadow:0 5px 14px #0005; }
+.tarot-catalogue-card img { display:block; width:100%; height:auto; aspect-ratio:2/3; object-fit:contain; }
+.tarot-catalogue-card small { font:11px monospace; color:#766746; }
+.tarot-catalogue-card strong { font:14px/1.4 Georgia,serif; }
+.tarot-dialog { width:min(92vw,620px); max-height:92vh; padding:18px; border:1px solid #ba9c62; border-radius:5px; background:#f6edda; color:#2b241e; box-shadow:0 15px 60px #0009; }
+.tarot-dialog::backdrop { background:#05040ae6; }
+.tarot-dialog h2 { font:24px/1.3 Georgia,serif; margin:8px 90px 18px 0; }
+.tarot-dialog > img { display:block; width:100%; height:min(74vh,800px); object-fit:contain; }
+.tarot-dialog-close { float:right; border:1px solid #8d7957; background:#eee0c0; color:#30271e; padding:8px 12px; cursor:pointer; }
+@media(max-width:600px) { .playing-card.illustrated-card { padding:8px 5px; gap:5px; } .illustrated-card .card-rank { font-size:12px; } .illustrated-card .card-name { font-size:10px; } .tarot-gallery { gap:14px; grid-template-columns:repeat(auto-fill,minmax(125px,1fr)); } }
+/* Timestamp: 2026-11-02 | Version: 2.1.1 | Author & Credits: https://www.alawise.es/1-s */
+/* Dice stay vector drawings at every size; pips carry the result visually. */
+.dice-table {gap:30px;padding:45px 30px;min-height:260px;background:radial-gradient(ellipse at 50% 35%,#2c2440,#0d0a15 76%);}
+.pip-die {width:clamp(95px,13vw,155px);margin:7px;position:relative;transform:rotate(var(--die-tilt,0deg));filter:drop-shadow(5px 13px 7px #0009);animation:die-settle .4s ease-out both;}
+.pip-die svg {display:block;width:100%;height:auto;overflow:visible;}
+.dice-history {display:flex;align-items:center;gap:15px;flex-wrap:wrap;list-style:none;}
+.dice-history time {font:11px monospace;color:#a79ab8;}
+.dice-mini {display:flex;gap:5px;align-items:center;flex-wrap:wrap;}
+.dice-mini .pip-die {width:34px;margin:3px;filter:drop-shadow(1px 3px 2px #0006);animation:none;}
+.dice-history small {font:10px monospace;color:#8e809f;}
+@keyframes die-settle {from{opacity:0;transform:translateY(-12px) rotate(calc(var(--die-tilt,0deg) - 18deg));}to{opacity:1;transform:translateY(0) rotate(var(--die-tilt,0deg));}}
+@media(max-width:600px) {.dice-table{gap:16px;padding:26px 14px;min-height:200px}.pip-die{width:105px;margin:6px}.dice-mini .pip-die{width:29px;margin:2px}}
+@media(prefers-reduced-motion:reduce) {.pip-die{animation:none}}

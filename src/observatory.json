@@ -1,0 +1,8 @@
+{
+  "solar_video": "https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_512_0171.mp4",
+  "solar_image": "https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0171.jpg",
+  "solar_source": "https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/",
+  "weather_embed": "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%C2%B0C&metricWind=km%2Fh&zoom=6&overlay=wind&product=ecmwf&level=surface&lat=42.5&lon=1.5",
+  "weather_source": "https://www.windy.com/?42.5,1.5,6",
+  "planetary_app": "https://kamala.pro/bior/SolarSimulator/"
+}
