@@ -1,0 +1,46 @@
+# Timestamp: 2026-11-01
+# Version: 2.1.0
+# Author & Credits: https://www.alawise.es/1-s
+[Unit]
+Description=Kamala aggregate network and firewall contemplation feed
+Documentation=https://www.alawise.es/1-s
+After=systemd-journald.service
+Requires=systemd-journald.service
+
+[Service]
+Type=simple
+User=kamala-flow
+Group=kamala-flow
+SupplementaryGroups=systemd-journal
+EnvironmentFile=-/etc/sysconfig/kamala-contemplation
+ExecStart=/usr/bin/python3 -I /usr/local/libexec/kamala/contemplation_feed.py --output /var/www/kamala.pro/html/telemetry/contemplation.json
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=5
+UMask=0022
+NoNewPrivileges=yes
+CapabilityBoundingSet=
+AmbientCapabilities=
+ProtectSystem=strict
+ReadWritePaths=/var/www/kamala.pro/html/telemetry
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+# Keep the host network namespace so its enp6s0 sysfs counters remain visible.
+# AF_UNIX below prevents this service from opening IP sockets.
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectKernelLogs=yes
+ProtectControlGroups=yes
+RestrictAddressFamilies=AF_UNIX
+RestrictRealtime=yes
+RestrictSUIDSGID=yes
+LockPersonality=yes
+MemoryDenyWriteExecute=yes
+RemoveIPC=yes
+TasksMax=8
+MemoryMax=64M
+CPUQuota=10%
+
+[Install]
+WantedBy=multi-user.target

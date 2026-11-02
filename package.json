@@ -1,0 +1,21 @@
+{
+  "name": "kamala-pro",
+  "private": true,
+  "version": "2.1.1",
+  "type": "module",
+  "author": "https://www.alawise.es/1-s",
+  "scripts": {
+    "build": "node scripts/build-dice.mjs && python3 scripts/build-playing-cards.py && python3 scripts/build-tarot.py && python3 scripts/build.py && node scripts/build-lab.mjs",
+    "test:keys": "node tests/keys-core.mjs"
+  },
+  "dependencies": {
+    "bcrypt-pbkdf": "1.0.2",
+    "qrcode": "1.5.4",
+    "node-forge": "1.4.2",
+    "tweetnacl": "1.0.3"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "jsqr": "1.4.0"
+  }
+}

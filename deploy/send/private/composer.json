@@ -1,0 +1,5 @@
+{
+  "name": "1wise/kamala-send",
+  "description": "Shared private mail transport for Kamala contact and biorhythms",
+  "require": {"php": ">=8.2", "phpmailer/phpmailer": "^6.10 || ^7.0"}
+}

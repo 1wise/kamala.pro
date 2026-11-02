@@ -1,0 +1,29 @@
+#!/usr/bin/env python3
+# Timestamp: 2026-11-01
+# Version: 2.1.0
+# Author & Credits: https://www.alawise.es/1-s
+"""Build the quiet viewing rooms around one explicit public telemetry source."""
+
+def crt_cnp(crt_pag, crt_hdr):
+    txt_pag = crt_hdr('A flame.<br>A sphere.<br>A moment.', 'Two quiet rooms. One changing stream from Excalibur.', 'KAMALA / CONTEMPLATION')
+    txt_pag += '''<section class="section contemplation-intro"><p>Traffic on enp6s0 becomes light and movement. Logged firewall notices leave brief amber reflections. Choose a room, enter focus view, and let the changing image hold the attention.</p><div class="contemplation-doors">
+<a href="/apps/candle/" class="contemplation-door candle-door"><span class="door-flame" aria-hidden="true"></span><small>01 / FIRE</small><h2>The candle.</h2><p>Incoming light. Outgoing breath. A small flame shaped by a distant flow.</p><span>Enter the candle room ↗</span></a>
+<a href="/apps/crystal/" class="contemplation-door crystal-door"><span class="door-orb" aria-hidden="true"></span><small>02 / GLASS</small><h2>The crystal.</h2><p>Indigo veils, passing currents and amber rings beneath a polished surface.</p><span>Enter the crystal room ↗</span></a></div>
+<div class="contemplation-method"><h2>How the light changes.</h2><p>Received traffic raises the light; transmitted traffic changes its sway. Packet activity adds fine movement. Each new logged firewall notice adds a brief amber response. The rendering also has a slow artistic rhythm.</p><p>Live mode requires the collector on Excalibur. A missing or stale feed is shown explicitly. Demo mode is a separate, labeled animation with simulated signals. The public feed contains aggregate counters only.</p><p><a href="/techniques/candle-gazing/">Candle gazing field note ↗</a> · <a href="/techniques/crystal-gazing/">Crystal gazing field note ↗</a></p><p class="quiet-note">These are visual interpretations of telemetry. Firewall notices are logged events, and their number depends on the logging configuration and its rate limits.</p></div></section>'''
+    crt_pag('/contemplation/', 'Contemplation — candle & crystal', txt_pag, 'A candle and crystal sphere responding to enp6s0 traffic and aggregate logged firewall notices from Excalibur.')
+    for clv_esc, tit_pag, txt_note in [
+        ('candle', 'The candle.', 'A small light, held in the flow.'),
+        ('crystal', 'The crystal.', 'A quiet surface. A world in motion.')
+    ]:
+        txt_pag = '<section class="contemplation-heading"><a class="back-link" href="/contemplation/">KAMALA / CONTEMPLATION</a><div><h1>' + tit_pag + '</h1><p>' + txt_note + '</p></div><nav aria-label="Contemplation rooms"><a href="/apps/candle/"' + (' aria-current="page"' if clv_esc == 'candle' else '') + '>Candle</a><a href="/apps/crystal/"' + (' aria-current="page"' if clv_esc == 'crystal' else '') + '>Crystal</a></nav></section>'
+        txt_pag += '<section class="contemplation-room" data-contemplation="' + clv_esc + '" aria-label="' + tit_pag + ' Contemplation room">'
+        txt_pag += '''<div class="contemplation-stage"><canvas data-contemplation-canvas role="img" aria-label="A contemplative image responding to incoming and outgoing network activity, with amber reflections for logged firewall notices."></canvas>
+<div class="contemplation-source"><span class="signal-dot"></span><span data-flow-status role="status" aria-live="polite">Connecting to the live feed…</span><span class="flow-interface">EXCALIBUR / enp6s0</span></div>
+<div class="contemplation-inscription"><span data-room-inscription>THE PASSING CURRENT</span><small>LIGHT · MOVEMENT · ATTENTION</small></div>
+<div class="contemplation-readout"><div><span>RECEIVED</span><strong data-flow-rx>—</strong></div><div><span>TRANSMITTED</span><strong data-flow-tx>—</strong></div><div><span>FIREWALL</span><strong data-flow-firewall>Waiting</strong></div></div>
+<button type="button" class="exit-focus" data-exit-focus>Exit focus</button></div>
+<div class="contemplation-controls"><div class="flow-mode" role="group" aria-label="Signal source"><button type="button" data-flow-live aria-pressed="true">Live</button><button type="button" data-flow-demo aria-pressed="false">Demo</button></div><button type="button" data-flow-pause aria-pressed="false">Pause motion</button><button type="button" data-flow-focus>Focus view</button><button type="button" data-flow-fullscreen>Fullscreen</button><label class="flow-glow">Glow <input type="range" data-flow-glow aria-label="Glow intensity" min="40" max="140" value="85" step="5"></label></div>
+<p class="contemplation-caption" data-flow-caption>Waiting for fresh telemetry from Excalibur. Choose Demo to explore the visual response.</p>
+<details class="contemplation-details"><summary>About this room & URL settings</summary><p>Received bytes shape brightness; transmitted bytes shape sway and color. Packet rates shape fine movement. New logged firewall notices create amber flares or rings. No addresses, ports, packet contents or raw firewall messages appear here.</p><p>Telemetry is an artistic input, not a certified entropy source. This room does not change the shared camera and browser source used by the chance applications or key laboratory.</p><p>Use <code>?src_mode=live</code> for the Excalibur signal or <code>?src_mode=demo</code> for the labeled demonstration. Add <code>&amp;int_lvl=0.85</code> to set the initial glow between 0.4 and 1.4.</p><p>Motion can be paused. Reduced-motion preferences are respected. Escape exits focus view.</p></details>
+<noscript><p>This room needs JavaScript to draw the image and read the aggregate feed.</p></noscript></section>'''
+        crt_pag('/apps/' + clv_esc + '/', tit_pag.rstrip('.'), txt_pag, txt_note + ' A contemplative visualization of enp6s0 traffic and logged firewall notices.')

@@ -1,0 +1,156 @@
+<!-- Timestamp: 2026-10-30 | Version: 2.0.1 | Author and Credits: https://www.alawise.es/1-s -->
+<!-- Sanitized Drive reference; not installed by the V2 overlay. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Final Solar System Simulator</title>
+    <style>
+        body { margin: 0; padding: 0; background: black; color: white; font-family: sans-serif; }
+        canvas { border: 1px solid black; background: black; }
+        #control {
+            position: absolute; top: 10px; left: 10px; 
+            background: rgba(0,0,0,0.5); padding: 10px;
+            border-radius: 8px; font-size: 13px;
+        }
+        input, button { margin: 2px; padding: 4px; }
+    </style>
+</head>
+<body>
+    <canvas id="canvas" width="360" height="500"></canvas>
+    <div id="control">
+        Date/Time: <input type="datetime-local" id="manualDate"><br>
+        <button id="slower">« Slow</button>
+        <input type="range" id="speed" min="-500" max="500" value="1">
+        <button id="faster">Fast »</button>
+        <button id="pause">Pause ❚❚</button><br>
+        <!-- Added nested span for gravity value so it can be updated -->
+        <span id="gravityInfo">ΔGravity: <span id="gravityValue">calculating...</span></span>
+    </div>
+
+    <script src="astronomy-engine.js"></script>
+    <script src="script.js"></script>
+
+    <canvas id="gravityChart" style="width:100%; max-width:360px; height:100px; margin-top:25px;"></canvas>
+    <script>
+        // Added global chart instance and gravityData function to update the chart
+        let gravityChartInstance;
+        function gravityData(gravityDataObj) {
+            if (gravityChartInstance) {
+                gravityChartInstance.data.labels = gravityDataObj.labels;
+                gravityChartInstance.data.datasets[0].data = gravityDataObj.data;
+                gravityChartInstance.update();
+            }
+        }
+
+        function updateChartAndGravityInfo() {
+            const manualDateInput = document.getElementById('manualDate').value;
+            const currentDate = manualDateInput ? new Date(manualDateInput) : new Date();
+            const gravityDataObj = generateCentralGravityData();
+            const currentGravityDelta = calculateGravityDelta(currentDate);
+            gravityData(gravityDataObj);
+            document.getElementById('gravityValue').textContent = currentGravityDelta.toFixed(6);
+        }
+        window.onload = updateChartAndGravityInfo;
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        function calculateGravityDelta(date) {
+            const G = 6.67430e-11;
+            const AU = 1.496e11;
+
+            const planets = [
+                { name: 'Mercury', mass: 3.3011e23, a: 0.387, period: 88 },
+                { name: 'Venus',   mass: 4.8675e24, a: 0.723, period: 224.7 },
+                { name: 'Mars',    mass: 6.4171e23, a: 1.524, period: 687 },
+                { name: 'Jupiter', mass: 1.8982e27, a: 5.204, period: 4331 }
+            ];
+
+            const earthA = 1.0;
+            const earthPeriod = 365.25;
+
+            // Calculate Earth's position in its orbit (assuming circular orbit for simplicity)
+            const startOfYear = new Date(Date.UTC(date.getUTCFullYear(), 0, 0));
+            const diffDays = (date - startOfYear) / (1000 * 60 * 60 * 24);
+            const earthTheta = 2 * Math.PI * (diffDays / earthPeriod);
+            const earthPosition = {
+                x: AU * earthA * Math.cos(earthTheta),
+                y: AU * earthA * Math.sin(earthTheta)
+            };
+
+            // Helper to calculate gravitational pull from one planet at a given date
+            const gravPull = (planet, earthPos, dateInDays) => {
+                const planetTheta = 2 * Math.PI * (dateInDays / planet.period);
+                const planetPos = {
+                    x: AU * planet.a * Math.cos(planetTheta),
+                    y: AU * planet.a * Math.sin(planetTheta)
+                };
+                const dx = planetPos.x - earthPos.x;
+                const dy = planetPos.y - earthPos.y;
+                return (G * planet.mass) / (dx*dx + dy*dy);
+            };
+
+            // Actual gravitational pull on Earth from all listed planets at this date
+            let actualGravity = planets.reduce((sum, planet) => 
+                sum + gravPull(planet, earthPosition, diffDays), 0
+            );
+            // Average gravitational pull (when all planets and Earth are aligned on x-axis)
+            let averageEarthPos = { x: AU, y: 0 };
+            let averageGravity = planets.reduce((sum, planet) => {
+                const avgPlanetPos = { x: AU * planet.a, y: 0 };
+                return sum + (G * planet.mass) / ((avgPlanetPos.x - averageEarthPos.x)**2);
+            }, 0);
+
+            // Return the difference (actual - average) scaled up (1e12) for readability
+            return (actualGravity - averageGravity) * 1e12;
+        }
+
+        function generateCentralGravityData() {
+            let labels = [], data = [];
+            const manualDateInput = document.getElementById('manualDate').value;
+            const currentDate = manualDateInput ? new Date(manualDateInput) : new Date();
+
+            // Calculate ΔGravity for 60 months (5 years) before and after the current date
+            for (let months = -60; months <= 60; months++) {
+                let calculationDate = new Date(currentDate);
+                calculationDate.setMonth(calculationDate.getMonth() + months);
+                labels.push(calculationDate.toISOString().slice(0, 7));
+                data.push(calculateGravityDelta(calculationDate));
+            }
+            return { labels, data };
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const ctxChart = document.getElementById('gravityChart').getContext('2d');
+            const gravityDataObj = generateCentralGravityData();
+
+            // Initialize the Chart.js line chart with the ΔGravity data
+            gravityChartInstance = new Chart(ctxChart, {
+                type: 'line',
+                data: {
+                    labels: gravityDataObj.labels,
+                    datasets: [{
+                        label: "ΔGravity",
+                        data: gravityDataObj.data,
+                        borderColor: 'purple',
+                        backgroundColor: 'rgba(128,0,128,0.1)',
+                        tension: 0.2,
+                        pointRadius: 2,
+                        pointHoverRadius: 5,
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    plugins: { legend: { labels: { color: '#FFFFFF' } } },
+                    scales: {
+                        x: { ticks: { color: '#FFFFFF' } },
+                        y: { ticks: { color: '#FFFFFF' } }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
+
