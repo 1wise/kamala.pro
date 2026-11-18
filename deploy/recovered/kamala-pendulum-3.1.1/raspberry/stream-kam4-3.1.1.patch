@@ -1,0 +1,65 @@
+--- stream-kam4.py
++++ stream-kam4.py
+@@ -1,7 +1,7 @@
+ #!/usr/bin/env python3
+ # -*- coding: utf-8 -*-
+ # Timestamp: 2026-11-07
+-# Version: 3.1.0
++# Version: 3.1.1
+ # Author and Credits: https://www.alawise.es/1-s
+ 
+ import os
+@@ -20,7 +20,7 @@
+ dmn_prt = 8080                   # Local TCP daemon port on minimaqui
+ chr_lim = 0                      # Delay window in seconds (0 for live)
+ chr_deb = 2.5                    # Cooldown seconds between logged swing triggers
+-mem_coda = collections.deque()   # Ring buffer FIFO in RAM: (chr_ts, img_crp, pnd_pld)
++mem_coda = collections.deque(maxlen=100)   # Ring buffer FIFO in RAM: (chr_ts, img_crp, pnd_pld)
+ sys_lck = threading.Lock()       # Thread synchronization mutex
+ 
+ # --- Photogrammetric Physical Constants (3.5 cm Equatorial Bell Standard) ---
+@@ -65,7 +65,7 @@
+ def med_rad_subpx(brd_nrm: np.ndarray, cx_rel: int, cy_rel: int, r_ant: float) -> float:
+     """
+     Measure sub-pixel radius of the 3.5cm bell rim via Polar Unwrapping (cv2.warpPolar)
+-    and 3-point parabolic interpolation (~0.08px resolution -> ~1.4mm Z precision).
++    and 3-point parabolic interpolation (numerical interpolation; physical accuracy requires calibration).
+     """
+     max_r = 46
+     pol_map = cv2.warpPolar(
+@@ -172,7 +172,7 @@
+                 time.sleep(2)
+                 continue
+ 
+-            print(f"[+] 3D Geometric Tracker v3.1.0 locked! Standard: D={cas_dia_mm}mm")
++            print(f"[+] 3D Geometric Tracker v3.1.1 locked! Standard: D={cas_dia_mm}mm")
+ 
+             while True:
+                 ret_ok, frm_bgr = cap_dev.read()
+@@ -214,7 +214,7 @@
+                 ant_ts = chr_ts
+ 
+                 # 3. 3D Equilibrium slow-drift & threshold state machine
+-                if des_2d_mm < umb_mrg_mm:
++                if des_3d_mm < umb_mrg_mm:
+                     ancl_x = (ancl_x * 0.985) + (pos_x * 0.015)
+                     ancl_y = (ancl_y * 0.985) + (pos_y * 0.015)
+                     ancl_r = (ancl_r * 0.992) + (rad_act * 0.008)
+@@ -327,7 +327,7 @@
+             return
+ 
+         self.send_response(200)
+-        self.send_header("Content-Type", f"multipart/x-mixed-replace; boundary=--{cab_lim.decode()}")
++        self.send_header("Content-Type", f"multipart/x-mixed-replace; boundary={cab_lim.decode()}")
+         self.send_header("Cache-Control", "no-cache, no-store, must-revalidate")
+         self.send_header("Connection", "close")
+         self.end_headers()
+@@ -374,7 +374,7 @@
+     ThreadingHTTPServer.allow_reuse_address = True
+     t_cap = threading.Thread(target=cap_v4l2_wrk, daemon=True)
+     t_cap.start()
+-    print(f"[*] 1wise 3D Geometric Pendulum Tracker v3.1.0 on 0.0.0.0:{dmn_prt} | D_const={cas_dia_mm}mm")
++    print(f"[*] 1wise 3D Geometric Pendulum Tracker v3.1.1 on 0.0.0.0:{dmn_prt} | D_const={cas_dia_mm}mm")
+     srv_inst = ThreadingHTTPServer(("0.0.0.0", dmn_prt), MjpegStreamSrv)
+     try:
+         srv_inst.serve_forever()

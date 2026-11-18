@@ -1,0 +1,43 @@
+# Timestamp: 2026-11-07
+# Version: 3.1.1
+# Author & Credits: https://www.alawise.es/1-s
+[Unit]
+Description=Kamala Camera 4 pendulum telemetry collector
+Documentation=https://www.alawise.es/1-s
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=kamala-pendulum
+Group=kamala-pendulum
+EnvironmentFile=-/etc/sysconfig/kamala-pendulum
+ExecStart=/usr/bin/python3 -I /usr/local/libexec/kamala/pendulum_feed.py --output /var/www/kamala.pro/html/telemetry-pendulum/state.json --events /var/lib/kamala-pendulum/events.jsonl
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=12
+UMask=0022
+StateDirectory=kamala-pendulum
+StateDirectoryMode=0700
+NoNewPrivileges=yes
+ProtectSystem=strict
+ReadWritePaths=/var/www/kamala.pro/html/telemetry-pendulum
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectKernelLogs=yes
+ProtectControlGroups=yes
+RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6
+RestrictRealtime=yes
+RestrictSUIDSGID=yes
+LockPersonality=yes
+CapabilityBoundingSet=
+AmbientCapabilities=
+TasksMax=8
+MemoryMax=64M
+CPUQuota=20%
+
+[Install]
+WantedBy=multi-user.target

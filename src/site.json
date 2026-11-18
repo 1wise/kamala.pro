@@ -1,0 +1,17 @@
+{
+  "title": "Mantic Arts · Kamala",
+  "origin": "https://www.kamala.pro",
+  "release": "2.5.2",
+  "share_image": "/assets/social/kamala-pro-2.5.1-en.jpg",
+  "share_alt": "Kamala — Mantic Arts, with a multicolored compass star on a black and indigo background.",
+  "titles": {
+    "en": "Mantic Arts · Kamala",
+    "es": "Artes Mánticos · Kamala",
+    "calo": "Artes Mánticos · Kamala"
+  },
+  "share_images": {
+    "en": "/assets/social/kamala-pro-2.5.1-en.jpg",
+    "es": "/assets/social/kamala-pro-2.2.0.png",
+    "calo": "/assets/social/kamala-pro-2.2.0.png"
+  }
+}

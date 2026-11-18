@@ -1,0 +1,419 @@
+[
+  {
+    "slug": "pendulum",
+    "scale": "hand",
+    "title": "Pendulum",
+    "symbol": "⌁",
+    "summary": "Motion made visible.",
+    "description": "A pendulum offers a repeatable way to explore oscillation. Symbolic uses belong to a separate interpretive context.",
+    "method": "Record the string length, release angle and time for ten full oscillations. Repeat without pushing the bob.",
+    "related": [
+      "radiesthesia",
+      "kinesthesia"
+    ],
+    "stream": "cam1"
+  },
+  {
+    "slug": "crystallization",
+    "scale": "matter",
+    "title": "Crystallization",
+    "symbol": "❋",
+    "summary": "Matter finding a form.",
+    "description": "Explore copper-salt crystallization and the interpretive tradition associated with Rudolf Steiner. Images alone do not establish diagnostic validity.",
+    "method": "Compare existing images with documented concentration, temperature and evaporation conditions. Experimental handling requires an appropriate chemical-safety protocol."
+  },
+  {
+    "slug": "dice",
+    "scale": "hand",
+    "title": "Dice",
+    "symbol": "⚄",
+    "summary": "A small study of uncertainty.",
+    "description": "Dice make discrete outcomes easy to count. Patterns in a small sample need not imply a hidden cause.",
+    "method": "Choose one die. Record every throw in order, including repeats. Compare counts after a predetermined number of throws."
+  },
+  {
+    "slug": "coins",
+    "scale": "hand",
+    "title": "Coins",
+    "symbol": "◒",
+    "summary": "Two faces. Many sequences.",
+    "description": "Coin tossing connects simple outcomes with the study of chance. The experiment in this article uses digital randomness from the shared sampler, with the actual source shown after every draw.",
+    "method": "Set a sample size before starting. Record heads and tails in order. Keep the full sequence rather than selecting striking runs.",
+    "related": [
+      "yijing",
+      "dice",
+      "cards"
+    ]
+  },
+  {
+    "slug": "grounds",
+    "scale": "hand",
+    "title": "Tea & coffee grounds",
+    "symbol": "♧",
+    "summary": "Traces and interpretations.",
+    "description": "Residue patterns can be approached as visual observations and culturally situated symbolic readings.",
+    "method": "Photograph the pattern before interpretation. Describe visible shapes first; keep personal associations in a separate note."
+  },
+  {
+    "slug": "runes",
+    "scale": "hand",
+    "title": "Runes",
+    "symbol": "ᚱ",
+    "summary": "Signs with a history.",
+    "description": "The app offers the 16-sign Younger Futhark and the 24-sign Elder Futhark. The latter is historically older. Both are Germanic writing systems. Finnish (suomi), a Finno-Ugric language, supplies modern glosses here alongside conventional names and Latin transliteration; it is not presented as an ancient Finnish alphabet.",
+    "method": "Choose the alphabet and label style, then draw without replacement. Keep the symbol, transliteration, selected gloss and sequence together. Several reconstructed rune names and meanings remain uncertain; labels are not predictions.",
+    "sources": [
+      {
+        "title": "University of Copenhagen — Older, Viking Age and medieval runic script",
+        "url": "https://nors.ku.dk/english/research/runes/"
+      },
+      {
+        "title": "Swedish National Heritage Board — Reading and transliterating runes",
+        "url": "https://www.raa.se/kulturarv/runor-och-runstenar/att-lasa-runor-och-runinskrifter/"
+      }
+    ]
+  },
+  {
+    "slug": "cards",
+    "scale": "hand",
+    "title": "Cards",
+    "symbol": "♧",
+    "summary": "Images in conversation.",
+    "description": "Compare Spanish decks of 40 or 48 cards, a standard 52-card American deck, and the 78-card Tarot de Marseille. Record the deck and spread before interpretation. The Marseille catalog keeps Justice at VIII and Strength at XI; the app uses schematic Kamala faces.",
+    "method": "Choose a deck, then a matrix with a stated row and column count or a five-card cross. The cross is dealt in this order: center, above, below, left, right. Each card is drawn without replacement. A new deck or layout starts a fresh session.",
+    "sources": [
+      {
+        "title": "Bibliotheque nationale de France — A complete historic Marseille deck",
+        "url": "https://www.bnf.fr/fr/un-tarot-qui-rebat-les-cartes-collections"
+      }
+    ]
+  },
+  {
+    "slug": "entropy-streams",
+    "scale": "earth",
+    "title": "Entropy streams",
+    "symbol": "∿",
+    "summary": "Watching variation unfold.",
+    "description": "Camera and sensor variation can be studied as signals. The experiment below samples one observatory camera, conditions its JPEG bytes with system randomness and shows the source used. A changing signal alone does not establish a calibrated entropy rate.",
+    "method": "Choose a source before drawing and retain every result, its time and reported source. Camera acquisition takes up to two seconds and 128 KiB. Compare repeated samples and document processing; a visual pattern or short sequence does not establish randomness quality."
+  },
+  {
+    "slug": "weather",
+    "scale": "earth",
+    "title": "Weather",
+    "symbol": "☁",
+    "summary": "The atmosphere, observed.",
+    "description": "Weather observation begins with conditions at a specific place and time. The homepage now includes an animated Windy forecast map centered on Andorra and the Pyrenees; its model and selected time remain visible in the source.",
+    "method": "Log time, location, instrument and exposure alongside temperature, pressure or rainfall. Preserve units and missing values."
+  },
+  {
+    "slug": "sun",
+    "scale": "solar",
+    "title": "The Sun",
+    "symbol": "☉",
+    "summary": "Cycles of light.",
+    "description": "Track daylight, seasonal change and solar imagery through indirect observations and documented data. The homepage includes the latest published NASA SDO AIA 171 sequence, with observation times in the imagery.",
+    "method": "Record sunrise and sunset from a stated source. Never look at the Sun through an unfiltered optical instrument."
+  },
+  {
+    "slug": "planets",
+    "scale": "solar",
+    "title": "Planets",
+    "symbol": "♄",
+    "summary": "A moving celestial map.",
+    "description": "Planetary observation concerns positions, visibility and movement. The original SolarSimulator is available on the homepage and in its full workspace, with date and speed controls; the visual layout uses adjusted display distances.",
+    "method": "Record date, time zone, location and the ephemeris source. Distinguish calculated position from an actual sighting."
+  },
+  {
+    "slug": "horoscope",
+    "scale": "solar",
+    "title": "Horoscope",
+    "symbol": "☷",
+    "summary": "A cultural reading of the sky.",
+    "description": "Study astrological frameworks as cultural and symbolic systems, with their assumptions stated. They are not established scientific predictive methods.",
+    "method": "Name the tradition and zodiac system. Keep astronomical inputs separate from interpretive statements; do not treat readings as factual forecasts."
+  },
+  {
+    "slug": "contemplative-observation",
+    "scale": "human",
+    "title": "Contemplative observation",
+    "symbol": "◌",
+    "summary": "Attention before interpretation.",
+    "description": "This field note begins with a period of attentive observation. The Christian pathway draws on Laudato si’ as one named source for contemplation of nature; other traditions retain their own context.",
+    "method": "Choose a natural object or scene. Note the time, setting and visible details. Write a descriptive observation first and any religious or personal reflection separately.",
+    "sources": [
+      {
+        "title": "Vatican — Laudato si’, §§222–226",
+        "url": "https://press.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html"
+      }
+    ]
+  },
+  {
+    "slug": "naam-listening",
+    "scale": "human",
+    "title": "Naam & attentive listening",
+    "symbol": "≈",
+    "summary": "A named Sikh context for remembrance and sound.",
+    "description": "Naam remembrance, scriptural reflection and kirtan are approached through their Sikh sources. This page provides a way to document a text or a public performance while retaining its context.",
+    "method": "Identify the source, text, language and performer. Note the setting and duration. Keep the original words, translation and personal response distinguishable.",
+    "sources": [
+      {
+        "title": "SGPC — Sikh Rehat Maryada",
+        "url": "https://old.sgpc.net/CDN/Sikh_Rehat_Maryada_English.pdf"
+      },
+      {
+        "title": "SGPC — Live Kirtan",
+        "url": "https://sgpc.net/live-kirtan/"
+      }
+    ]
+  },
+  {
+    "slug": "breath-observation",
+    "scale": "human",
+    "title": "Breath observation",
+    "symbol": "∿",
+    "summary": "Notice an ordinary breathing cycle.",
+    "description": "Natural breath awareness offers an observational entry point within named yogic and Buddhist teaching contexts. The sources below describe their own practices; they are not treated as interchangeable systems.",
+    "method": "Notice ordinary breathing without trying to deepen, slow or hold it. Record the setting, approximate duration and what was noticed. This field note does not prescribe breath-control exercises.",
+    "sources": [
+      {
+        "title": "Plum Village — The Art of Mindful Living",
+        "url": "https://plumvillage.org/mindfulness/mindfulness-practice"
+      },
+      {
+        "title": "Ministry of Ayush — Common Yoga Protocol",
+        "url": "https://yoga.ayush.gov.in/YAP/PDF/Common%20Yoga%20Protocol%20Book-English.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "ritual-sound",
+    "scale": "human",
+    "title": "Ritual sound & rhythm",
+    "symbol": "◎",
+    "summary": "Listen with provenance and context.",
+    "description": "The shamanic pathway starts with a documented Evenki drum beater and ritual objects. Sound, objects and their meanings are studied through the specific community and source being described.",
+    "method": "Use a documented object or publicly shared recording. Name the community, place and source. Describe the material, rhythm or audible features, then attribute any account of its ritual meaning to its source.",
+    "sources": [
+      {
+        "title": "British Museum — Arctic exhibition object records",
+        "url": "https://www.britishmuseum.org/sites/default/files/2020-08/Protection%20from%20Seizure%20%E2%80%93%20Arctic.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "yijing",
+    "scale": "hand",
+    "title": "I Ching / Yijing",
+    "symbol": "☰",
+    "summary": "Three coins, six lines and a changing figure.",
+    "description": "Study hexagrams through a named edition and translation of the Book of Changes. A consultation record includes the method, line sequence, text and subsequent reading.",
+    "method": "Use the three-coin method: heads count as 3 and tails as 2. Cast six times, placing the first total at the bottom. Totals 6 and 9 change polarity; 7 and 8 remain stable. Record the original and relating hexagrams before consulting a named textual tradition.",
+    "sources": [
+      {
+        "title": "Chinese Text Project — Book of Changes",
+        "url": "https://ctext.org/book-of-changes"
+      },
+      {
+        "title": "Unicode — Yijing hexagram symbols",
+        "url": "https://unicode.org/charts/PDF/U4DC0.pdf"
+      }
+    ],
+    "related": [
+      "coins",
+      "cards"
+    ]
+  },
+  {
+    "slug": "crystal-gazing",
+    "scale": "hand",
+    "title": "Crystal gazing",
+    "symbol": "◇",
+    "summary": "Light, reflections and an attentive gaze.",
+    "description": "Crystal gazing, also called crystallomancy, uses a crystal or polished sphere as a focus for symbolic observation. Historical objects such as John Dee's crystal provide a material point of reference for the practice.",
+    "method": "Record the object, lighting, background and approximate duration. Describe reflections and visible forms before writing any associations. Keep the original observation alongside the symbolic reading.",
+    "sources": [
+      {
+        "title": "Science Museum Group — John Dee's crystal",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co104490/john-dees-crystal-europe-1582"
+      }
+    ]
+  },
+  {
+    "slug": "candle-gazing",
+    "scale": "hand",
+    "title": "Candle gazing",
+    "symbol": "♨",
+    "summary": "A flame as a point of attention.",
+    "description": "Candle gazing uses a flame as a visual focus. Trataka offers one named yogic context; symbolic readings of flame movement should be attributed to their own sources rather than treated as the same practice.",
+    "method": "Name the practice and source. Note the setting, light and duration, then distinguish the flame's visible movement from your response. Use a stable candle holder, keep flammable materials clear and avoid straining the eyes.",
+    "sources": [
+      {
+        "title": "Yoga in Daily Life — Trataka: concentration on a point or candle flame",
+        "url": "https://www.yogaindailylife.org/system/en/hatha-yoga-kriyas/trataka"
+      }
+    ]
+  },
+  {
+    "slug": "handreading",
+    "scale": "human",
+    "title": "Handreading / palmistry",
+    "symbol": "☞",
+    "summary": "Lines, forms and a symbolic vocabulary.",
+    "description": "Handreading, palmistry or chiromancy interprets the lines and forms of the hand through a named symbolic system. Historical manuals and diagrams offer sources for comparing those vocabularies.",
+    "method": "With the participant's consent, note which hand is being read and sketch its visible features. Identify the manual or tradition used, then record its interpretation separately from the sketch. Treat the reading as symbolic reflection rather than a factual forecast.",
+    "sources": [
+      {
+        "title": "Wellcome Collection — Palmistry collections and historical manuals",
+        "url": "https://wellcomecollection.org/concepts/xv7ctgyh"
+      }
+    ]
+  },
+  {
+    "slug": "automatic-writing",
+    "scale": "hand",
+    "title": "Automatic writing",
+    "symbol": "✎",
+    "summary": "Let words arrive before editing.",
+    "description": "Automatic writing explores a flow of words with reduced deliberate editing. Surrealist automatism provides a documented artistic context; spiritual interpretations can be recorded with their own stated framework.",
+    "method": "Choose a brief duration and write without revising each phrase. Preserve the first version with its date and setting. Read it afterward, separating the original text from later associations or interpretations.",
+    "sources": [
+      {
+        "title": "MoMA — Automatism in writing, drawing and painting",
+        "url": "https://www.moma.org/collection/terms/automatism"
+      }
+    ]
+  },
+  {
+    "slug": "automatic-painting",
+    "scale": "hand",
+    "title": "Automatic painting & drawing",
+    "symbol": "〰",
+    "summary": "Gesture before a planned image.",
+    "description": "Automatic painting and drawing explore marks, gestures and emerging forms without planning the whole image in advance. Surrealist automatism supplies one documented context for this creative approach.",
+    "method": "Record the materials, surface and duration. Begin with an unplanned line or brush gesture and retain the resulting work. Photograph it before adding a title, narrative or symbolic interpretation.",
+    "sources": [
+      {
+        "title": "MoMA — Automatism and works from the collection",
+        "url": "https://www.moma.org/collection/terms/automatism"
+      }
+    ]
+  },
+  {
+    "slug": "tracking",
+    "scale": "earth",
+    "title": "Tracking / tracks & signs",
+    "symbol": "⋮",
+    "summary": "Read the traces of a living landscape.",
+    "description": "Tracking follows footprints, trails and other signs of animal activity. This pathway connects close field observation with the observatory's attention to wildlife and its surroundings.",
+    "method": "Record place, time, weather and substrate. Photograph a track with a size reference, then note its shape, spacing and direction. Compare it with a regional field guide and record uncertainty in the identification without disturbing wildlife.",
+    "sources": [
+      {
+        "title": "Missouri Department of Conservation — Mammal tracks and other signs",
+        "url": "https://mdc.mo.gov/wildlife/wildlife-facts/mammal-facts/mammal-tracks"
+      }
+    ]
+  },
+  {
+    "slug": "kinesthesia",
+    "scale": "human",
+    "title": "Kinesthesia / body awareness",
+    "symbol": "↝",
+    "summary": "Notice movement from within.",
+    "description": "Kinesthesia is the sense of movement of one's own body parts, within the wider field of proprioception. Here it provides a way to observe gesture, bodily attention and the hand movements involved in writing or holding a pendulum.",
+    "method": "While seated comfortably, slowly move a hand or finger and describe the felt movement before interpreting it. Record posture, duration and what was noticed. Keep bodily sensation distinct from claims about external objects or forces.",
+    "related": [
+      "pendulum",
+      "radiesthesia",
+      "automatic-writing"
+    ],
+    "sources": [
+      {
+        "title": "US National Library of Medicine — Kinesthesis, MeSH D007699",
+        "url": "https://meshb.nlm.nih.gov/record/ui?ui=D007699"
+      }
+    ]
+  },
+  {
+    "slug": "radiesthesia",
+    "scale": "hand",
+    "title": "Radiesthesia / dowsing",
+    "symbol": "⌁",
+    "summary": "An instrument, a response and an interpretation.",
+    "description": "Radiesthesia includes practices using a hand-held pendulum, rods or related instruments to seek a response or locate a hidden target. The US Geological Survey documents water dowsing and its evidential limitations. A moving instrument alone does not establish detection of water or an external force.",
+    "method": "Name the instrument, question, response convention and starting position before a session. Record every response, including misses and ambiguous movements. For a target-finding comparison, conceal target locations from the participant and retain the complete results before interpreting them.",
+    "related": [
+      "pendulum",
+      "kinesthesia"
+    ],
+    "sources": [
+      {
+        "title": "US Geological Survey — Water Dowsing",
+        "url": "https://www.usgs.gov/water-science-school/science/water-dowsing"
+      }
+    ]
+  },
+  {
+    "slug": "molybdomancy",
+    "scale": "matter",
+    "title": "Molybdomancy / cast-metal readings",
+    "symbol": "◈",
+    "summary": "A solidified form and its shadow.",
+    "description": "Molybdomancy reads forms produced by cast metal as symbolic images. Finnish New Year customs offer one documented context for interpreting shapes and shadows. Record the actual material: historical casting alloys may contain lead, even when described as tin.",
+    "method": "Begin with photographs or documented existing casts. Record the source, known material, lighting and viewing angle; describe the form and its shadow before adding a symbolic reading. This field note does not call for melting lead or unknown alloys.",
+    "related": [
+      "crystallization",
+      "grounds"
+    ],
+    "sources": [
+      {
+        "title": "thisisFINLAND — New Year cast-metal readings",
+        "url": "https://finland.fi/life-society/new-year-begins-boisterously-in-finland/"
+      },
+      {
+        "title": "Helsinki Region Environmental Services — New Year's tin and lead-containing historical alloys",
+        "url": "https://www.hsy.fi/en/waste-and-recycling/waste-guide/waste/tin2/"
+      }
+    ]
+  },
+  {
+    "slug": "clairvoyance",
+    "scale": "human",
+    "title": "Clairvoyance",
+    "symbol": "◉",
+    "summary": "Inner images, distant scenes and a record to compare.",
+    "description": "Clairvoyance is the name given to experiences interpreted as perceiving distant or hidden objects, places or information without ordinary sensory access. This field note gives first-person accounts a place to be recorded, while keeping an impression and its independent verification distinct.",
+    "method": "Write or draw the complete impression before checking a target. For a library or archive, record the place, title, shelfmark and any perceived passage first; then compare with documents available through the institution. Retain the original dated note, matches, differences and details that cannot be checked. A blinded target comparison can help reduce prior clues.",
+    "related": [
+      "lucid-dreaming",
+      "crystal-gazing",
+      "automatic-writing"
+    ],
+    "sources": [
+      {
+        "title": "US National Library of Medicine — Parapsychology, including clairvoyance terminology",
+        "url": "https://meshb.nlm.nih.gov/record/ui?ui=D010268"
+      }
+    ]
+  },
+  {
+    "slug": "lucid-dreaming",
+    "scale": "human",
+    "title": "Lucid dreaming",
+    "symbol": "☽",
+    "summary": "Recognizing a dream while it is happening.",
+    "description": "A lucid dream is a dream in which the dreamer becomes aware of dreaming. Some episodes include deliberate actions or changes in the dream scene, but awareness and control are different features. Laboratory research has documented lucid dreaming during verified REM sleep. Dream imagery remains distinct from verification of information outside the dream.",
+    "method": "Keep a dated dream journal on waking. Record the remembered scene, the moment of recognizing the dream, any deliberate action and how certain the recollection feels. Preserve the first account before adding interpretations or comparing it with later events. Use ordinary sleep and spontaneous recollection as the starting point.",
+    "related": [
+      "clairvoyance",
+      "contemplative-observation",
+      "automatic-painting"
+    ],
+    "sources": [
+      {
+        "title": "Konkoly et al. (2021) — Real-time dialogue between experimenters and dreamers during REM sleep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33607035/"
+      }
+    ]
+  }
+]

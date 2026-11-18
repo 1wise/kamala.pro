@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+<!-- Timestamp: 2026-11-06 | Version: 2.2.0 | Author &amp; Credits: https://www.alawise.es/1-s -->
+<defs><radialGradient id="indigo"><stop stop-color="#302147"/><stop offset="1" stop-color="#06060c"/></radialGradient></defs>
+<rect width="1200" height="630" fill="#06060c"/>
+<ellipse cx="925" cy="315" rx="360" ry="310" fill="url(#indigo)"/>
+<path d="M70 72H1130M70 558H1130" stroke="#343047"/>
+<text x="80" y="158" fill="#9b8bbd" font-family="monospace" font-size="12" letter-spacing="3">OBSERVATION / MEASUREMENT / TRADITIONS</text>
+<text x="76" y="300" fill="#e9e7f6" font-family="Georgia,DejaVu Serif,serif" font-size="94" letter-spacing="-4">kamala.pro</text>
+<text x="80" y="365" fill="#b4a5ed" font-family="Georgia,DejaVu Serif,serif" font-size="38">Artes Mánticos</text>
+<text x="80" y="505" fill="#857992" font-family="monospace" font-size="13" letter-spacing="2">LOOK CLOSELY. KEEP A RECORD.</text>
+<g transform="translate(840 186) scale(4)">
+  <!--
+    Timestamp: 2026-11-04
+    Version: 1.0.0
+    PanIpSys 16-section (4 equal quarters) radial clock emblem
+    Author and Credits: https://www.alawise.es/1-s
+  -->
+  <g stroke-width="2.6" stroke-linecap="round" fill="none">
+    <!-- Quarter 1 (0 to 90 deg) -->
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#5b57e6" transform="rotate(0 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#3dbb78" transform="rotate(22.5 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#eac445" transform="rotate(45 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#e45c67" transform="rotate(67.5 32 32)"/>
+    <!-- Quarter 2 (90 to 180 deg) -->
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#5b57e6" transform="rotate(90 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#3dbb78" transform="rotate(112.5 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#eac445" transform="rotate(135 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#e45c67" transform="rotate(157.5 32 32)"/>
+    <!-- Quarter 3 (180 to 270 deg) -->
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#5b57e6" transform="rotate(180 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#e45c67" transform="rotate(202.5 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#eac445" transform="rotate(225 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#3dbb78" transform="rotate(247.5 32 32)"/>
+    <!-- Quarter 4 (270 to 360 deg) -->
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#5b57e6" transform="rotate(270 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#e45c67" transform="rotate(292.5 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#eac445" transform="rotate(315 32 32)"/>
+    <line x1="32" y1="24" x2="32" y2="5" stroke="#3dbb78" transform="rotate(337.5 32 32)"/>
+  </g>
+</g></svg>

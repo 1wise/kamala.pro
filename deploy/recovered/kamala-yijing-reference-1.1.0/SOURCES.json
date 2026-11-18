@@ -1,0 +1,579 @@
+[
+  {
+    "number": 1,
+    "name_zh": "乾",
+    "original": "乾：元亨。利貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E4%B9%BE",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E4%B9%BE&action=raw",
+    "raw_sha256": "e8b8c4a93f7e1f86e00e83635a12423da0e134ec463ea21837f6a41b41661156",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 2,
+    "name_zh": "坤",
+    "original": "坤：元亨。利牝馬之貞。君子有攸往，先迷後得主。利西南得朋，東北喪朋。安貞，吉。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%9D%A4",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%9D%A4&action=raw",
+    "raw_sha256": "a229442f54886cd2b21b1b6ab19cb377c4c59e5fcd8ac6b75f44b846459ca881",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 3,
+    "name_zh": "屯",
+    "original": "屯：元亨，利貞。勿用有攸往，利建侯。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%B1%AF",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B1%AF&action=raw",
+    "raw_sha256": "46e879adeb27dcbf7d8b7d0763fddf786025ad617ea3dccf364195467e8c4096",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 4,
+    "name_zh": "蒙",
+    "original": "蒙：亨。匪我求童蒙，童蒙求我。初筮告，再三瀆，瀆則不告。利貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%92%99",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%92%99&action=raw",
+    "raw_sha256": "82968b32bb6552880209f9578ada9d2e30beadcc1fd2c59ee7d331c48dc9ea7b",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 5,
+    "name_zh": "需",
+    "original": "需：有孚，光亨。貞吉，利涉大川。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E9%9C%80",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%9C%80&action=raw",
+    "raw_sha256": "ccff1d03f4da5a90b388b3ec308fef5aa49ad588ad480be8627d633a3ad5bac3",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 6,
+    "name_zh": "訟",
+    "original": "訟：有孚，窒，惕，中吉，終凶。利見大人，不利涉大川。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%A8%9F",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%A8%9F&action=raw",
+    "raw_sha256": "8c6b14ac0b22d80ed48dd164132905c4dbdec9b3dda633744271e4bef064ee81",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 7,
+    "name_zh": "師",
+    "original": "師：貞丈人吉，无咎。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%B8%AB",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B8%AB&action=raw",
+    "raw_sha256": "131b206cbc0995b1adfdab9560e66d7843fd85e3172bb4e9f89bb37e4665c1f9",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 8,
+    "name_zh": "比",
+    "original": "比：吉。原筮元永貞，无咎。不寧方來，後夫凶。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%AF%94",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%AF%94&action=raw",
+    "raw_sha256": "c722de4c7a95194e064b0c39c40c4712af8f007bf2186bc0d4f207e1fb0406e0",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 9,
+    "name_zh": "小畜",
+    "original": "小畜：亨。密雲不雨，自我西郊。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%B0%8F%E7%95%9C",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B0%8F%E7%95%9C&action=raw",
+    "raw_sha256": "6e1e827c09da249c5391f31c860080fd05657107b62c7e109c31a038349aebb9",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 10,
+    "name_zh": "履",
+    "original": "履虎尾，不咥人，亨。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%B1%A5",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B1%A5&action=raw",
+    "raw_sha256": "4cba3bd1b9e4d13bb34a71531611e37bebb7801d8e783c86870912540453cd49",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 11,
+    "name_zh": "泰",
+    "original": "泰：小往大來，吉亨。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%B3%B0",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%B3%B0&action=raw",
+    "raw_sha256": "ecd49dba63369af09ab717293badc4b5823106b89c25ee5ebed44466817616e7",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 12,
+    "name_zh": "否",
+    "original": "否之匪人，不利君子貞，大往小來。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%90%A6",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%90%A6&action=raw",
+    "raw_sha256": "40db949fcb2f204562ec6ba5377425cbc4261c46cc04e0748fdf399d5bb56fef",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 13,
+    "name_zh": "同人",
+    "original": "同人于野，亨。 利涉大川，利君子貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%90%8C%E4%BA%BA",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%90%8C%E4%BA%BA&action=raw",
+    "raw_sha256": "c60417d5fd75abf7a958e368c092afadb2357e0d1af69085a1abe990c05a3d37",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 14,
+    "name_zh": "大有",
+    "original": "大有：元亨。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%A4%A7%E6%9C%89",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A4%A7%E6%9C%89&action=raw",
+    "raw_sha256": "3c4fdab8bfd0a57bfe53c483c5ad32a308d58094167a8dbb52b16c8c4c26ef0c",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 15,
+    "name_zh": "謙",
+    "original": "謙：亨，君子有終。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%AC%99",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%AC%99&action=raw",
+    "raw_sha256": "2ffb3b0269b10fe966f76b4dd96b49503733677215fa6b9df7414a0a903d3700",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 16,
+    "name_zh": "豫",
+    "original": "豫：利建侯行師。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%B1%AB",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%B1%AB&action=raw",
+    "raw_sha256": "65bf434245ce44f90a7034ebef4159cd64b85f7cdb099c7f52e8820215bbfe5b",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 17,
+    "name_zh": "隨",
+    "original": "隨：元亨。利貞。无咎。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E9%9A%A8",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%9A%A8&action=raw",
+    "raw_sha256": "af3531608314476f887b4c8adc97ccf6c2ca09abf5718d4643be598cdda4a8d0",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 18,
+    "name_zh": "蠱",
+    "original": "蠱：元亨。利涉大川。先甲三日，後甲三日。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%A0%B1",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%A0%B1&action=raw",
+    "raw_sha256": "b823e1f7c186f7ae3ea27e22955595a873311c8c8f1c00a1b09d00f887df6a5a",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 19,
+    "name_zh": "臨",
+    "original": "臨：元亨。利貞。至于八月有凶。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%87%A8",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%87%A8&action=raw",
+    "raw_sha256": "beadffbfc5356c83e7068507a7446efbe4c175eeec1c3845ec634e288f3217cc",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 20,
+    "name_zh": "觀",
+    "original": "觀：盥而不薦，有孚顒若。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%A7%80",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%A7%80&action=raw",
+    "raw_sha256": "73da70d9f76cf58dc6ff2ca031e27125ef50b80fca221ffdf082e28fe044de6e",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 21,
+    "name_zh": "噬嗑",
+    "original": "噬嗑：亨。利用獄。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%99%AC%E5%97%91",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%99%AC%E5%97%91&action=raw",
+    "raw_sha256": "cbfa0c3f32152b3c31c91624dddc4abd7b8217b7121507fecb8a68d7dc68ecee",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 22,
+    "name_zh": "賁",
+    "original": "賁：亨。小利有攸往。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%B3%81",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%B3%81&action=raw",
+    "raw_sha256": "f7418a0d3805c366e3afc6e9c7fb32c0c1da7883bf714cbe6235fe477365773c",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 23,
+    "name_zh": "剝",
+    "original": "剝：不利。有攸往。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%89%9D",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%89%9D&action=raw",
+    "raw_sha256": "641e20b6320b0c6d6bce4b0856297382547a9ae0f5b4da7ea219944208773090",
+    "retrieved_at": "2026-11-07T17:15:35+00:00",
+    "display_punctuation_note": "The negative clause is kept together; Chinese wording is unchanged."
+  },
+  {
+    "number": 24,
+    "name_zh": "復",
+    "original": "復：亨。出入无疾，朋來无咎。反復其道，七日來復，利有攸往。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%BE%A9",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%BE%A9&action=raw",
+    "raw_sha256": "f798cd72e1c558fb9bcd640ee52ba089ca7b0f6f5be3e26c804c8a7733a17b5a",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 25,
+    "name_zh": "无妄",
+    "original": "无妄：元亨。利貞。其匪正有眚，不利有攸往。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%97%A0%E5%A6%84",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%97%A0%E5%A6%84&action=raw",
+    "raw_sha256": "c11bc5a60fde2c199374195527cee4102ef5e5b755b7cb2bb44454eec95fd310",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 26,
+    "name_zh": "大畜",
+    "original": "大畜：利貞，不家食吉，利涉大川。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%A4%A7%E7%95%9C",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A4%A7%E7%95%9C&action=raw",
+    "raw_sha256": "5cfe64d4db6fea5edd781f4ee13b6465e27d62e1cb1ee777121b158700bbfeaa",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 27,
+    "name_zh": "頤",
+    "original": "頤：貞吉。觀頤，自求口實。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E9%A0%A4",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%A0%A4&action=raw",
+    "raw_sha256": "d356ddc403ae8a2923c8805df8854b44b65eaa39c430b41a7924ea55593f320a",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 28,
+    "name_zh": "大過",
+    "original": "大過：棟橈，利有攸往，亨。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%A4%A7%E9%81%8E",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A4%A7%E9%81%8E&action=raw",
+    "raw_sha256": "1249e5a4ebb965dc31392541cf4f2b2892361c3b7a147eea0d79d7050778490f",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 29,
+    "name_zh": "坎",
+    "original": "習坎：有孚，維心亨。行有尚。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%9D%8E",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%9D%8E&action=raw",
+    "raw_sha256": "67649ec92aad923c487b99d0eadb244f47fd81ac9ec1fc41c991cae52fe8c980",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 30,
+    "name_zh": "離",
+    "original": "離：利貞。亨。畜牝牛，吉。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E9%9B%A2",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%9B%A2&action=raw",
+    "raw_sha256": "441acca23398f8f80692371d6f6210c53ee2d945f3f77df0f649b2eb9da02ec9",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 31,
+    "name_zh": "咸",
+    "original": "咸：亨。利貞。取女吉。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%92%B8",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%92%B8&action=raw",
+    "raw_sha256": "fb35b42cf24d00ebc1532456ea7832c2d30f99fa52ba76c778451aa31a8d85ff",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 32,
+    "name_zh": "恆",
+    "original": "恆：亨，无咎。利貞，利有攸往。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%81%86",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%81%86&action=raw",
+    "raw_sha256": "e9c83f30c75539487013066246e4f8cbf27bde372ec46b4e47c609e0622b67bc",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 33,
+    "name_zh": "遯",
+    "original": "遯：亨。小利貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E9%81%AF",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%81%AF&action=raw",
+    "raw_sha256": "2676bbe35fe01a331f62ce09665031ce05435a5b8f9bc2bb49a4ae761c0751fb",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 34,
+    "name_zh": "大壯",
+    "original": "大壯：利貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%A4%A7%E5%A3%AF",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A4%A7%E5%A3%AF&action=raw",
+    "raw_sha256": "cddc93eed027f6a988901d305169ec51ba9b38c783b14488de6f1b141aec868b",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 35,
+    "name_zh": "晉",
+    "original": "晉：康侯用錫馬蕃庶，晝日三接。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%99%89",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%99%89&action=raw",
+    "raw_sha256": "7322474e504b7919ee7f29188f90aade0c384a2e5f4570de3eea3c8cbb083354",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 36,
+    "name_zh": "明夷",
+    "original": "明夷：利艱貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%98%8E%E5%A4%B7",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%98%8E%E5%A4%B7&action=raw",
+    "raw_sha256": "4d341536c62fa6e76cf02602e433eaff9a377efc8ed19258b85ae6ada8aea0ab",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 37,
+    "name_zh": "家人",
+    "original": "家人：利女貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%AE%B6%E4%BA%BA",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%AE%B6%E4%BA%BA&action=raw",
+    "raw_sha256": "0179c8e76f2ef04ee811c1acf142f707d29083fe324de7c4cd086ceb47f79c99",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 38,
+    "name_zh": "睽",
+    "original": "睽：小事吉。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E7%9D%BD",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E7%9D%BD&action=raw",
+    "raw_sha256": "e992371a0dc8ee58aba5f44f8ede6205712dbdad25edb7c030a1dcf12f067706",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 39,
+    "name_zh": "蹇",
+    "original": "蹇：利西南，不利東北；利見大人，貞吉。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%B9%87",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%B9%87&action=raw",
+    "raw_sha256": "4fca7850987f383c2a66b195c5c35c5f39be0c41877c5607013d6a9858d7066b",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 40,
+    "name_zh": "解",
+    "original": "解：利西南，无所往，其來復吉。有攸往，夙吉。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%A7%A3",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%A7%A3&action=raw",
+    "raw_sha256": "46fd421e644b9e766810bc08b912d61b680d17a3b5a420311d5bf75289a831f2",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 41,
+    "name_zh": "損",
+    "original": "損：有孚，元吉。无咎，可貞，利有攸往。曷之用？二簋可用享。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%90%8D",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%90%8D&action=raw",
+    "raw_sha256": "35cd31fa7274be23f261cdbeedea2764f755f2b9216e187ebd7cb19f104e7cea",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 42,
+    "name_zh": "益",
+    "original": "益：利有攸往。利涉大川。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E7%9B%8A",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E7%9B%8A&action=raw",
+    "raw_sha256": "b6b667ee48181cb28e9ba3a96f5e9f209d30a5a50396594c55b5260b5cb29aee",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 43,
+    "name_zh": "夬",
+    "original": "夬：揚于王庭，孚號，有厲，告自邑，不利即戎，利有攸往。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%A4%AC",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A4%AC&action=raw",
+    "raw_sha256": "1dbda1e9e07a19fe4ff04491bf7f99b3b9c501702773972d647745c2c5f4b0aa",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 44,
+    "name_zh": "姤",
+    "original": "姤：女壯，勿用取女。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%A7%A4",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%A7%A4&action=raw",
+    "raw_sha256": "6b32ae120b58931145ddff8085f5c56e45f7c52c3a1cb6a5c6a49d3b358819e3",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 45,
+    "name_zh": "萃",
+    "original": "萃：王假有廟，利見大人，亨。利貞。用大牲吉，利有攸往。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%90%83",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%90%83&action=raw",
+    "raw_sha256": "f353e767fdeeca38561dfe43a34c587366154bad4ab6e5899924045b28da1c14",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 46,
+    "name_zh": "升",
+    "original": "升：元亨，用見大人，勿恤，南征吉。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%8D%87",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%8D%87&action=raw",
+    "raw_sha256": "443fb95dd115611d330e6ff8c5e71cde43295b15c5004bd1e2e7ecdf4754f742",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 47,
+    "name_zh": "困",
+    "original": "困：亨，貞大人吉，无咎，有言不信。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%9B%B0",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%9B%B0&action=raw",
+    "raw_sha256": "cc243ac371a6fa4df22160bc14f1d5ce8802849a778522758ec24b87fa562b8b",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 48,
+    "name_zh": "井",
+    "original": "井：改邑不改井，无喪无得，往來井井。汔至亦未繘井。羸其瓶，凶。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E4%BA%95",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E4%BA%95&action=raw",
+    "raw_sha256": "1ab27335076e1c166642c60b9f31789337a7da0c66ec4e3d9f28632786ff0914",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 49,
+    "name_zh": "革",
+    "original": "革：已日乃孚，元亨。利貞。悔亡。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E9%9D%A9",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%9D%A9&action=raw",
+    "raw_sha256": "095de39170ac0e2407fbebd131f3957b08f13d1aeea25eed4f331aa672fde643",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 50,
+    "name_zh": "鼎",
+    "original": "鼎：元吉，亨。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E9%BC%8E",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%BC%8E&action=raw",
+    "raw_sha256": "f42593c252a3f9a3c5f3e0005959c887acb653016eef0b887bf51c129b841fa8",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 51,
+    "name_zh": "震",
+    "original": "震：亨。震來虩虩，笑言啞啞。震驚百里，不喪匕鬯。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E9%9C%87",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E9%9C%87&action=raw",
+    "raw_sha256": "a91ae3f5544413961abcc2d134f79310de1f7bab2c81f7f29a42d309a75ad26a",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 52,
+    "name_zh": "艮",
+    "original": "艮：艮其背，不獲其身，行其庭，不見其人，无咎。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%89%AE",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%89%AE&action=raw",
+    "raw_sha256": "58c8311a879b6c5e764365d0beb1c946ae2a2e63784e1e1d6a946f387a0379ee",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 53,
+    "name_zh": "漸",
+    "original": "漸：女歸吉，利貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%BC%B8",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%BC%B8&action=raw",
+    "raw_sha256": "46da172e6576ba774f6c61741a2d566014f5e5fc90c1065251cb80ccd89b28d7",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 54,
+    "name_zh": "歸妹",
+    "original": "歸妹：征凶，无攸利。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%AD%B8%E5%A6%B9",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%AD%B8%E5%A6%B9&action=raw",
+    "raw_sha256": "3b875fda93e1388dd9359d5185626e56e542344e07efe0659b02512595c992fd",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 55,
+    "name_zh": "豐",
+    "original": "豐：亨。王假之，勿憂，宜日中。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E8%B1%90",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E8%B1%90&action=raw",
+    "raw_sha256": "decc267b9a05f7779a16ca01bc00fce9bff4e650fd3b1195d0f97d91297df302",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 56,
+    "name_zh": "旅",
+    "original": "旅：小亨，旅貞吉。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%97%85",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%97%85&action=raw",
+    "raw_sha256": "3e8aed4bcd7651b4afde4fbfa7451fd15d632ad313d8760c1dda7d3d3c49e819",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 57,
+    "name_zh": "巽",
+    "original": "巽：小亨。利有攸往。利見大人。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%B7%BD",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B7%BD&action=raw",
+    "raw_sha256": "99a815af7cfac36d8d46784002467f6e70babf49e7fe4bb930976d0e78dc066c",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 58,
+    "name_zh": "兌",
+    "original": "兌：亨。利貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%85%8C",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%85%8C&action=raw",
+    "raw_sha256": "0ecebe0d070dcd3cdf07019a3f1d578cbcd4d1bb441c48b8536bb596e3e49850",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 59,
+    "name_zh": "渙",
+    "original": "渙：亨，王假有廟，利涉大川，利貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%B8%99",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%B8%99&action=raw",
+    "raw_sha256": "9c8c9b4298fa8429c00ece4a08821a83f9a5692f9bba09eb26cd2e180850c76e",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 60,
+    "name_zh": "節",
+    "original": "節：亨。苦節不可貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E7%AF%80",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E7%AF%80&action=raw",
+    "raw_sha256": "a017661595c6358621214894a41885648d4e2fe71af0d43ebd9f7b3f66517bcf",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 61,
+    "name_zh": "中孚",
+    "original": "中孚：豚魚吉，利涉大川，利貞。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E4%B8%AD%E5%AD%9A",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E4%B8%AD%E5%AD%9A&action=raw",
+    "raw_sha256": "9048c101757a1c3a0f5e7ec3d79e0fa22ba121babbf7fc083b8a48e1a0514e2b",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 62,
+    "name_zh": "小過",
+    "original": "小過：亨。利貞。可小事，不可大事。飛鳥遺之音，不宜上宜下，大吉。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E5%B0%8F%E9%81%8E",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E5%B0%8F%E9%81%8E&action=raw",
+    "raw_sha256": "899bcfc5e793f63761f01098bc6997cbec4c71be84f183f763c553e69075f1cd",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 63,
+    "name_zh": "既濟",
+    "original": "既濟：亨小。利貞。初吉終亂。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%97%A2%E6%BF%9F",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%97%A2%E6%BF%9F&action=raw",
+    "raw_sha256": "e9099522d8013177a9316c8fc499a10b80d50edd18b3401cbd79b2d31ab58d78",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  },
+  {
+    "number": 64,
+    "name_zh": "未濟",
+    "original": "未濟：亨。小狐汔濟，濡其尾，无攸利。",
+    "source_zh": "https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E6%9C%AA%E6%BF%9F",
+    "source_raw": "https://zh.wikisource.org/w/index.php?title=%E5%91%A8%E6%98%93%2F%E6%9C%AA%E6%BF%9F&action=raw",
+    "raw_sha256": "9dcd6ad074f7d0633872e3e83665e86bd3d2bc19a3ae23cb4ff0eb044e2b4a83",
+    "retrieved_at": "2026-11-07T17:15:35+00:00"
+  }
+]

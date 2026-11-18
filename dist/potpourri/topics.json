@@ -1,0 +1,527 @@
+{
+  "pendulum": {
+    "title": "Pendulum",
+    "photo": [
+      "Include the suspension point, weight and a stationary reference in a full view.",
+      "Add a sequence or dated drawing and record string length, timing and nearby movement."
+    ]
+  },
+  "crystallization": {
+    "title": "Crystallization",
+    "photo": [
+      "Include a full sample view and a focused microscope detail with magnification or scale.",
+      "Record ingredients, preparation, illumination and time since drying."
+    ]
+  },
+  "dice": {
+    "title": "Dice",
+    "photo": [
+      "Photograph every die from above with its result unobstructed.",
+      "Number successive throws and keep the original order in the accompanying note."
+    ]
+  },
+  "coins": {
+    "title": "Coins",
+    "photo": [
+      "Photograph the complete arrangement from above so each side is visible.",
+      "For I Ching, include all six line totals in bottom-to-top order."
+    ]
+  },
+  "grounds": {
+    "title": "Tea & coffee grounds",
+    "photo": [
+      "Photograph the cup from above and from several sides in soft light; include the handle as an orientation reference.",
+      "Include the saucer separately and describe how the drink was prepared and the cup turned."
+    ]
+  },
+  "runes": {
+    "title": "Runes",
+    "photo": [
+      "Show the entire layout with each rune in its drawn orientation.",
+      "State whether the set contains 16 or 24 runes and number their draw order."
+    ]
+  },
+  "cards": {
+    "title": "Cards",
+    "photo": [
+      "Use one overhead photograph showing the complete spread in its original order.",
+      "Include card positions, deck name and any reversals; add a close detail if text is unreadable."
+    ]
+  },
+  "entropy-streams": {
+    "title": "Entropy streams",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "weather": {
+    "title": "Weather",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "sun": {
+    "title": "The Sun",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "planets": {
+    "title": "Planets",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "horoscope": {
+    "title": "Horoscope",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "contemplative-observation": {
+    "title": "Contemplative observation",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "naam-listening": {
+    "title": "Naam & attentive listening",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "breath-observation": {
+    "title": "Breath observation",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "ritual-sound": {
+    "title": "Ritual sound & rhythm",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "yijing": {
+    "title": "I Ching / Yijing",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "crystal-gazing": {
+    "title": "Crystal gazing",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "candle-gazing": {
+    "title": "Candle gazing",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "handreading": {
+    "title": "Handreading / palmistry",
+    "photo": [
+      "Photograph both palms with fingers relaxed and the full hand in view.",
+      "Add a sharp close view of the palm lines and indicate left/right and the dominant hand."
+    ]
+  },
+  "automatic-writing": {
+    "title": "Automatic writing",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "automatic-painting": {
+    "title": "Automatic painting & drawing",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "tracking": {
+    "title": "Tracking / tracks & signs",
+    "photo": [
+      "Take a wide landscape view and a sharp overhead photograph of the trace with a ruler.",
+      "Add a side view, direction and location context without disturbing the track."
+    ]
+  },
+  "kinesthesia": {
+    "title": "Kinesthesia / body awareness",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "radiesthesia": {
+    "title": "Radiesthesia / dowsing",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "molybdomancy": {
+    "title": "Molybdomancy / cast-metal readings",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "clairvoyance": {
+    "title": "Clairvoyance",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "lucid-dreaming": {
+    "title": "Lucid dreaming",
+    "photo": [
+      "Include one full view and one closer detail of the observation.",
+      "Describe the preparation, time, arrangement and question. Keep the original sequence visible."
+    ]
+  },
+  "remote-viewing": {
+    "title": "Remote viewing",
+    "photo": [
+      "Send an uncropped scan of the dated impressions, with personal identifiers covered.",
+      "Include the target identifier and reveal image separately, explaining when each was made."
+    ]
+  },
+  "precognition-presentiment": {
+    "title": "Precognition & presentiment",
+    "photo": [
+      "Provide a readable image of the original dated entry.",
+      "Add a separate outcome record with its source and time; redact private information."
+    ]
+  },
+  "retrocognition": {
+    "title": "Retrocognition",
+    "photo": [
+      "Send the dated original notes or drawing.",
+      "Include the archival reference and a permitted image of the comparison material."
+    ]
+  },
+  "telepathy": {
+    "title": "Telepathy",
+    "photo": [
+      "Send the target list and receiver sheet as separate legible images.",
+      "Remove names, contact details and unrelated conversations from the record."
+    ]
+  },
+  "psychometry": {
+    "title": "Psychometry",
+    "photo": [
+      "Photograph the whole object against a plain background and add a close view of its surface.",
+      "Send the impressions and provenance as separate records, with ownership details redacted."
+    ]
+  },
+  "clairaudience-clairsentience": {
+    "title": "Clairaudience & clairsentience",
+    "photo": [
+      "Submit a dated transcription or drawing of the experience.",
+      "If sound is relevant, describe the recording and its context; a photograph cannot establish an unheard source."
+    ]
+  },
+  "oneiromancy": {
+    "title": "Oneiromancy",
+    "photo": [
+      "Send a legible scan of the dream record or a drawing of its main scene.",
+      "Keep the original dream and the requested interpretation question clearly separated."
+    ]
+  },
+  "dream-incubation": {
+    "title": "Dream incubation",
+    "photo": [
+      "Provide separate dated images of the intention and waking report.",
+      "A sketch is welcome; indicate which elements were recalled and which were added later."
+    ]
+  },
+  "hypnagogic-imagery": {
+    "title": "Hypnagogic imagery",
+    "photo": [
+      "Send a drawing or dated written description of the recalled image.",
+      "Identify it as a sleep-onset record and omit unrelated private details."
+    ]
+  },
+  "dream-yoga-yoga-nidra": {
+    "title": "Dream yoga & yoga nidra",
+    "photo": [
+      "Send the session notes or a drawing, with a reference to the teaching used.",
+      "Include only personally shareable material, not restricted ritual instructions or other participants."
+    ]
+  },
+  "mirror-gazing": {
+    "title": "Catoptromancy / mirror gazing",
+    "photo": [
+      "Photograph the mirror with its edges and surrounding light visible.",
+      "Add one image from the viewing angle; avoid including bystanders or private reflections."
+    ]
+  },
+  "hydromancy": {
+    "title": "Hydromancy",
+    "photo": [
+      "Include an overview showing the vessel or shoreline and a close view of the water.",
+      "State whether the water was still or moving and record the viewing direction and light."
+    ]
+  },
+  "lecanomancy": {
+    "title": "Lecanomancy",
+    "photo": [
+      "Take an overhead image including the full basin rim.",
+      "Add a side view showing lighting, depth and any material on the surface."
+    ]
+  },
+  "pyromancy": {
+    "title": "Pyromancy",
+    "photo": [
+      "Provide an overview of the existing setup and a focused flame image from a fixed distance.",
+      "Use a short sequence if the interpretation concerns motion rather than a single shape."
+    ]
+  },
+  "capnomancy": {
+    "title": "Capnomancy",
+    "photo": [
+      "Use a contrasting background and include enough of the source to explain the plume.",
+      "Send a sequence or time marks when a changing shape is the subject."
+    ]
+  },
+  "ceromancy": {
+    "title": "Ceromancy",
+    "photo": [
+      "Photograph the complete cooled form from above with a scale marker.",
+      "Add a side view and a shadow image, keeping orientation consistent."
+    ]
+  },
+  "lithomancy": {
+    "title": "Lithomancy",
+    "photo": [
+      "Take a straight overhead image showing every stone and the boundary of the layout.",
+      "Add a scale marker and a key identifying colors or marks that may be unclear."
+    ]
+  },
+  "sand-readings": {
+    "title": "Sand readings / psammomancy",
+    "photo": [
+      "Use angled light to show relief and include the full marked area.",
+      "Add a close image and indicate which direction is the top of the record."
+    ]
+  },
+  "inkblot-readings": {
+    "title": "Inkblot & incidental-image readings",
+    "photo": [
+      "Send a sharp, unfiltered overview with the paper edges or a scale reference visible.",
+      "Provide any rotated interpretation as a separate image and retain the original orientation."
+    ]
+  },
+  "geomancy": {
+    "title": "Geomancy",
+    "photo": [
+      "Photograph the complete chart with every dot clear.",
+      "Include the raw mark sequence and the source or legend used to derive the figures."
+    ]
+  },
+  "bibliomancy-stichomancy": {
+    "title": "Bibliomancy & stichomancy",
+    "photo": [
+      "Send a focused image of the passage with page number visible.",
+      "Include the title and edition, or a short transcription if reproduction is restricted."
+    ]
+  },
+  "numerology-arithmancy": {
+    "title": "Numerology / arithmancy",
+    "photo": [
+      "Provide a legible calculation sheet showing every step.",
+      "Use initials or a chosen example when full names or birth dates are unnecessary."
+    ]
+  },
+  "gematria-isopsephy": {
+    "title": "Gematria & isopsephy",
+    "photo": [
+      "Send the original text and a legible table of letter values.",
+      "Include the manuscript or edition reference and indicate any uncertain characters."
+    ]
+  },
+  "onomancy": {
+    "title": "Onomancy",
+    "photo": [
+      "Send a clear written example and the correspondence table or source.",
+      "Use an alias or initials if the question does not require a private legal name."
+    ]
+  },
+  "kledonomancy": {
+    "title": "Kledonomancy",
+    "photo": [
+      "Submit a dated transcription with the context summarized.",
+      "Exclude private conversations and identify quotations only when permission or publication allows it."
+    ]
+  },
+  "cleromancy": {
+    "title": "Cleromancy / casting lots",
+    "photo": [
+      "Photograph the full cast before moving any token.",
+      "Include the token legend, order and any direction or boundary used in the reading."
+    ]
+  },
+  "belomancy": {
+    "title": "Belomancy",
+    "photo": [
+      "Submit a permitted archive image or a diagram of the described arrangement.",
+      "Include the source citation and readable labels rather than staging an arrow discharge."
+    ]
+  },
+  "ifa-diloggun": {
+    "title": "Ifa, diloggun & named casting systems",
+    "photo": [
+      "Send only personally shareable images with the full arrangement and its orientation visible.",
+      "Include the practitioner’s explanation or source with permission, and avoid private ritual or participant details."
+    ]
+  },
+  "physiognomy-metoposcopy": {
+    "title": "Physiognomy & metoposcopy",
+    "photo": [
+      "Use a permitted image of the historical page with its caption and page number.",
+      "Provide a close view of the diagram’s labels and its catalog reference."
+    ]
+  },
+  "graphology": {
+    "title": "Graphology",
+    "photo": [
+      "Send a straight, evenly lit image of an original sample with its edges visible.",
+      "Remove signatures, addresses and private text unless essential to the submitted question."
+    ]
+  },
+  "movement-journals": {
+    "title": "Hand and body movement journals",
+    "photo": [
+      "Use sequential drawings or still frames with a clear order.",
+      "Include the date, viewpoint and a short note about the sensations being described."
+    ]
+  },
+  "automatic-music": {
+    "title": "Automatic music & improvisation",
+    "photo": [
+      "A score, waveform screenshot or photograph of the setup can accompany a recording description.",
+      "Include time marks for the passage and identify any edits or repeated takes."
+    ]
+  },
+  "guided-imagery-pathworking": {
+    "title": "Guided imagery & pathworking",
+    "photo": [
+      "Submit a drawing or dated session note with the prompt cited.",
+      "Mark which images came from the script and which were personally experienced or added later."
+    ]
+  },
+  "labyrinth-walking": {
+    "title": "Labyrinth walking",
+    "photo": [
+      "Show the overall path or a permitted plan with start and center labeled.",
+      "Add a short movement record without photographing other visitors without permission."
+    ]
+  },
+  "augury-ornithomancy": {
+    "title": "Augury / ornithomancy",
+    "photo": [
+      "Use a distant overview and a sequence showing direction or behavior.",
+      "Include time, approximate location and species uncertainty without approaching or disturbing the animal."
+    ]
+  },
+  "animal-sign-readings": {
+    "title": "Alectryomancy, hippomancy & ichthyomancy",
+    "photo": [
+      "Submit a permitted archive image or an undisturbed observation sequence.",
+      "Include the source and time; avoid staging behavior or handling animals for a reading."
+    ]
+  },
+  "nephomancy": {
+    "title": "Nephomancy",
+    "photo": [
+      "Include a wide sky image with the horizon or a direction reference.",
+      "Send a short time sequence if the reading concerns a transformation in shape."
+    ]
+  },
+  "brontomancy": {
+    "title": "Brontomancy",
+    "photo": [
+      "A permitted archive page or weather-log image is suitable.",
+      "For an existing recording, provide time marks and context rather than going outside to obtain storm footage."
+    ]
+  },
+  "scapulimancy-plastromancy": {
+    "title": "Scapulimancy & plastromancy",
+    "photo": [
+      "Send a permitted museum or archive image with full credit and object number.",
+      "Include an overview and a detail of the relevant inscription or crack pattern."
+    ]
+  },
+  "extispicy-hepatoscopy": {
+    "title": "Extispicy / hepatoscopy",
+    "photo": [
+      "Use a permitted image of a museum model, tablet or archive page.",
+      "Supply the accession number and a readable detail of the feature or text under discussion."
+    ]
+  },
+  "card-reading-systems": {
+    "title": "Tarot, Lenormand, Sibilla & playing-card systems",
+    "photo": [
+      "Use an overhead view with every card readable and no cropped positions.",
+      "Mark the first card, orientation and draw order; add a close image for small card text."
+    ]
+  },
+  "astragalomancy": {
+    "title": "Astragalomancy",
+    "photo": [
+      "Photograph the full cast overhead with each face visible.",
+      "Include a legend identifying pieces, values and the boundary of the cast."
+    ]
+  },
+  "rhabdomancy": {
+    "title": "Rhabdomancy & rod methods",
+    "photo": [
+      "Show the full rod and grip from the side without obscuring the tips.",
+      "Add a plan of the trial area with the direction of movement and concealed target reveal kept separate."
+    ]
+  },
+  "astrology-branches": {
+    "title": "Horary, electional, natal & mundane astrology",
+    "photo": [
+      "Export the whole chart with its settings and date visible.",
+      "Redact names and private birth details unless required for the submitted question."
+    ]
+  },
+  "astrocartography-planetary-hours": {
+    "title": "Astrocartography & planetary hours",
+    "photo": [
+      "Send a map overview plus a close view with legend and coordinates.",
+      "For planetary hours, provide the full table and its sunrise, sunset and time-zone assumptions."
+    ]
+  },
+  "tasseography-variants": {
+    "title": "Tasseography variants",
+    "photo": [
+      "Take one overhead view and several views around the inner wall with the handle location marked.",
+      "Use diffuse light, include the saucer if relevant and photograph before washing or moving the residue."
+    ]
+  },
+  "other": {
+    "title": "Other / a name or practice to identify",
+    "photo": [
+      "Include a clear full view and a close detail.",
+      "Describe the material, place, preparation and question."
+    ]
+  }
+}

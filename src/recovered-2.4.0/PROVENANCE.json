@@ -1,0 +1,15 @@
+{
+  "Timestamp": "2026-11-15",
+  "Version": "2.4.0",
+  "Author & Credits": "https://www.alawise.es/1-s",
+  "repository": "https://github.com/1wise/kamala.pro",
+  "commit": "e0ba5b3351e8a859897b9d7eccb432c23dbac2ec",
+  "overlays": {
+    "pendulum-base/kamala-pro-2.2.0-pendulum.zip": "6798b5372a48558256ef38bd0e3745a105d2d070b9e41f19b4ca8aad1187eda6",
+    "pendulum-base/kamala-pro-2.3.0-observatory.zip": "716cb8b9c43e1b4b3d1ba05b5255d00b2b1a534bfdff61fab12a58c79cb2933f",
+    "kamala-pendulum-3.1.1.zip": "5d548dd1089008850c44ca5f5c990e0a399a53c332e0ed3fe421ee09b4b126d3",
+    "kamala-pendulum-top-view-3.1.2.zip": "20ac327f7267a8c24553dc79423029f03aaf22a3503ee986efb06f9e4bdabd4a",
+    "kamala-yijing-reference-1.1.0.zip": "69d149c44742c33feb051feb3c20b91e04d40b974c81a9a8c10a1e12f17295e4",
+    "kamala-time-1.0.1.zip": "c761ca244243f8918f4053c8ccb2101f6c2070734819d253f3c186e151bc3287"
+  }
+}

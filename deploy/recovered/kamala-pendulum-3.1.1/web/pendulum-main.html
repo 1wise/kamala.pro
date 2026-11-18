@@ -1,0 +1,54 @@
+<!-- Timestamp: 2026-11-07 | Version: 3.1.1 | Author & Credits: https://www.alawise.es/1-s -->
+<div class="pnd-workspace" data-pendulum data-endpoint="/telemetry-pendulum/state.json">
+  <header class="pnd-embed-heading" id="experiment"><div><span class="eyebrow">CAMERA 4 / LIVE INSTRUMENT</span><h2>The feeder pendulum.</h2></div><a class="text-link" href="/techniques/pendulum/live/">Open dedicated view ↗</a></header>
+
+  <section class="pnd-instrument" aria-label="Live pendulum instrument">
+    <div class="pnd-camera">
+      <div class="pnd-bar"><span class="eyebrow">KAM4 / THE FEEDER</span><span class="pnd-video-label" data-pnd-camera-status>Connecting image</span></div>
+      <figure class="pnd-camera-image">
+        <img data-pnd-image src="https://kam.2to1.me/stream/cam4" alt="Camera 4 live view of the bell pendulum at the small-bird feeder" referrerpolicy="no-referrer" decoding="async">
+        <figcaption data-pnd-camera-note>Connecting to Camera 4…</figcaption>
+      </figure>
+      <div class="pnd-camera-actions"><span>1280 × 720 tracking coordinates</span><div><button type="button" data-pnd-camera-toggle>Stop image</button><button type="button" data-pnd-fullscreen aria-pressed="false">Fullscreen</button><a href="https://kam.2to1.me/stream/cam4" target="_blank" rel="noopener">Source ↗</a></div></div>
+    </div>
+    <aside class="pnd-readout" aria-label="Latest OpenCV measurements">
+      <div class="pnd-bar"><span class="eyebrow">OPENCV / LATEST SAMPLE</span><span class="pnd-status" data-pnd-status data-state="waiting" role="status" aria-live="polite">Waiting</span></div>
+      <div class="pnd-main-value"><span data-pnd-value="displacement">—</span><small data-pnd-unit="length">mm</small></div>
+      <p class="pnd-value-title" data-pnd-amplitude-label>3D displacement</p>
+      <div class="pnd-threshold"><span>Display threshold</span><strong data-pnd-threshold>15 mm</strong></div>
+      <dl class="pnd-metrics">
+        <div><dt>Offset X</dt><dd><span data-pnd-value="dx">—</span><small data-pnd-unit="length">mm</small></dd></div>
+        <div><dt>Offset Y</dt><dd><span data-pnd-value="dy">—</span><small data-pnd-unit="length">mm</small></dd></div>
+        <div><dt>Offset Z</dt><dd><span data-pnd-value="dz">—</span><small data-pnd-unit="length">mm</small></dd></div>
+        <div><dt>Velocity X</dt><dd><span data-pnd-value="vx">—</span><small data-pnd-unit="velocity">mm/s</small></dd></div>
+        <div><dt>Velocity Y</dt><dd><span data-pnd-value="vy">—</span><small data-pnd-unit="velocity">mm/s</small></dd></div>
+        <div><dt>Velocity Z</dt><dd><span data-pnd-value="vz">—</span><small data-pnd-unit="velocity">mm/s</small></dd></div>
+      </dl>
+      <div class="pnd-counter"><div><span class="eyebrow">THRESHOLD EVENTS</span><strong data-pnd-value="events">—</strong></div><div><span class="eyebrow" data-pnd-quality-label>GEOMETRIC FIT</span><strong><span data-pnd-quality>—</span><small data-pnd-quality-unit>%</small></strong></div></div>
+      <div class="pnd-sample-note" data-pnd-message>Waiting for measurements collected on Excalibur.</div>
+      <p class="pnd-small-note" data-pnd-source-alert>Source alarm: waiting</p>
+    </aside>
+  </section>
+
+  <div class="pnd-session-bar"><p><i data-pnd-indicator></i><span data-pnd-time>No measured sample received</span></p><span>Video and data may have different delivery delays.</span></div>
+
+  <section class="pnd-plots" aria-label="Pendulum measurement history">
+    <article class="pnd-chart-panel">
+      <div class="pnd-chart-heading"><div><span class="eyebrow">01 / OVER TIME</span><h2>The trace.</h2></div><label>Window<select data-pnd-window aria-label="Visible history window"><option value="30">30 seconds</option><option value="60" selected>60 seconds</option><option value="120">120 seconds</option></select></label></div>
+      <div class="pnd-chart-tabs" role="group" aria-label="Chart measurement"><button type="button" data-pnd-metric="displacement" aria-pressed="true">Amplitude</button><button type="button" data-pnd-metric="offset" aria-pressed="false">Offset X / Y / Z</button><button type="button" data-pnd-metric="velocity" aria-pressed="false">Velocity X / Y / Z</button><button type="button" data-pnd-metric="depth" aria-pressed="false">Depth Z</button></div>
+      <svg class="pnd-trace" data-pnd-trace viewBox="0 0 680 280" role="img" aria-label="Measurement history, waiting for samples"></svg>
+      <div class="pnd-chart-footer"><span data-pnd-legend>3D amplitude · mm · sampled display</span><button type="button" data-pnd-export disabled>Download CSV ↓</button></div>
+    </article>
+    <article class="pnd-position-panel">
+      <div class="pnd-chart-heading"><div><span class="eyebrow">02 / RELATIVE POSITION</span><h2>Around the reference.</h2></div><span class="pnd-axis-note">X →<br>Y ↓<br>Z + away</span></div>
+      <svg class="pnd-position" data-pnd-position viewBox="0 0 340 280" role="img" aria-label="Relative X and Y position, waiting for samples"></svg>
+      <div class="pnd-position-coords"><span>POSITION <b data-pnd-position-value>—, —</b></span><span>REFERENCE <b data-pnd-anchor-value>—, —</b></span></div>
+    </article>
+  </section>
+
+  <section class="pnd-bottom">
+    <article class="pnd-events"><div class="pnd-chart-heading"><div><span class="eyebrow">03 / THRESHOLD RECORD</span><h2>When the bell moves.</h2></div><span class="pnd-small-note">UTC</span></div><ol data-pnd-events><li class="pnd-empty">Events appear after an observed counter increase.</li></ol><p class="pnd-small-note">The source counter records triggers with a 2.5-second cooldown and restarts with the tracker. Its trigger can differ from the 3D amplitude threshold displayed here.</p></article>
+    <article class="pnd-method" id="data"><span class="eyebrow">READING THE INSTRUMENT</span><h2>Image, motion,<br>observation.</h2><dl><div><dt>Position & reference</dt><dd>The detected bell center, apparent radius and slowly adapting equilibrium reference remain in image pixels.</dd></div><div><dt>Offset & velocity</dt><dd>X / Y / Z movement is transmitted in millimeters and millimeters per second. Positive Z points away from the lens. The XY diagram is a planar projection.</dd></div><div><dt>Fit & calibration</dt><dd>Geometric fit is a matching score, not a probability or brightness reading. Samples at 15% or below are omitted from the traces. Z is inferred from apparent size; its accuracy requires a physical calibration test.</dd></div></dl><a class="text-link" href="/potpourri/?topic=pendulum">Add an observation or photograph ↗</a></article>
+  </section>
+  <noscript><p class="section">Camera 4 remains visible. JavaScript is required for live measurements, plots and CSV export.</p></noscript>
+</div>

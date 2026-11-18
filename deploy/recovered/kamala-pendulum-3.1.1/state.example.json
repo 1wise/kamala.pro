@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "camera": "cam4",
+  "status": "live",
+  "collected_at": 1794052800.3,
+  "received_at": 1794052800.2,
+  "session_started_at": 1794052800.2,
+  "session": 1,
+  "frames_received": 1,
+  "sample": {
+    "ts": 1794052800.125,
+    "mode": "3d-mm",
+    "x": 608.0,
+    "y": 300.0,
+    "r": 32.25,
+    "ax": 608.0,
+    "ay": 300.0,
+    "ar": 32.0,
+    "dx": 0.0,
+    "dy": 0.0,
+    "dz": -4.26,
+    "vx": 0.0,
+    "vy": 0.0,
+    "vz": -2.1,
+    "displacement": 4.26,
+    "fit_pct": 78,
+    "luminance": null,
+    "alert": false,
+    "events": 4,
+    "tracking_valid": true
+  },
+  "history": [
+    {
+      "ts": 1794052800.125,
+      "mode": "3d-mm",
+      "x": 608.0,
+      "y": 300.0,
+      "r": 32.25,
+      "ax": 608.0,
+      "ay": 300.0,
+      "ar": 32.0,
+      "dx": 0.0,
+      "dy": 0.0,
+      "dz": -4.26,
+      "vx": 0.0,
+      "vy": 0.0,
+      "vz": -2.1,
+      "displacement": 4.26,
+      "fit_pct": 78,
+      "luminance": null,
+      "alert": false,
+      "events": 4,
+      "tracking_valid": true
+    }
+  ],
+  "events": [],
+  "error": null,
+  "units": {
+    "position": "px",
+    "displacement": "mm",
+    "velocity": "mm/s"
+  },
+  "limits": {
+    "width": 1280,
+    "height": 720,
+    "threshold": 15.0,
+    "min_fit_pct": 15,
+    "min_brightness": 75,
+    "cooldown_s": 2.5,
+    "sample_interval": 0.5
+  }
+}

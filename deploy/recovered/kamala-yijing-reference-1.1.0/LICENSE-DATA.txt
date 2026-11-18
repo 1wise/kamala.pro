@@ -1,0 +1,29 @@
+Timestamp: 2026-11-07
+Version: 1.1.0
+Author & Credits: https://www.alawise.es/1-s
+
+READING DATA: Creative Commons Attribution-ShareAlike 4.0 International
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+Chinese digital text witness:
+  Wikisource contributors, Zhouyi (周易), Chinese-language Wikisource.
+  https://zh.wikisource.org/wiki/周易
+  Individual source links and provenance are in SOURCES.json.
+
+Brief English renderings and assembled reading dataset:
+  Kamala / 1wise / OpenMind, 2026.
+  https://www.alawise.es/1-s
+
+Changes include extraction of hexagram statements, removal of source markup,
+normalized display whitespace, a punctuation adjustment in hexagram 23, and
+new brief English renderings. See SOURCES.md for the complete change notice.
+
+You may share and adapt this material under the terms of CC BY-SA 4.0.
+Keep attribution, identify changes, link to the license, and license adapted
+material under the same license. No endorsement by a source is implied.
+
+License text: https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
+License summary: https://creativecommons.org/licenses/by-sa/4.0/
+
+This data license applies to the reading text and dataset. The code's GPL-3.0
+license is provided separately in LICENSE.

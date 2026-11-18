@@ -1,0 +1,60 @@
+/* Timestamp: 2026-11-07 | Version: 2.3.0 | Author & Credits: https://www.alawise.es/1-s */
+.mic-workspace, .mic-study { --mic-line: #36304b; --mic-accent: #c2b5ff; --mic-quiet: #b8aecb; --mic-surface: #12101d; }
+.mic-workspace { margin: 0 5% 72px; scroll-margin-top: 24px; }
+.mic-heading { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 14px 32px; margin: 0 0 22px; }
+.mic-heading h2 { font: clamp(32px, 4vw, 57px)/1.08 Georgia, serif; margin: 7px 0 0; letter-spacing: -.035em; }
+.mic-heading p { max-width: 35ch; color: var(--mic-quiet); font-size: 14px; line-height: 1.6; margin: 0; }
+.mic-instrument { display: grid; grid-template-columns: minmax(0, 1.8fr) minmax(260px, 1fr); border: 1px solid var(--mic-line); background: #0a0812; }
+.mic-camera { display: flex; flex-direction: column; min-width: 0; border-right: 1px solid var(--mic-line); }
+.mic-bar { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; min-height: 48px; padding: 12px 19px; font: 11px/1.4 monospace; color: var(--mic-quiet); }
+.mic-bar .eyebrow { font-size: 10px; }
+.mic-image { position: relative; margin: 0; aspect-ratio: 16/9; min-height: 200px; flex: 1; overflow: hidden; background: radial-gradient(ellipse at 50% 47%, #28204a, #0d0a16 74%); }
+.mic-image img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+.mic-image figcaption { position: absolute; inset: 0; display: grid; align-content: center; justify-items: center; gap: 10px; padding: 15px; text-align: center; color: #c4b8df; font: 12px/1.4 monospace; }
+.mic-image figcaption svg { color: #9a81de; opacity: .72; }
+.mic-image [hidden] { display: none; }
+.mic-tools { display: flex; align-items: center; flex-wrap: wrap; gap: 11px 16px; padding: 12px 19px; color: var(--mic-quiet); font: 11px/1.45 monospace; }
+.mic-tools button, .mic-tools a, .mic-tabs button { color: #e2dcf2; background: #191426; border: 1px solid #4d4264; padding: 7px 10px; font: 11px/1.45 monospace; text-decoration: none; }
+.mic-tools button:hover, .mic-tools a:hover, .mic-tabs button:hover, .mic-tabs [aria-pressed="true"] { border-color: #b6a2f5; color: #eee8ff; background: #33264c; }
+.mic-tools button:disabled { opacity: .44; cursor: default; }
+.mic-readout { min-width: 0; background: radial-gradient(ellipse at 50% 20%, #221939, transparent 75%), var(--mic-surface); padding: 0 19px 12px; }
+.mic-readout .mic-bar { padding-left: 0; padding-right: 0; }
+.mic-state { display: flex; gap: 12px; align-items: baseline; color: #ddd3f5; }
+.mic-state strong { font: 44px/1 Georgia, serif; color: var(--mic-accent); }
+.mic-state span { font: 12px/1.4 monospace; }
+.mic-rose { display: block; width: min(100%, 248px); margin: 2px auto 0; height: auto; }
+.mic-rose .mic-grid { fill: none; stroke: #554969; stroke-width: 1; }
+.mic-rose .mic-angle { stroke: #a388e2; stroke-width: 3; opacity: .67; stroke-linecap: round; }
+.mic-rose .mic-label { fill: #bcb1d0; font: 10px monospace; }
+.mic-metrics { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 12px; border-top: 1px solid var(--mic-line); margin: 0; padding: 12px 0 2px; }
+.mic-metrics dt { font: 10px/1.4 monospace; color: var(--mic-quiet); }
+.mic-metrics dd { margin: 5px 0 0; font-size: 13px; overflow-wrap: anywhere; }
+.mic-caption, .mic-help { font: 11px/1.6 monospace; color: var(--mic-quiet); }
+.mic-caption { margin: 10px 0 23px; }
+.mic-ledger { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 16px; }
+.mic-form, .mic-history { padding: 20px; background: var(--mic-surface); border: 1px solid var(--mic-line); min-width: 0; }
+.mic-form h3, .mic-history h3, .mic-context h3, .mic-candidates h3 { margin: 5px 0 13px; font: 25px/1.15 Georgia, serif; }
+.mic-fields { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 13px; }
+.mic-fields label { display: grid; gap: 6px; color: #d4c9e7; font-size: 12px; }
+.mic-fields .mic-wide { grid-column: 1/-1; }
+.mic-fields input:not([type="checkbox"]), .mic-fields select, .mic-fields textarea { min-width: 0; width: 100%; border: 1px solid #514565; border-radius: 0; background: #0d0b14; color: #ede5fa; font: 13px/1.4 Arial, sans-serif; padding: 9px; }
+.mic-fields .mic-check { display: flex; align-items: center; gap: 8px; }
+.mic-form .mic-tools, .mic-history .mic-tools { padding: 6px 0 0; }
+.mic-tabs { display: flex; flex-wrap: wrap; gap: 6px; }
+.mic-records { padding: 0; list-style: none; color: var(--mic-quiet); font-size: 12px; line-height: 1.55; }
+.mic-records li { padding: 10px 0; border-bottom: 1px solid var(--mic-line); overflow-wrap: anywhere; }
+.mic-records b { color: #e3d9f4; font-weight: 600; }
+.mic-study .mic-heading { align-items: center; }
+.mic-candidates, .mic-context { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 16px; }
+.mic-candidates article, .mic-context article { border: 1px solid var(--mic-line); padding: 21px; background: var(--mic-surface); }
+.mic-candidates p, .mic-context p { color: var(--mic-quiet); line-height: 1.65; font-size: 14px; }
+.mic-context { margin-top: 20px; }
+@media (max-width: 760px) {
+  .mic-instrument, .mic-ledger, .mic-candidates, .mic-context { grid-template-columns: minmax(0,1fr); }
+  .mic-camera { border-right: 0; border-bottom: 1px solid var(--mic-line); }
+  .mic-image { min-height: 0; }
+  .mic-heading { align-items: start; }
+}
+@media (max-width: 380px) {
+  .mic-fields { grid-template-columns: minmax(0,1fr); }
+}

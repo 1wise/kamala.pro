@@ -1,0 +1,24 @@
+<!-- Timestamp: 2026-11-01 | Version: 2.1.0 | Author & Credits: https://www.alawise.es/1-s -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" role="img" aria-labelledby="title" data-pip-count="5" data-deck-style="marseille">
+<title id="title">5 · Batons</title><defs><g id="crossed-baton" stroke="#292321" stroke-width="1.2" stroke-linejoin="round"><path d="M-7-158H7L6 158H-6Z" fill="#244b69"/>
+<path d="M-7-130H7V-103H-7ZM-7-69H7V-40H-7ZM-7 0H7V29H-7ZM-7 64H7V94H-7ZM-7 129H7V151H-7Z" fill="#ad332b"/>
+<path d="M-10-158H10V-148H-10ZM-10 148H10V158H-10Z" fill="#d9a636"/>
+<path d="M-3-142V-134M-3-98V-76M-3-36V-6M-3 34V59M-3 99V122" fill="none" stroke="#f7eedb" stroke-width=".9"/>
+<path d="M-7-116L7-108M-7-54L7-46M-7 13L7 21M-7 79L7 87M-7 140L7 148" fill="none" stroke="#d9a636" stroke-width="1"/></g><pattern id="paper-grain" width="17" height="23" patternUnits="userSpaceOnUse"><path d="M3 4L5 4M12 16L13 16M7 21L8 21" stroke="#756047" stroke-width=".4" opacity=".13"/></pattern></defs>
+<rect width="300" height="450" rx="6" fill="#f7eedb"/><rect width="300" height="450" fill="url(#paper-grain)"/>
+<rect x="17" y="17" width="266" height="416" rx="3" fill="none" stroke="#292321" stroke-width="1"/>
+<rect x="21" y="21" width="258" height="408" rx="2" fill="none" stroke="#bc953c" stroke-width=".7"/>
+<path d="M38 30H262M38 420H262M30 42V408M270 42V408" fill="none" stroke="#292321" stroke-width=".4"/>
+<path d="M38 34C48 35 50 31 54 29C50 42 38 42 38 34M262 34C252 35 250 31 246 29C250 42 262 42 262 34M38 416C48 415 50 419 54 421C50 408 38 408 38 416M262 416C252 415 250 419 246 421C250 408 262 408 262 416" fill="#d9a636" stroke="#292321" stroke-width=".6"/><use data-pip="1" href="#crossed-baton" transform="translate(141.0 225) rotate(-29)"/><use data-pip="1" href="#crossed-baton" transform="translate(141.0 225) rotate(29)"/><use data-pip="1" href="#crossed-baton" transform="translate(159.0 225) rotate(-29)"/><use data-pip="1" href="#crossed-baton" transform="translate(159.0 225) rotate(29)"/><use data-pip="1" href="#crossed-baton" transform="translate(150 225)"/><g transform="translate(150 61) rotate(0) scale(0.61)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g><g transform="translate(150 389) rotate(180) scale(0.61)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g><g transform="translate(50 225) rotate(-90) scale(0.48)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g><g transform="translate(250 225) rotate(90) scale(0.48)" stroke="#292321" stroke-width=".9">
+<path d="M0 0C-28-24-17-43-4-25C-4-45 15-49 14-28C29-36 37-16 14-14C34-1 26 14 7 1C3 17-12 18-9 5C-24 18-34 3-16-4C-37-6-31-24-12-15Z" fill="#3c7151"/>
+<path d="M-18-19L-1-2M7-30L1-4M20-18L4-3M20 4L5-1M-17 7L-2 1" fill="none" stroke="#f7eedb" stroke-width=".7"/>
+<path d="M0 1C-13-10-9-20 0-14C9-20 13-10 0 1Z" fill="#ad332b"/><circle cy="-9" r="2" fill="#d9a636"/></g></svg>

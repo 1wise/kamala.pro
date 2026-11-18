@@ -1,0 +1,852 @@
+{
+  "updated": "2026-11-18",
+  "version": "2.5.1",
+  "sources": {
+    "ugr": {
+      "label": "UGR · Gamella y colaboradores, 2011",
+      "url": "https://www.ugr.es/~pwlac/G27_39Juan_Gamella-y-otros.html"
+    },
+    "fsg": {
+      "label": "Fundación Secretariado Gitano · Caló",
+      "url": "https://www.gitanos.org/actualidad/prensa/glosario/"
+    }
+  },
+  "entries": [
+    {
+      "term": "diquelar",
+      "es": "ver, mirar",
+      "category": "Observación y comunicación",
+      "source": "fsg",
+      "entry": 50,
+      "variants": [
+        "dicar",
+        "endicar"
+      ],
+      "note": ""
+    },
+    {
+      "term": "junar",
+      "es": "oír, escuchar",
+      "category": "Observación y comunicación",
+      "source": "ugr",
+      "entry": 52,
+      "variants": [],
+      "note": "La fuente también registra usos relacionados con ver."
+    },
+    {
+      "term": "naquerar",
+      "es": "hablar",
+      "category": "Observación y comunicación",
+      "source": "fsg",
+      "entry": 53,
+      "variants": [
+        "baquerar",
+        "alaquerar"
+      ],
+      "note": ""
+    },
+    {
+      "term": "penar",
+      "es": "decir",
+      "category": "Observación y comunicación",
+      "source": "ugr",
+      "entry": 54,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "chanelar",
+      "es": "saber",
+      "category": "Observación y comunicación",
+      "source": "fsg",
+      "entry": 267,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "pincharar",
+      "es": "conocer",
+      "category": "Observación y comunicación",
+      "source": "ugr",
+      "entry": 266,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "chipí",
+      "es": "lengua",
+      "category": "Observación y comunicación",
+      "source": "ugr",
+      "entry": 34,
+      "variants": [
+        "chibé",
+        "chibél"
+      ],
+      "note": ""
+    },
+    {
+      "term": "alao",
+      "es": "nombre",
+      "category": "Observación y comunicación",
+      "source": "ugr",
+      "entry": 152,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "querelar",
+      "es": "hacer",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 261,
+      "variants": [
+        "querar"
+      ],
+      "note": ""
+    },
+    {
+      "term": "garabar",
+      "es": "guardar",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 273,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "terelar",
+      "es": "tener",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 260,
+      "variants": [
+        "tenelar",
+        "tubelar"
+      ],
+      "note": ""
+    },
+    {
+      "term": "sinar",
+      "es": "ser",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 255,
+      "variants": [
+        "sinelar"
+      ],
+      "note": ""
+    },
+    {
+      "term": "estiñelar",
+      "es": "estar",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 259,
+      "variants": [
+        "estubelar"
+      ],
+      "note": ""
+    },
+    {
+      "term": "abiyar",
+      "es": "venir",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 256,
+      "variants": [
+        "biyelar"
+      ],
+      "note": ""
+    },
+    {
+      "term": "najarse",
+      "es": "irse",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 257,
+      "variants": [
+        "najelarse"
+      ],
+      "note": ""
+    },
+    {
+      "term": "diñar",
+      "es": "dar",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 274,
+      "variants": [
+        "endiñar"
+      ],
+      "note": ""
+    },
+    {
+      "term": "chinar",
+      "es": "cortar",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 268,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "chindar",
+      "es": "echar",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 269,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "pandar",
+      "es": "cerrar",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 276,
+      "variants": [
+        "pangar"
+      ],
+      "note": "La fuente registra otros sentidos según el contexto."
+    },
+    {
+      "term": "parrabar",
+      "es": "romper",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 277,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "camelar",
+      "es": "querer",
+      "category": "Acciones",
+      "source": "fsg",
+      "entry": 265,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "currar",
+      "es": "trabajar",
+      "category": "Acciones",
+      "source": "ugr",
+      "entry": 270,
+      "variants": [],
+      "note": "La fuente recoge además el sentido de golpear."
+    },
+    {
+      "term": "can",
+      "es": "sol",
+      "category": "Naturaleza y tiempo",
+      "source": "ugr",
+      "entry": 94,
+      "variants": [
+        "oripandó"
+      ],
+      "note": ""
+    },
+    {
+      "term": "pañí",
+      "es": "agua",
+      "category": "Naturaleza y tiempo",
+      "source": "ugr",
+      "entry": 2,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "yaqui",
+      "es": "fuego",
+      "category": "Naturaleza y tiempo",
+      "source": "ugr",
+      "entry": 95,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "arachí",
+      "es": "noche",
+      "category": "Naturaleza y tiempo",
+      "source": "ugr",
+      "entry": 88,
+      "variants": [
+        "rachi"
+      ],
+      "note": ""
+    },
+    {
+      "term": "chibés",
+      "es": "día",
+      "category": "Naturaleza y tiempo",
+      "source": "ugr",
+      "entry": 89,
+      "variants": [
+        "dibes",
+        "chibel"
+      ],
+      "note": ""
+    },
+    {
+      "term": "brejes",
+      "es": "años",
+      "category": "Naturaleza y tiempo",
+      "source": "ugr",
+      "entry": 91,
+      "variants": [
+        "berejes",
+        "bres"
+      ],
+      "note": ""
+    },
+    {
+      "term": "brijinda",
+      "es": "lluvia",
+      "category": "Naturaleza y tiempo",
+      "source": "ugr",
+      "entry": 92,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "brijindar",
+      "es": "llover",
+      "category": "Naturaleza y tiempo",
+      "source": "ugr",
+      "entry": 93,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "jil",
+      "es": "frío",
+      "category": "Naturaleza y tiempo",
+      "source": "ugr",
+      "entry": 90,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "baste",
+      "es": "mano",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 26,
+      "variants": [
+        "basti",
+        "embastis"
+      ],
+      "note": ""
+    },
+    {
+      "term": "junaoras",
+      "es": "orejas",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 27,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "sacáis",
+      "es": "ojos",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 28,
+      "variants": [
+        "acais"
+      ],
+      "note": ""
+    },
+    {
+      "term": "nacles",
+      "es": "nariz",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 29,
+      "variants": [
+        "nacri"
+      ],
+      "note": ""
+    },
+    {
+      "term": "jeró",
+      "es": "cara",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 30,
+      "variants": [],
+      "note": "También se documenta con el sentido de cabeza."
+    },
+    {
+      "term": "pinrel",
+      "es": "pie",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 31,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "muy",
+      "es": "boca",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 33,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "danes",
+      "es": "dientes",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 36,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "ñay",
+      "es": "uña",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 37,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "cocales",
+      "es": "huesos",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 39,
+      "variants": [
+        "jocales"
+      ],
+      "note": ""
+    },
+    {
+      "term": "drupo",
+      "es": "cuerpo",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 40,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "garlochí",
+      "es": "corazón",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 48,
+      "variants": [
+        "carlochí"
+      ],
+      "note": ""
+    },
+    {
+      "term": "arate",
+      "es": "sangre",
+      "category": "Cuerpo y sentidos",
+      "source": "ugr",
+      "entry": 49,
+      "variants": [
+        "rati",
+        "arati"
+      ],
+      "note": ""
+    },
+    {
+      "term": "cachás",
+      "es": "tijeras",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 103,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "janró",
+      "es": "cuchillo",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 104,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "jalaora",
+      "es": "cuchara",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 105,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "perí",
+      "es": "olla",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 106,
+      "variants": [
+        "pirí"
+      ],
+      "note": ""
+    },
+    {
+      "term": "dutí",
+      "es": "candil",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 107,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "dicló",
+      "es": "pañuelo",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 110,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "ram",
+      "es": "vara",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 112,
+      "variants": [
+        "anrá"
+      ],
+      "note": ""
+    },
+    {
+      "term": "cornicha",
+      "es": "cesta",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 113,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "pajató",
+      "es": "reloj",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 115,
+      "variants": [
+        "pusató"
+      ],
+      "note": ""
+    },
+    {
+      "term": "sufre",
+      "es": "aguja",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 119,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "bajañí",
+      "es": "guitarra",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 121,
+      "variants": [
+        "sonanta"
+      ],
+      "note": ""
+    },
+    {
+      "term": "buchís",
+      "es": "cosas",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 125,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "durí",
+      "es": "cuerda",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 126,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "lises",
+      "es": "naipes",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 129,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "engagallo",
+      "es": "cencerro",
+      "category": "Objetos y herramientas",
+      "source": "ugr",
+      "entry": 131,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "quer",
+      "es": "casa",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 281,
+      "variants": [
+        "quel"
+      ],
+      "note": ""
+    },
+    {
+      "term": "burdá",
+      "es": "puerta",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 282,
+      "variants": [
+        "burda"
+      ],
+      "note": ""
+    },
+    {
+      "term": "olicha",
+      "es": "calle",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 284,
+      "variants": [
+        "oliche"
+      ],
+      "note": ""
+    },
+    {
+      "term": "drom",
+      "es": "camino",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 286,
+      "variants": [
+        "dron"
+      ],
+      "note": ""
+    },
+    {
+      "term": "gao",
+      "es": "pueblo",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 288,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "perlicha",
+      "es": "ventana",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 290,
+      "variants": [
+        "perlacha"
+      ],
+      "note": ""
+    },
+    {
+      "term": "baró",
+      "es": "grande",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 229,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "chinorró",
+      "es": "pequeño",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 230,
+      "variants": [
+        "chinorreta"
+      ],
+      "note": ""
+    },
+    {
+      "term": "lachó",
+      "es": "bueno",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 231,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "jucal",
+      "es": "bonito",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 235,
+      "variants": [
+        "juncal"
+      ],
+      "note": ""
+    },
+    {
+      "term": "acobá",
+      "es": "aquí",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 237,
+      "variants": [
+        "acoy"
+      ],
+      "note": ""
+    },
+    {
+      "term": "ayité",
+      "es": "allí",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 238,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "flemicha",
+      "es": "lentamente",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 240,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "chachipén",
+      "es": "verdad",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 241,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "nasti",
+      "es": "no",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 244,
+      "variants": [
+        "nastis"
+      ],
+      "note": ""
+    },
+    {
+      "term": "unga",
+      "es": "sí",
+      "category": "Espacio y descripción",
+      "source": "ugr",
+      "entry": 242,
+      "variants": [
+        "uba"
+      ],
+      "note": ""
+    },
+    {
+      "term": "bají",
+      "es": "suerte",
+      "category": "Símbolos e intercambio",
+      "source": "ugr",
+      "entry": 200,
+      "variants": [],
+      "note": "El sentido depende del contexto; no equivale a una predicción validada."
+    },
+    {
+      "term": "parné",
+      "es": "dinero",
+      "category": "Símbolos e intercambio",
+      "source": "ugr",
+      "entry": 140,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "chuquela",
+      "es": "moneda",
+      "category": "Símbolos e intercambio",
+      "source": "ugr",
+      "entry": 138,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "sonacay",
+      "es": "oro",
+      "category": "Símbolos e intercambio",
+      "source": "ugr",
+      "entry": 141,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "laya",
+      "es": "plata",
+      "category": "Símbolos e intercambio",
+      "source": "ugr",
+      "entry": 142,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "chirricló",
+      "es": "ave",
+      "category": "Animales",
+      "source": "ugr",
+      "entry": 75,
+      "variants": [],
+      "note": "También se documenta como pollo."
+    },
+    {
+      "term": "chuquel",
+      "es": "perro",
+      "category": "Animales",
+      "source": "ugr",
+      "entry": 83,
+      "variants": [],
+      "note": ""
+    },
+    {
+      "term": "gra",
+      "es": "caballo",
+      "category": "Animales",
+      "source": "ugr",
+      "entry": 79,
+      "variants": [
+        "grasti"
+      ],
+      "note": ""
+    },
+    {
+      "term": "parniás",
+      "es": "palomas",
+      "category": "Animales",
+      "source": "ugr",
+      "entry": 87,
+      "variants": [],
+      "note": ""
+    }
+  ]
+}

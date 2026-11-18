@@ -1,0 +1,790 @@
+{
+  "timestamp": "2026-11-01",
+  "release": "2.0.6",
+  "author_credits": "https://www.alawise.es/1-s",
+  "title": "Kamala · Tarot de Marseille",
+  "method": "Original Marseille-inspired illustrations made with the built-in image generator and precise ornamental SVG pip designs.",
+  "cards": [
+    {
+      "id": "m-0",
+      "name": "Le Mat",
+      "rank": "—",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-0.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A wandering jester in a red, blue and yellow tunic, walking toward the right with a wooden walking staff and a small bundled bag over his shoulder. A small dog playfully tugs at the back of his leggings. Full body, simple grassy ground, open ivory sky.",
+      "alt": "Le Mat — A wandering jester in a red, blue and yellow tunic, walking toward the right with a wooden walking staff and a small bundled bag over his shoulder. A small dog playfully tugs at the back of his leggings. Full body, simple grassy ground, open ivory sky."
+    },
+    {
+      "id": "m-1",
+      "name": "Le Bateleur",
+      "rank": "I",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-1.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A full-body young magician with a broad lemniscate-shaped hat behind a small wooden table. A raised hand holds a slim wand, the other a coin; a goblet, knife, pouch and coins are on the table.",
+      "alt": "Le Bateleur — A full-body young magician with a broad lemniscate-shaped hat behind a small wooden table. A raised hand holds a slim wand, the other a coin; a goblet, knife, pouch and coins are on the table."
+    },
+    {
+      "id": "m-2",
+      "name": "La Papesse",
+      "rank": "II",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-2.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A solemn seated woman wearing a white veil and a tall triple papal tiara, in blue and red robes. An open book rests across her lap, both hands on the book. A simple hanging curtain behind her. A frontal full seated figure.",
+      "alt": "La Papesse — A solemn seated woman wearing a white veil and a tall triple papal tiara, in blue and red robes. An open book rests across her lap, both hands on the book. A simple hanging curtain behind her. A frontal full seated figure."
+    },
+    {
+      "id": "m-3",
+      "name": "L’Imperatrice",
+      "rank": "III",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-3.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A crowned empress seated on a golden throne, an eagle-emblazoned shield held at her side, a long scepter topped by a small orb in her other hand. Red and indigo robes, dignified frontal full-body composition.",
+      "alt": "L’Imperatrice — A crowned empress seated on a golden throne, an eagle-emblazoned shield held at her side, a long scepter topped by a small orb in her other hand. Red and indigo robes, dignified frontal full-body composition."
+    },
+    {
+      "id": "m-4",
+      "name": "L’Empereur",
+      "rank": "IIII",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-4.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A bearded crowned emperor seated in profile on a stone throne, one leg crossed over the other. He holds a scepter topped with an orb; an eagle shield rests beside his throne. Red and blue mantle, golden armor details, full figure.",
+      "alt": "L’Empereur — A bearded crowned emperor seated in profile on a stone throne, one leg crossed over the other. He holds a scepter topped with an orb; an eagle shield rests beside his throne. Red and blue mantle, golden armor details, full figure."
+    },
+    {
+      "id": "m-5",
+      "name": "Le Pape",
+      "rank": "V",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-5.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A seated bearded pope in a triple tiara and red-blue ceremonial robes, one hand raised in blessing and the other holding a three-barred papal staff. Exactly two small robed acolytes are seen from behind below him. Symmetrical clear full composition.",
+      "alt": "Le Pape — A seated bearded pope in a triple tiara and red-blue ceremonial robes, one hand raised in blessing and the other holding a three-barred papal staff. Exactly two small robed acolytes are seen from behind below him. Symmetrical clear full composition."
+    },
+    {
+      "id": "m-6",
+      "name": "L’Amoureux",
+      "rank": "VI",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-6.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A young man standing between two women in long Renaissance dresses, one younger and one older, forming a compact group of three full figures. Above them a small winged Cupid aims a bow from a sunlike halo. A traditional allegorical choice scene.",
+      "alt": "L’Amoureux — A young man standing between two women in long Renaissance dresses, one younger and one older, forming a compact group of three full figures. Above them a small winged Cupid aims a bow from a sunlike halo. A traditional allegorical choice scene."
+    },
+    {
+      "id": "m-7",
+      "name": "Le Chariot",
+      "rank": "VII",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-7.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A crowned armored charioteer stands in a small front-facing chariot under a square draped canopy. Exactly two horses, one pale and one indigo, pull the chariot in subtly different directions. Wheels, golden armor, red and blue cloth, full composition.",
+      "alt": "Le Chariot — A crowned armored charioteer stands in a small front-facing chariot under a square draped canopy. Exactly two horses, one pale and one indigo, pull the chariot in subtly different directions. Wheels, golden armor, red and blue cloth, full composition."
+    },
+    {
+      "id": "m-8",
+      "name": "La Justice",
+      "rank": "VIII",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-8.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A crowned seated woman faces directly forward on a simple throne. She holds one long upright straight sword in one hand and a balanced pair of scales in the other. Red and indigo robes, calm symmetrical full seated figure.",
+      "alt": "La Justice — A crowned seated woman faces directly forward on a simple throne. She holds one long upright straight sword in one hand and a balanced pair of scales in the other. Red and indigo robes, calm symmetrical full seated figure."
+    },
+    {
+      "id": "m-9",
+      "name": "L’Hermite",
+      "rank": "VIIII",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-9.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A bearded elderly hermit in a long indigo cloak with a red lining, leaning slightly forward. One hand lifts a small glowing lantern partly sheltered by his cloak; the other rests on a tall wooden walking staff. Full body on a quiet stony path.",
+      "alt": "L’Hermite — A bearded elderly hermit in a long indigo cloak with a red lining, leaning slightly forward. One hand lifts a small glowing lantern partly sheltered by his cloak; the other rests on a tall wooden walking staff. Full body on a quiet stony path."
+    },
+    {
+      "id": "m-10",
+      "name": "La Roue de Fortune",
+      "rank": "X",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-10.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A large wooden wheel on a simple frame with a crank and blue flowing water beneath. Three fanciful medieval animals occupy it: one ascends, one descends, and a crowned sphinxlike creature sits at its top. Graphic, balanced, clearly readable wheel composition.",
+      "alt": "La Roue de Fortune — A large wooden wheel on a simple frame with a crank and blue flowing water beneath. Three fanciful medieval animals occupy it: one ascends, one descends, and a crowned sphinxlike creature sits at its top. Graphic, balanced, clearly readable wheel composition."
+    },
+    {
+      "id": "m-11",
+      "name": "La Force",
+      "rank": "XI",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-11.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A calm woman in a long red and blue dress and broad gently looped hat stands beside a golden lion. Her two hands gently hold the lion's open jaws. Show her full body and the entire lion; composed allegorical strength, no violence or injury.",
+      "alt": "La Force — A calm woman in a long red and blue dress and broad gently looped hat stands beside a golden lion. Her two hands gently hold the lion's open jaws. Show her full body and the entire lion; composed allegorical strength, no violence or injury."
+    },
+    {
+      "id": "m-12",
+      "name": "Le Pendu",
+      "rank": "XII",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-12.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A serene young man hangs upside down by one ankle from a horizontal wooden beam supported by two living trees. The free leg bends across the hanging leg and his hands rest behind his back. Red-blue clothing, no injury, no distress, full balanced composition.",
+      "alt": "Le Pendu — A serene young man hangs upside down by one ankle from a horizontal wooden beam supported by two living trees. The free leg bends across the hanging leg and his hands rest behind his back. Red-blue clothing, no injury, no distress, full balanced composition."
+    },
+    {
+      "id": "m-13",
+      "name": "Arcane XIII",
+      "rank": "XIII",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-13.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A stylized ivory skeleton with a curved red-handled scythe clears dry vegetation in a dark furrowed field. Small fresh green shoots rise from the earth. A symbolic allegory of transformation in traditional woodcut form; no blood, no wounds, no dismembered people.",
+      "alt": "Arcane XIII — A stylized ivory skeleton with a curved red-handled scythe clears dry vegetation in a dark furrowed field. Small fresh green shoots rise from the earth. A symbolic allegory of transformation in traditional woodcut form; no blood, no wounds, no dismembered people."
+    },
+    {
+      "id": "m-14",
+      "name": "Temperance",
+      "rank": "XIIII",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-14.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A serene winged angel in a long red and indigo gown stands among small green plants, pouring a thin uninterrupted stream of water between two elegant earthenware jugs, one held higher and one lower. Complete figure and both wings visible.",
+      "alt": "Temperance — A serene winged angel in a long red and indigo gown stands among small green plants, pouring a thin uninterrupted stream of water between two elegant earthenware jugs, one held higher and one lower. Complete figure and both wings visible."
+    },
+    {
+      "id": "m-15",
+      "name": "Le Diable",
+      "rank": "XV",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-15.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A fanciful androgynous horned winged medieval creature stands on a small pedestal, one hand raised and the other holding a torch. Two small horned imps in short cloth garments stand below at either side of the pedestal. Allegorical, nonsexual, theatrical, no violence.",
+      "alt": "Le Diable — A fanciful androgynous horned winged medieval creature stands on a small pedestal, one hand raised and the other holding a torch. Two small horned imps in short cloth garments stand below at either side of the pedestal. Allegorical, nonsexual, theatrical, no violence."
+    },
+    {
+      "id": "m-16",
+      "name": "La Maison Dieu",
+      "rank": "XVI",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-16.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A tall pale stone tower with a small arched doorway and a crownlike roof being lifted by a vivid diagonal bolt of flame from the sky. Two small clothed figures tumble beside it with no injury shown. Many small red, blue and gold round sparks float around the tower.",
+      "alt": "La Maison Dieu — A tall pale stone tower with a small arched doorway and a crownlike roof being lifted by a vivid diagonal bolt of flame from the sky. Two small clothed figures tumble beside it with no injury shown. Many small red, blue and gold round sparks float around the tower."
+    },
+    {
+      "id": "m-17",
+      "name": "L’Etoile",
+      "rank": "XVII",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-17.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: An adult allegorical woman wearing a fully opaque long ivory gown with an indigo sash, both shoulders and torso completely covered, kneels beside a stream and pours water from two earthenware jugs, one into the stream and one onto the earth. One large golden eight-pointed star and exactly seven smaller stars shine above. Two green shrubs and a small bird in the background. A serene, fully clothed adult figure in a complete traditional woodcut-inspired composition.",
+      "alt": "L’Etoile — An adult allegorical woman wearing a fully opaque long ivory gown with an indigo sash, both shoulders and torso completely covered, kneels beside a stream and pours water from two earthenware jugs, one into the stream and one onto the earth. One large golden eight-pointed star and exactly seven smaller stars shine above. Two green shrubs and a small bird in the background. A serene, fully clothed adult figure in a complete traditional woodcut-inspired composition.",
+      "edit_prompt": "Edit only the attached completed Star illustration. Preserve the fully clothed adult woman, opaque ivory-and-indigo gown, both jugs, water, bird, plants, all existing stars, paper, colors, framing and woodcut linework exactly. The image currently has one large star and six small stars. Add precisely ONE matching small golden eight-pointed star in the open ivory sky on the right side, below the existing right-hand stars and just above the bird. The final total must be ONE large star plus SEVEN small stars. Do not add any words or numerals and do not otherwise change the image."
+    },
+    {
+      "id": "m-18",
+      "name": "La Lune",
+      "rank": "XVIII",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-18.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A large personified crescent moon with a calm human face and radiating red and blue rays above two distant stone towers. Below, two dogs face the moon, one golden and one blue. In the foreground a red crayfish emerges from a small blue pool. Symmetrical mysterious night allegory.",
+      "alt": "La Lune — A large personified crescent moon with a calm human face and radiating red and blue rays above two distant stone towers. Below, two dogs face the moon, one golden and one blue. In the foreground a red crayfish emerges from a small blue pool. Symmetrical mysterious night allegory."
+    },
+    {
+      "id": "m-19",
+      "name": "Le Soleil",
+      "rank": "XVIIII",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-19.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A large radiant golden sun with a serene human face and red-blue rays fills the upper sky. Exactly two young companions in simple short red and blue tunics stand facing one another before a low ochre brick wall, one hand reaching toward the other. Small plants below, warm joyful full composition.",
+      "alt": "Le Soleil — A large radiant golden sun with a serene human face and red-blue rays fills the upper sky. Exactly two young companions in simple short red and blue tunics stand facing one another before a low ochre brick wall, one hand reaching toward the other. Small plants below, warm joyful full composition."
+    },
+    {
+      "id": "m-20",
+      "name": "Le Jugement",
+      "rank": "XX",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-20.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: A winged angel emerging from a radiant cloud in the upper half blows a long golden trumpet with a small white banner bearing a red cross. Below, exactly three human figures in simple ivory shrouds rise around an open rectangular tomb and look upward. Solemn resurrection allegory, no injury.",
+      "alt": "Le Jugement — A winged angel emerging from a radiant cloud in the upper half blows a long golden trumpet with a small white banner bearing a red cross. Below, exactly three human figures in simple ivory shrouds rise around an open rectangular tomb and look upward. Solemn resurrection allegory, no injury."
+    },
+    {
+      "id": "m-21",
+      "name": "Le Monde",
+      "rank": "XXI",
+      "suit": "Major arcana",
+      "kind": "illustration",
+      "art": "/assets/tarot/m-21.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: An adult feminine allegorical dancer wearing a fully opaque long ivory gown with broad red and indigo ribbons, both shoulders and torso completely covered, dances within a large oval green laurel wreath while holding a slim wand. Four symbolic creatures fill the corners: a winged robed human, an eagle, a lion and a bull. Balanced complete composition, all four creatures clearly visible, original Marseille-inspired allegory.",
+      "alt": "Le Monde — An adult feminine allegorical dancer wearing a fully opaque long ivory gown with broad red and indigo ribbons, both shoulders and torso completely covered, dances within a large oval green laurel wreath while holding a slim wand. Four symbolic creatures fill the corners: a winged robed human, an eagle, a lion and a bull. Balanced complete composition, all four creatures clearly visible, original Marseille-inspired allegory."
+    },
+    {
+      "id": "marseille-0-As",
+      "name": "As · Deniers",
+      "rank": "As",
+      "suit": "Deniers",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-0-as.svg",
+      "count": 1,
+      "alt": "As · Deniers — ornamental pip card."
+    },
+    {
+      "id": "marseille-0-2",
+      "name": "2 · Deniers",
+      "rank": "2",
+      "suit": "Deniers",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-0-2.svg",
+      "count": 2,
+      "alt": "2 · Deniers — ornamental pip card."
+    },
+    {
+      "id": "marseille-0-3",
+      "name": "3 · Deniers",
+      "rank": "3",
+      "suit": "Deniers",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-0-3.svg",
+      "count": 3,
+      "alt": "3 · Deniers — ornamental pip card."
+    },
+    {
+      "id": "marseille-0-4",
+      "name": "4 · Deniers",
+      "rank": "4",
+      "suit": "Deniers",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-0-4.svg",
+      "count": 4,
+      "alt": "4 · Deniers — ornamental pip card."
+    },
+    {
+      "id": "marseille-0-5",
+      "name": "5 · Deniers",
+      "rank": "5",
+      "suit": "Deniers",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-0-5.svg",
+      "count": 5,
+      "alt": "5 · Deniers — ornamental pip card."
+    },
+    {
+      "id": "marseille-0-6",
+      "name": "6 · Deniers",
+      "rank": "6",
+      "suit": "Deniers",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-0-6.svg",
+      "count": 6,
+      "alt": "6 · Deniers — ornamental pip card."
+    },
+    {
+      "id": "marseille-0-7",
+      "name": "7 · Deniers",
+      "rank": "7",
+      "suit": "Deniers",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-0-7.svg",
+      "count": 7,
+      "alt": "7 · Deniers — ornamental pip card."
+    },
+    {
+      "id": "marseille-0-8",
+      "name": "8 · Deniers",
+      "rank": "8",
+      "suit": "Deniers",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-0-8.svg",
+      "count": 8,
+      "alt": "8 · Deniers — ornamental pip card."
+    },
+    {
+      "id": "marseille-0-9",
+      "name": "9 · Deniers",
+      "rank": "9",
+      "suit": "Deniers",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-0-9.svg",
+      "count": 9,
+      "alt": "9 · Deniers — ornamental pip card."
+    },
+    {
+      "id": "marseille-0-10",
+      "name": "10 · Deniers",
+      "rank": "10",
+      "suit": "Deniers",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-0-10.svg",
+      "count": 10,
+      "alt": "10 · Deniers — ornamental pip card."
+    },
+    {
+      "id": "marseille-0-Valet",
+      "name": "Valet · Deniers",
+      "rank": "Valet",
+      "suit": "Deniers",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-0-valet.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One youthful page standing on a grassy patch in a fitted red and indigo Renaissance tunic and a simple soft cap, holding a large round golden coin with an engraved floral center. Complete full-body single figure, clear suit emblem, no throne, no horse.",
+      "alt": "Valet · Deniers — One youthful page standing on a grassy patch in a fitted red and indigo Renaissance tunic and a simple soft cap, holding a large round golden coin with an engraved floral center. Complete full-body single figure, clear suit emblem, no throne, no horse."
+    },
+    {
+      "id": "marseille-0-Cavalier",
+      "name": "Cavalier · Deniers",
+      "rank": "Cavalier",
+      "suit": "Deniers",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-0-cavalier.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One armored knight on a complete horse seen in a lively three-quarter side profile, holding a large round golden coin with an engraved floral center. Red and indigo saddlecloth, golden details, simple grassy ground. Rider and horse fully visible, one horse and one rider.",
+      "alt": "Cavalier · Deniers — One armored knight on a complete horse seen in a lively three-quarter side profile, holding a large round golden coin with an engraved floral center. Red and indigo saddlecloth, golden details, simple grassy ground. Rider and horse fully visible, one horse and one rider."
+    },
+    {
+      "id": "marseille-0-Reine",
+      "name": "Reine · Deniers",
+      "rank": "Reine",
+      "suit": "Deniers",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-0-reine.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One mature crowned queen seated on a carved golden throne, in flowing red and indigo robes, holding a large round golden coin with an engraved floral center. Calm authoritative complete seated figure, a little green ground, no other people.",
+      "alt": "Reine · Deniers — One mature crowned queen seated on a carved golden throne, in flowing red and indigo robes, holding a large round golden coin with an engraved floral center. Calm authoritative complete seated figure, a little green ground, no other people."
+    },
+    {
+      "id": "marseille-0-Roi",
+      "name": "Roi · Deniers",
+      "rank": "Roi",
+      "suit": "Deniers",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-0-roi.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One mature bearded crowned king seated on a carved golden throne, wearing red and indigo robes with golden details, holding a large round golden coin with an engraved floral center. Strong composed complete seated figure, a little green ground, no other people.",
+      "alt": "Roi · Deniers — One mature bearded crowned king seated on a carved golden throne, wearing red and indigo robes with golden details, holding a large round golden coin with an engraved floral center. Strong composed complete seated figure, a little green ground, no other people."
+    },
+    {
+      "id": "marseille-1-As",
+      "name": "As · Coupes",
+      "rank": "As",
+      "suit": "Coupes",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-1-as.svg",
+      "count": 1,
+      "alt": "As · Coupes — ornamental pip card."
+    },
+    {
+      "id": "marseille-1-2",
+      "name": "2 · Coupes",
+      "rank": "2",
+      "suit": "Coupes",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-1-2.svg",
+      "count": 2,
+      "alt": "2 · Coupes — ornamental pip card."
+    },
+    {
+      "id": "marseille-1-3",
+      "name": "3 · Coupes",
+      "rank": "3",
+      "suit": "Coupes",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-1-3.svg",
+      "count": 3,
+      "alt": "3 · Coupes — ornamental pip card."
+    },
+    {
+      "id": "marseille-1-4",
+      "name": "4 · Coupes",
+      "rank": "4",
+      "suit": "Coupes",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-1-4.svg",
+      "count": 4,
+      "alt": "4 · Coupes — ornamental pip card."
+    },
+    {
+      "id": "marseille-1-5",
+      "name": "5 · Coupes",
+      "rank": "5",
+      "suit": "Coupes",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-1-5.svg",
+      "count": 5,
+      "alt": "5 · Coupes — ornamental pip card."
+    },
+    {
+      "id": "marseille-1-6",
+      "name": "6 · Coupes",
+      "rank": "6",
+      "suit": "Coupes",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-1-6.svg",
+      "count": 6,
+      "alt": "6 · Coupes — ornamental pip card."
+    },
+    {
+      "id": "marseille-1-7",
+      "name": "7 · Coupes",
+      "rank": "7",
+      "suit": "Coupes",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-1-7.svg",
+      "count": 7,
+      "alt": "7 · Coupes — ornamental pip card."
+    },
+    {
+      "id": "marseille-1-8",
+      "name": "8 · Coupes",
+      "rank": "8",
+      "suit": "Coupes",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-1-8.svg",
+      "count": 8,
+      "alt": "8 · Coupes — ornamental pip card."
+    },
+    {
+      "id": "marseille-1-9",
+      "name": "9 · Coupes",
+      "rank": "9",
+      "suit": "Coupes",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-1-9.svg",
+      "count": 9,
+      "alt": "9 · Coupes — ornamental pip card."
+    },
+    {
+      "id": "marseille-1-10",
+      "name": "10 · Coupes",
+      "rank": "10",
+      "suit": "Coupes",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-1-10.svg",
+      "count": 10,
+      "alt": "10 · Coupes — ornamental pip card."
+    },
+    {
+      "id": "marseille-1-Valet",
+      "name": "Valet · Coupes",
+      "rank": "Valet",
+      "suit": "Coupes",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-1-valet.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One youthful page standing on a grassy patch in a fitted red and indigo Renaissance tunic and a simple soft cap, holding an ornate golden chalice. Complete full-body single figure, clear suit emblem, no throne, no horse.",
+      "alt": "Valet · Coupes — One youthful page standing on a grassy patch in a fitted red and indigo Renaissance tunic and a simple soft cap, holding an ornate golden chalice. Complete full-body single figure, clear suit emblem, no throne, no horse."
+    },
+    {
+      "id": "marseille-1-Cavalier",
+      "name": "Cavalier · Coupes",
+      "rank": "Cavalier",
+      "suit": "Coupes",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-1-cavalier.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One armored knight on a complete horse seen in a lively three-quarter side profile, holding an ornate golden chalice. Red and indigo saddlecloth, golden details, simple grassy ground. Rider and horse fully visible, one horse and one rider.",
+      "alt": "Cavalier · Coupes — One armored knight on a complete horse seen in a lively three-quarter side profile, holding an ornate golden chalice. Red and indigo saddlecloth, golden details, simple grassy ground. Rider and horse fully visible, one horse and one rider."
+    },
+    {
+      "id": "marseille-1-Reine",
+      "name": "Reine · Coupes",
+      "rank": "Reine",
+      "suit": "Coupes",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-1-reine.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One mature crowned queen seated on a carved golden throne, in flowing red and indigo robes, holding an ornate golden chalice. Calm authoritative complete seated figure, a little green ground, no other people.",
+      "alt": "Reine · Coupes — One mature crowned queen seated on a carved golden throne, in flowing red and indigo robes, holding an ornate golden chalice. Calm authoritative complete seated figure, a little green ground, no other people."
+    },
+    {
+      "id": "marseille-1-Roi",
+      "name": "Roi · Coupes",
+      "rank": "Roi",
+      "suit": "Coupes",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-1-roi.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One mature bearded crowned king seated on a carved golden throne, wearing red and indigo robes with golden details, holding an ornate golden chalice. Strong composed complete seated figure, a little green ground, no other people.",
+      "alt": "Roi · Coupes — One mature bearded crowned king seated on a carved golden throne, wearing red and indigo robes with golden details, holding an ornate golden chalice. Strong composed complete seated figure, a little green ground, no other people."
+    },
+    {
+      "id": "marseille-2-As",
+      "name": "As · Epees",
+      "rank": "As",
+      "suit": "Epees",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-2-as.svg",
+      "count": 1,
+      "alt": "As · Epees — ornamental pip card."
+    },
+    {
+      "id": "marseille-2-2",
+      "name": "2 · Epees",
+      "rank": "2",
+      "suit": "Epees",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-2-2.svg",
+      "count": 2,
+      "alt": "2 · Epees — ornamental pip card."
+    },
+    {
+      "id": "marseille-2-3",
+      "name": "3 · Epees",
+      "rank": "3",
+      "suit": "Epees",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-2-3.svg",
+      "count": 3,
+      "alt": "3 · Epees — ornamental pip card."
+    },
+    {
+      "id": "marseille-2-4",
+      "name": "4 · Epees",
+      "rank": "4",
+      "suit": "Epees",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-2-4.svg",
+      "count": 4,
+      "alt": "4 · Epees — ornamental pip card."
+    },
+    {
+      "id": "marseille-2-5",
+      "name": "5 · Epees",
+      "rank": "5",
+      "suit": "Epees",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-2-5.svg",
+      "count": 5,
+      "alt": "5 · Epees — ornamental pip card."
+    },
+    {
+      "id": "marseille-2-6",
+      "name": "6 · Epees",
+      "rank": "6",
+      "suit": "Epees",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-2-6.svg",
+      "count": 6,
+      "alt": "6 · Epees — ornamental pip card."
+    },
+    {
+      "id": "marseille-2-7",
+      "name": "7 · Epees",
+      "rank": "7",
+      "suit": "Epees",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-2-7.svg",
+      "count": 7,
+      "alt": "7 · Epees — ornamental pip card."
+    },
+    {
+      "id": "marseille-2-8",
+      "name": "8 · Epees",
+      "rank": "8",
+      "suit": "Epees",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-2-8.svg",
+      "count": 8,
+      "alt": "8 · Epees — ornamental pip card."
+    },
+    {
+      "id": "marseille-2-9",
+      "name": "9 · Epees",
+      "rank": "9",
+      "suit": "Epees",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-2-9.svg",
+      "count": 9,
+      "alt": "9 · Epees — ornamental pip card."
+    },
+    {
+      "id": "marseille-2-10",
+      "name": "10 · Epees",
+      "rank": "10",
+      "suit": "Epees",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-2-10.svg",
+      "count": 10,
+      "alt": "10 · Epees — ornamental pip card."
+    },
+    {
+      "id": "marseille-2-Valet",
+      "name": "Valet · Epees",
+      "rank": "Valet",
+      "suit": "Epees",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-2-valet.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One youthful page standing on a grassy patch in a fitted red and indigo Renaissance tunic and a simple soft cap, holding a long straight steel sword held upright. Complete full-body single figure, clear suit emblem, no throne, no horse.",
+      "alt": "Valet · Epees — One youthful page standing on a grassy patch in a fitted red and indigo Renaissance tunic and a simple soft cap, holding a long straight steel sword held upright. Complete full-body single figure, clear suit emblem, no throne, no horse."
+    },
+    {
+      "id": "marseille-2-Cavalier",
+      "name": "Cavalier · Epees",
+      "rank": "Cavalier",
+      "suit": "Epees",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-2-cavalier.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One armored knight on a complete horse seen in a lively three-quarter side profile, holding a long straight steel sword held upright. Red and indigo saddlecloth, golden details, simple grassy ground. Rider and horse fully visible, one horse and one rider.",
+      "alt": "Cavalier · Epees — One armored knight on a complete horse seen in a lively three-quarter side profile, holding a long straight steel sword held upright. Red and indigo saddlecloth, golden details, simple grassy ground. Rider and horse fully visible, one horse and one rider."
+    },
+    {
+      "id": "marseille-2-Reine",
+      "name": "Reine · Epees",
+      "rank": "Reine",
+      "suit": "Epees",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-2-reine.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One mature crowned queen seated on a carved golden throne, in flowing red and indigo robes, holding a long straight steel sword held upright. Calm authoritative complete seated figure, a little green ground, no other people.",
+      "alt": "Reine · Epees — One mature crowned queen seated on a carved golden throne, in flowing red and indigo robes, holding a long straight steel sword held upright. Calm authoritative complete seated figure, a little green ground, no other people."
+    },
+    {
+      "id": "marseille-2-Roi",
+      "name": "Roi · Epees",
+      "rank": "Roi",
+      "suit": "Epees",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-2-roi.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One mature bearded crowned king seated on a carved golden throne, wearing red and indigo robes with golden details, holding a long straight steel sword held upright. Strong composed complete seated figure, a little green ground, no other people.",
+      "alt": "Roi · Epees — One mature bearded crowned king seated on a carved golden throne, wearing red and indigo robes with golden details, holding a long straight steel sword held upright. Strong composed complete seated figure, a little green ground, no other people."
+    },
+    {
+      "id": "marseille-3-As",
+      "name": "As · Batons",
+      "rank": "As",
+      "suit": "Batons",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-3-as.svg",
+      "count": 1,
+      "alt": "As · Batons — ornamental pip card."
+    },
+    {
+      "id": "marseille-3-2",
+      "name": "2 · Batons",
+      "rank": "2",
+      "suit": "Batons",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-3-2.svg",
+      "count": 2,
+      "alt": "2 · Batons — ornamental pip card."
+    },
+    {
+      "id": "marseille-3-3",
+      "name": "3 · Batons",
+      "rank": "3",
+      "suit": "Batons",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-3-3.svg",
+      "count": 3,
+      "alt": "3 · Batons — ornamental pip card."
+    },
+    {
+      "id": "marseille-3-4",
+      "name": "4 · Batons",
+      "rank": "4",
+      "suit": "Batons",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-3-4.svg",
+      "count": 4,
+      "alt": "4 · Batons — ornamental pip card."
+    },
+    {
+      "id": "marseille-3-5",
+      "name": "5 · Batons",
+      "rank": "5",
+      "suit": "Batons",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-3-5.svg",
+      "count": 5,
+      "alt": "5 · Batons — ornamental pip card."
+    },
+    {
+      "id": "marseille-3-6",
+      "name": "6 · Batons",
+      "rank": "6",
+      "suit": "Batons",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-3-6.svg",
+      "count": 6,
+      "alt": "6 · Batons — ornamental pip card."
+    },
+    {
+      "id": "marseille-3-7",
+      "name": "7 · Batons",
+      "rank": "7",
+      "suit": "Batons",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-3-7.svg",
+      "count": 7,
+      "alt": "7 · Batons — ornamental pip card."
+    },
+    {
+      "id": "marseille-3-8",
+      "name": "8 · Batons",
+      "rank": "8",
+      "suit": "Batons",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-3-8.svg",
+      "count": 8,
+      "alt": "8 · Batons — ornamental pip card."
+    },
+    {
+      "id": "marseille-3-9",
+      "name": "9 · Batons",
+      "rank": "9",
+      "suit": "Batons",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-3-9.svg",
+      "count": 9,
+      "alt": "9 · Batons — ornamental pip card."
+    },
+    {
+      "id": "marseille-3-10",
+      "name": "10 · Batons",
+      "rank": "10",
+      "suit": "Batons",
+      "kind": "pip",
+      "art": "/assets/tarot/marseille-3-10.svg",
+      "count": 10,
+      "alt": "10 · Batons — ornamental pip card."
+    },
+    {
+      "id": "marseille-3-Valet",
+      "name": "Valet · Batons",
+      "rank": "Valet",
+      "suit": "Batons",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-3-valet.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One youthful page standing on a grassy patch in a fitted red and indigo Renaissance tunic and a simple soft cap, holding a substantial green wooden staff with a few small buds. Complete full-body single figure, clear suit emblem, no throne, no horse.",
+      "alt": "Valet · Batons — One youthful page standing on a grassy patch in a fitted red and indigo Renaissance tunic and a simple soft cap, holding a substantial green wooden staff with a few small buds. Complete full-body single figure, clear suit emblem, no throne, no horse."
+    },
+    {
+      "id": "marseille-3-Cavalier",
+      "name": "Cavalier · Batons",
+      "rank": "Cavalier",
+      "suit": "Batons",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-3-cavalier.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One armored knight on a complete horse seen in a lively three-quarter side profile, holding a substantial green wooden staff with a few small buds. Red and indigo saddlecloth, golden details, simple grassy ground. Rider and horse fully visible, one horse and one rider.",
+      "alt": "Cavalier · Batons — One armored knight on a complete horse seen in a lively three-quarter side profile, holding a substantial green wooden staff with a few small buds. Red and indigo saddlecloth, golden details, simple grassy ground. Rider and horse fully visible, one horse and one rider."
+    },
+    {
+      "id": "marseille-3-Reine",
+      "name": "Reine · Batons",
+      "rank": "Reine",
+      "suit": "Batons",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-3-reine.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One mature crowned queen seated on a carved golden throne, in flowing red and indigo robes, holding a substantial green wooden staff with a few small buds. Calm authoritative complete seated figure, a little green ground, no other people.",
+      "alt": "Reine · Batons — One mature crowned queen seated on a carved golden throne, in flowing red and indigo robes, holding a substantial green wooden staff with a few small buds. Calm authoritative complete seated figure, a little green ground, no other people."
+    },
+    {
+      "id": "marseille-3-Roi",
+      "name": "Roi · Batons",
+      "rank": "Roi",
+      "suit": "Batons",
+      "kind": "illustration",
+      "art": "/assets/tarot/marseille-3-roi.webp",
+      "prompt": "Use case: illustration-story. Asset type: one original Tarot de Marseille illustration for the kamala.pro deck. Create ONE finished vertical 2:3 illustration. Match the reference image only in its warm ivory paper, finely cut French woodblock black linework, elegant hatch marks and flat hand-colored vermilion, muted indigo blue, golden yellow and leaf green. Draw the requested card's own subject and composition. Traditional Marseille-inspired allegorical iconography, original contemporary artwork, not a reproduction of an existing printed deck. Full composition with all principal figures visible and a little breathing room. Clear at playing-card size, with expressive faces and deliberate silhouettes. No words, no letters, no numerals, no watermark, no UI, no photographed card, no outer decorative frame, no modern objects, no photorealism, no 3D rendering. Do not repeat the magician, his table or his hat unless the requested subject calls for them. Output only the illustration.\nSubject: One mature bearded crowned king seated on a carved golden throne, wearing red and indigo robes with golden details, holding a substantial green wooden staff with a few small buds. Strong composed complete seated figure, a little green ground, no other people.",
+      "alt": "Roi · Batons — One mature bearded crowned king seated on a carved golden throne, wearing red and indigo robes with golden details, holding a substantial green wooden staff with a few small buds. Strong composed complete seated figure, a little green ground, no other people."
+    }
+  ]
+}
